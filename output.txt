@@ -1,0 +1,6446 @@
+epoch: 0:
+ value_loss: 1.5775716781616211
+ policy step 0:
+  policy loss: -0.019292414095252754
+  grad norm: 0.020493558049201964
+  train_reward: -0.1888427734375
+ policy step 1:
+  policy loss: 0.03249695419023435
+  grad norm: 0.03635493069887161
+  train_reward: -0.1888427734375
+ policy step 2:
+  policy loss: 0.02076267345498007
+  grad norm: 0.0652526244521141
+  train_reward: -0.1888427734375
+ policy step 3:
+  policy loss: 0.06031397820139927
+  grad norm: 0.10193660706281663
+  train_reward: -0.1888427734375
+ policy step 4:
+  policy loss: 0.09553967734488351
+  grad norm: 0.1184825137257576
+  train_reward: -0.1888427734375
+epoch: 1:
+ value_loss: 1.6493775129318238
+ policy step 0:
+  policy loss: 0.026669161704679326
+  grad norm: 0.018125255405902863
+  train_reward: 0.1734619140625
+ policy step 1:
+  policy loss: 0.09356855129202207
+  grad norm: 0.038167102634906774
+  train_reward: 0.1734619140625
+ policy step 2:
+  policy loss: 0.060356870976587144
+  grad norm: 0.055677974224090584
+  train_reward: 0.1734619140625
+ policy step 3:
+  policy loss: -0.011953898938372714
+  grad norm: 0.07374172061681748
+  train_reward: 0.1734619140625
+ policy step 4:
+  policy loss: -0.11818061761247614
+  grad norm: 0.09477183222770691
+  train_reward: 0.1734619140625
+epoch: 2:
+ value_loss: 1.6705342054367067
+ policy step 0:
+  policy loss: -0.05063657279436788
+  grad norm: 0.015567907691001892
+  train_reward: 0.2763671875
+ policy step 1:
+  policy loss: -0.16073849042877555
+  grad norm: 0.03171333968639374
+  train_reward: 0.2763671875
+ policy step 2:
+  policy loss: -0.20506839289640388
+  grad norm: 0.04778043627738953
+  train_reward: 0.2763671875
+ policy step 3:
+  policy loss: -0.1466106202142934
+  grad norm: 0.06587802171707154
+  train_reward: 0.2763671875
+ policy step 4:
+  policy loss: -0.14710482579345507
+  grad norm: 0.08234477937221527
+  train_reward: 0.2763671875
+epoch: 3:
+ value_loss: 1.4957631111145018
+ policy step 0:
+  policy loss: 0.006464353203773494
+  grad norm: 0.013513751327991486
+  train_reward: 0.0655517578125
+ policy step 1:
+  policy loss: -0.039022518508136275
+  grad norm: 0.0318116694688797
+  train_reward: 0.0655517578125
+ policy step 2:
+  policy loss: -0.017222237338622416
+  grad norm: 0.04612431526184082
+  train_reward: 0.0655517578125
+ policy step 3:
+  policy loss: -0.029760915786027912
+  grad norm: 0.06420603841543197
+  train_reward: 0.0655517578125
+ policy step 4:
+  policy loss: -0.04006334260726969
+  grad norm: 0.09210410863161086
+  train_reward: 0.0655517578125
+epoch: 4:
+ value_loss: 1.2261193752288817
+ policy step 0:
+  policy loss: -4.6708476535666735e-05
+  grad norm: 0.01051270291209221
+  train_reward: 0.0261383056640625
+ policy step 1:
+  policy loss: 0.0198278557092029
+  grad norm: 0.02121209427714348
+  train_reward: 0.0261383056640625
+ policy step 2:
+  policy loss: 0.04762393986360015
+  grad norm: 0.031907355040311815
+  train_reward: 0.0261383056640625
+ policy step 3:
+  policy loss: 0.07655651959454797
+  grad norm: 0.04581515118479729
+  train_reward: 0.0261383056640625
+ policy step 4:
+  policy loss: 0.11924842514272316
+  grad norm: 0.061648619920015336
+  train_reward: 0.0261383056640625
+epoch: 5:
+ value_loss: 0.9327447652816772
+ policy step 0:
+  policy loss: -0.0124574925750494
+  grad norm: 0.016158172488212587
+  train_reward: 0.156005859375
+ policy step 1:
+  policy loss: 0.029174311334888146
+  grad norm: 0.028724254667758943
+  train_reward: 0.156005859375
+ policy step 2:
+  policy loss: 0.012661348531643555
+  grad norm: 0.03890053704380989
+  train_reward: 0.156005859375
+ policy step 3:
+  policy loss: -0.020847819248835237
+  grad norm: 0.05257252529263497
+  train_reward: 0.156005859375
+ policy step 4:
+  policy loss: 0.007747086013356852
+  grad norm: 0.06578822806477547
+  train_reward: 0.156005859375
+epoch: 6:
+ value_loss: 0.8827837467193603
+ policy step 0:
+  policy loss: -0.03291550832800567
+  grad norm: 0.027982717752456664
+  train_reward: 0.089111328125
+ policy step 1:
+  policy loss: -0.06820948162736991
+  grad norm: 0.04190024137496948
+  train_reward: 0.089111328125
+ policy step 2:
+  policy loss: -0.06821227025551099
+  grad norm: 0.05377751141786575
+  train_reward: 0.089111328125
+ policy step 3:
+  policy loss: -0.09106513971152405
+  grad norm: 0.06829237937927246
+  train_reward: 0.089111328125
+ policy step 4:
+  policy loss: -0.09511004635132853
+  grad norm: 0.08996459096670151
+  train_reward: 0.089111328125
+epoch: 7:
+ value_loss: 0.9086467385292052
+ policy step 0:
+  policy loss: 0.021899045879642167
+  grad norm: 0.015129360556602477
+  train_reward: -0.0283203125
+ policy step 1:
+  policy loss: -0.02391516740123431
+  grad norm: 0.027734562754631042
+  train_reward: -0.0283203125
+ policy step 2:
+  policy loss: -0.014762433742483459
+  grad norm: 0.03829690217971802
+  train_reward: -0.0283203125
+ policy step 3:
+  policy loss: 0.05429898289342721
+  grad norm: 0.048945911973714826
+  train_reward: -0.0283203125
+ policy step 4:
+  policy loss: 0.030592269822955116
+  grad norm: 0.061781414598226544
+  train_reward: -0.0283203125
+epoch: 8:
+ value_loss: 1.1196956872940063
+ policy step 0:
+  policy loss: -0.08132952079176904
+  grad norm: 0.012223569303750991
+  train_reward: 0.1053466796875
+ policy step 1:
+  policy loss: -0.05778607130050661
+  grad norm: 0.021578157693147658
+  train_reward: 0.1053466796875
+ policy step 2:
+  policy loss: -0.07536107003688813
+  grad norm: 0.036239383369684214
+  train_reward: 0.1053466796875
+ policy step 3:
+  policy loss: -0.0840078022951881
+  grad norm: 0.04954327717423439
+  train_reward: 0.1053466796875
+ policy step 4:
+  policy loss: -0.10932778387020031
+  grad norm: 0.05842273980379104
+  train_reward: 0.1053466796875
+epoch: 9:
+ value_loss: 1.1743468523025513
+ policy step 0:
+  policy loss: -0.013003261884053548
+  grad norm: 0.013725414872169495
+  train_reward: 0.0438232421875
+ policy step 1:
+  policy loss: -0.032003149782152226
+  grad norm: 0.026812675595283508
+  train_reward: 0.0438232421875
+ policy step 2:
+  policy loss: -0.09700890688303236
+  grad norm: 0.03876348212361336
+  train_reward: 0.0438232421875
+ policy step 3:
+  policy loss: -0.13888208402398353
+  grad norm: 0.05142622664570808
+  train_reward: 0.0438232421875
+ policy step 4:
+  policy loss: -0.10905285491996133
+  grad norm: 0.06555885151028633
+  train_reward: 0.0438232421875
+epoch: 10:
+ value_loss: 1.1906265497207642
+ policy step 0:
+  policy loss: 0.012614094714323683
+  grad norm: 0.00971587523818016
+  train_reward: 0.048492431640625
+ policy step 1:
+  policy loss: -0.005712772160768515
+  grad norm: 0.0225587360560894
+  train_reward: 0.048492431640625
+ policy step 2:
+  policy loss: 0.010254939350609978
+  grad norm: 0.032571842521429056
+  train_reward: 0.048492431640625
+ policy step 3:
+  policy loss: -0.00510915907410284
+  grad norm: 0.04534713104367256
+  train_reward: 0.048492431640625
+ policy step 4:
+  policy loss: 0.0013110800491025086
+  grad norm: 0.0553151898086071
+  train_reward: 0.048492431640625
+epoch: 11:
+ value_loss: 0.9019293308258056
+ policy step 0:
+  policy loss: 0.019187166976432007
+  grad norm: 0.010200776904821397
+  train_reward: -0.09075927734375
+ policy step 1:
+  policy loss: 0.029619547103842098
+  grad norm: 0.02016512602567673
+  train_reward: -0.09075927734375
+ policy step 2:
+  policy loss: 0.07997757388899723
+  grad norm: 0.03179770484566689
+  train_reward: -0.09075927734375
+ policy step 3:
+  policy loss: 0.07850848870972792
+  grad norm: 0.05467307344079018
+  train_reward: -0.09075927734375
+ policy step 4:
+  policy loss: 0.09425926133990288
+  grad norm: 0.0646641917526722
+  train_reward: -0.09075927734375
+epoch: 12:
+ value_loss: 0.8011502861976624
+ policy step 0:
+  policy loss: 0.054802318351964155
+  grad norm: 0.009483304619789124
+  train_reward: -0.356689453125
+ policy step 1:
+  policy loss: 0.10467342445626854
+  grad norm: 0.01672937497496605
+  train_reward: -0.356689453125
+ policy step 2:
+  policy loss: 0.13073760611005125
+  grad norm: 0.02651449367403984
+  train_reward: -0.356689453125
+ policy step 3:
+  policy loss: 0.1609260720356057
+  grad norm: 0.03832503780722618
+  train_reward: -0.356689453125
+ policy step 4:
+  policy loss: 0.191902248452728
+  grad norm: 0.04896800071001053
+  train_reward: -0.356689453125
+epoch: 13:
+ value_loss: 0.8936087131500244
+ policy step 0:
+  policy loss: -0.003659111509720487
+  grad norm: 0.011539428681135177
+  train_reward: -0.3916015625
+ policy step 1:
+  policy loss: 0.01943488530814648
+  grad norm: 0.021396799385547637
+  train_reward: -0.3916015625
+ policy step 2:
+  policy loss: 0.07529466897249222
+  grad norm: 0.028590643405914305
+  train_reward: -0.3916015625
+ policy step 3:
+  policy loss: 0.09289919945100944
+  grad norm: 0.037993203103542324
+  train_reward: -0.3916015625
+ policy step 4:
+  policy loss: 0.16369511211911836
+  grad norm: 0.04795258715748786
+  train_reward: -0.3916015625
+epoch: 14:
+ value_loss: 0.9064305186271668
+ policy step 0:
+  policy loss: 0.02745514294753472
+  grad norm: 0.011915770173072816
+  train_reward: -0.331298828125
+ policy step 1:
+  policy loss: -0.012205313332378865
+  grad norm: 0.022717323899269105
+  train_reward: -0.331298828125
+ policy step 2:
+  policy loss: -0.03153257531424362
+  grad norm: 0.03550879955291748
+  train_reward: -0.331298828125
+ policy step 3:
+  policy loss: -0.07348361499607561
+  grad norm: 0.07197198867797852
+  train_reward: -0.331298828125
+ policy step 4:
+  policy loss: -0.03349147029221057
+  grad norm: 0.08471173644065857
+  train_reward: -0.331298828125
+epoch: 15:
+ value_loss: 0.8170803427696227
+ policy step 0:
+  policy loss: -0.026901683335502944
+  grad norm: 0.012978388369083405
+  train_reward: -0.287353515625
+ policy step 1:
+  policy loss: -0.02446015694489082
+  grad norm: 0.020742160826921464
+  train_reward: -0.287353515625
+ policy step 2:
+  policy loss: -0.015865810525914036
+  grad norm: 0.030852891504764557
+  train_reward: -0.287353515625
+ policy step 3:
+  policy loss: 0.004369864302376905
+  grad norm: 0.042886415123939516
+  train_reward: -0.287353515625
+ policy step 4:
+  policy loss: 0.010322495984534422
+  grad norm: 0.07854908108711242
+  train_reward: -0.287353515625
+epoch: 16:
+ value_loss: 0.7290974855422974
+ policy step 0:
+  policy loss: -0.044894618541002275
+  grad norm: 0.008079709112644195
+  train_reward: -0.1552734375
+ policy step 1:
+  policy loss: -0.06388288463155428
+  grad norm: 0.016015843302011487
+  train_reward: -0.1552734375
+ policy step 2:
+  policy loss: -0.124219711124897
+  grad norm: 0.024315289407968517
+  train_reward: -0.1552734375
+ policy step 3:
+  policy loss: -0.14998582030336058
+  grad norm: 0.033854401111602775
+  train_reward: -0.1552734375
+ policy step 4:
+  policy loss: -0.2365098836521307
+  grad norm: 0.04422591403126716
+  train_reward: -0.1552734375
+epoch: 17:
+ value_loss: 0.6635750532150269
+ policy step 0:
+  policy loss: -0.014489952474832535
+  grad norm: 0.008892741054296494
+  train_reward: 0.0021228790283203125
+ policy step 1:
+  policy loss: -0.017758728936314586
+  grad norm: 0.01835015118122101
+  train_reward: 0.0021228790283203125
+ policy step 2:
+  policy loss: -0.0370474621653557
+  grad norm: 0.02641250863671303
+  train_reward: 0.0021228790283203125
+ policy step 3:
+  policy loss: -0.0780147717644771
+  grad norm: 0.03592322617769242
+  train_reward: 0.0021228790283203125
+ policy step 4:
+  policy loss: -0.0859456308806936
+  grad norm: 0.045121306926012045
+  train_reward: 0.0021228790283203125
+epoch: 18:
+ value_loss: 0.5765958189964294
+ policy step 0:
+  policy loss: 0.006771185745795563
+  grad norm: 0.012315304577350616
+  train_reward: 0.053863525390625
+ policy step 1:
+  policy loss: 0.05717433504760265
+  grad norm: 0.023150061815977098
+  train_reward: 0.053863525390625
+ policy step 2:
+  policy loss: 0.053215361386537555
+  grad norm: 0.03126780614256859
+  train_reward: 0.053863525390625
+ policy step 3:
+  policy loss: 0.0436748502155145
+  grad norm: 0.04334534853696823
+  train_reward: 0.053863525390625
+ policy step 4:
+  policy loss: 0.04236871177951496
+  grad norm: 0.055893650650978094
+  train_reward: 0.053863525390625
+epoch: 19:
+ value_loss: 0.7594010949134827
+ policy step 0:
+  policy loss: 0.009152232793470225
+  grad norm: 0.008301663398742675
+  train_reward: 0.1021728515625
+ policy step 1:
+  policy loss: 0.016730848474738498
+  grad norm: 0.017076029628515243
+  train_reward: 0.1021728515625
+ policy step 2:
+  policy loss: -0.021756852084460352
+  grad norm: 0.025239259004592896
+  train_reward: 0.1021728515625
+ policy step 3:
+  policy loss: 0.007414587113695845
+  grad norm: 0.03327018916606903
+  train_reward: 0.1021728515625
+ policy step 4:
+  policy loss: 0.025315524164276824
+  grad norm: 0.047638809680938726
+  train_reward: 0.1021728515625
+epoch: 20:
+ value_loss: 0.8249727964401244
+ policy step 0:
+  policy loss: -0.005144368236263594
+  grad norm: 0.0061158381402492525
+  train_reward: 0.10888671875
+ policy step 1:
+  policy loss: 0.024592280574142932
+  grad norm: 0.016044988483190536
+  train_reward: 0.10888671875
+ policy step 2:
+  policy loss: 0.03833256245901187
+  grad norm: 0.025431939214468
+  train_reward: 0.10888671875
+ policy step 3:
+  policy loss: 0.04399444917216897
+  grad norm: 0.036883422732353205
+  train_reward: 0.10888671875
+ policy step 4:
+  policy loss: 0.0443590604273292
+  grad norm: 0.0483733057975769
+  train_reward: 0.10888671875
+epoch: 21:
+ value_loss: 0.7900964856147766
+ policy step 0:
+  policy loss: -0.03369059370209774
+  grad norm: 0.016377413272857667
+  train_reward: 0.181396484375
+ policy step 1:
+  policy loss: -0.053565913085670526
+  grad norm: 0.025654374063014986
+  train_reward: 0.181396484375
+ policy step 2:
+  policy loss: -0.04373740563557175
+  grad norm: 0.036095090210437775
+  train_reward: 0.181396484375
+ policy step 3:
+  policy loss: -0.0034864863730035955
+  grad norm: 0.04566025212407112
+  train_reward: 0.181396484375
+ policy step 4:
+  policy loss: -0.012891967443283667
+  grad norm: 0.05485455170273781
+  train_reward: 0.181396484375
+epoch: 22:
+ value_loss: 0.6772103071212768
+ policy step 0:
+  policy loss: -0.011104504608859618
+  grad norm: 0.010506238043308257
+  train_reward: 0.328857421875
+ policy step 1:
+  policy loss: -0.06662585786155735
+  grad norm: 0.023547136783599855
+  train_reward: 0.328857421875
+ policy step 2:
+  policy loss: -0.028218034945894026
+  grad norm: 0.032335974276065826
+  train_reward: 0.328857421875
+ policy step 3:
+  policy loss: -0.026201442920137197
+  grad norm: 0.039302483201026917
+  train_reward: 0.328857421875
+ policy step 4:
+  policy loss: -0.05032367865787818
+  grad norm: 0.050412803143262866
+  train_reward: 0.328857421875
+epoch: 23:
+ value_loss: 0.6768779635429383
+ policy step 0:
+  policy loss: -0.002885678410530096
+  grad norm: 0.008100949972867966
+  train_reward: 0.71435546875
+ policy step 1:
+  policy loss: -0.0022346262509624266
+  grad norm: 0.02497088685631752
+  train_reward: 0.71435546875
+ policy step 2:
+  policy loss: 0.01960913958027958
+  grad norm: 0.031845301389694214
+  train_reward: 0.71435546875
+ policy step 3:
+  policy loss: 0.011460366814086825
+  grad norm: 0.04332083016633988
+  train_reward: 0.71435546875
+ policy step 4:
+  policy loss: 0.010933421024431773
+  grad norm: 0.053675985336303716
+  train_reward: 0.71435546875
+epoch: 24:
+ value_loss: 0.7052817225456238
+ policy step 0:
+  policy loss: -0.053739249457915625
+  grad norm: 0.007322818040847778
+  train_reward: 0.6865234375
+ policy step 1:
+  policy loss: -0.09210056314865749
+  grad norm: 0.01825273334980011
+  train_reward: 0.6865234375
+ policy step 2:
+  policy loss: -0.08826917926780879
+  grad norm: 0.026545815914869306
+  train_reward: 0.6865234375
+ policy step 3:
+  policy loss: -0.12808940703980626
+  grad norm: 0.03898983672261238
+  train_reward: 0.6865234375
+ policy step 4:
+  policy loss: -0.14980041827075186
+  grad norm: 0.04956329315900802
+  train_reward: 0.6865234375
+epoch: 25:
+ value_loss: 0.6255138874053956
+ policy step 0:
+  policy loss: 0.008791736218457425
+  grad norm: 0.006487241387367249
+  train_reward: 0.251220703125
+ policy step 1:
+  policy loss: -0.06041288057652612
+  grad norm: 0.01879008933901787
+  train_reward: 0.251220703125
+ policy step 2:
+  policy loss: -0.04706976797121267
+  grad norm: 0.026099676638841628
+  train_reward: 0.251220703125
+ policy step 3:
+  policy loss: -0.10328651571956772
+  grad norm: 0.03434621766209602
+  train_reward: 0.251220703125
+ policy step 4:
+  policy loss: -0.10208264134513836
+  grad norm: 0.044264140725135806
+  train_reward: 0.251220703125
+epoch: 26:
+ value_loss: 0.8099124193191528
+ policy step 0:
+  policy loss: -0.007765994717677431
+  grad norm: 0.00863715335726738
+  train_reward: -0.06744384765625
+ policy step 1:
+  policy loss: -0.007085918425582349
+  grad norm: 0.019181278347969056
+  train_reward: -0.06744384765625
+ policy step 2:
+  policy loss: 0.012912978193101787
+  grad norm: 0.02756382301449776
+  train_reward: -0.06744384765625
+ policy step 3:
+  policy loss: 0.04857314175460488
+  grad norm: 0.041133231669664386
+  train_reward: -0.06744384765625
+ policy step 4:
+  policy loss: 0.07695902408255885
+  grad norm: 0.05608464702963829
+  train_reward: -0.06744384765625
+epoch: 27:
+ value_loss: 0.9247921466827392
+ policy step 0:
+  policy loss: 0.09610334175328412
+  grad norm: 0.013135510683059692
+  train_reward: -0.1710205078125
+ policy step 1:
+  policy loss: 0.10148850294450919
+  grad norm: 0.025912898778915405
+  train_reward: -0.1710205078125
+ policy step 2:
+  policy loss: 0.08418984226882456
+  grad norm: 0.03807152733206749
+  train_reward: -0.1710205078125
+ policy step 3:
+  policy loss: 0.05542392840919394
+  grad norm: 0.04762670397758484
+  train_reward: -0.1710205078125
+ policy step 4:
+  policy loss: 0.11094074514694509
+  grad norm: 0.058747030794620514
+  train_reward: -0.1710205078125
+epoch: 28:
+ value_loss: 1.046480631828308
+ policy step 0:
+  policy loss: 0.0169601260839651
+  grad norm: 0.010213462263345718
+  train_reward: -0.09130859375
+ policy step 1:
+  policy loss: 0.027158449512595925
+  grad norm: 0.01611102484166622
+  train_reward: -0.09130859375
+ policy step 2:
+  policy loss: 0.04284551297314464
+  grad norm: 0.03005690835416317
+  train_reward: -0.09130859375
+ policy step 3:
+  policy loss: 0.05206114036651949
+  grad norm: 0.043948208913207054
+  train_reward: -0.09130859375
+ policy step 4:
+  policy loss: 0.09431605893187225
+  grad norm: 0.05664406828582287
+  train_reward: -0.09130859375
+epoch: 29:
+ value_loss: 0.8048543691635133
+ policy step 0:
+  policy loss: 0.0026849140723546275
+  grad norm: 0.011870341002941131
+  train_reward: 0.12274169921875
+ policy step 1:
+  policy loss: -0.011019993076721836
+  grad norm: 0.021869384497404096
+  train_reward: 0.12274169921875
+ policy step 2:
+  policy loss: -0.018603058058458077
+  grad norm: 0.032130897790193555
+  train_reward: 0.12274169921875
+ policy step 3:
+  policy loss: -0.039825646517177425
+  grad norm: 0.040818017721176145
+  train_reward: 0.12274169921875
+ policy step 4:
+  policy loss: -0.09115609483172497
+  grad norm: 0.05012235268950462
+  train_reward: 0.12274169921875
+epoch: 30:
+ value_loss: 0.8212615489959718
+ policy step 0:
+  policy loss: 0.016406105334560078
+  grad norm: 0.011751165986061097
+  train_reward: 0.173828125
+ policy step 1:
+  policy loss: 0.05067900431652863
+  grad norm: 0.020384542644023895
+  train_reward: 0.173828125
+ policy step 2:
+  policy loss: 0.07899510264396664
+  grad norm: 0.029802587628364564
+  train_reward: 0.173828125
+ policy step 3:
+  policy loss: 0.1088932290673256
+  grad norm: 0.04105457440018654
+  train_reward: 0.173828125
+ policy step 4:
+  policy loss: 0.10596386442581811
+  grad norm: 0.051417303085327146
+  train_reward: 0.173828125
+epoch: 31:
+ value_loss: 0.7893352150917055
+ policy step 0:
+  policy loss: -0.008891630296905834
+  grad norm: 0.009064777940511703
+  train_reward: 0.416259765625
+ policy step 1:
+  policy loss: -0.06827384744149943
+  grad norm: 0.020489416271448135
+  train_reward: 0.416259765625
+ policy step 2:
+  policy loss: -0.04026552139160535
+  grad norm: 0.027581646293401717
+  train_reward: 0.416259765625
+ policy step 3:
+  policy loss: -0.03470746873257062
+  grad norm: 0.03732914552092552
+  train_reward: 0.416259765625
+ policy step 4:
+  policy loss: -0.028237772593274726
+  grad norm: 0.04757162928581238
+  train_reward: 0.416259765625
+epoch: 32:
+ value_loss: 0.8011394619941712
+ policy step 0:
+  policy loss: -0.022905883689721424
+  grad norm: 0.01431092619895935
+  train_reward: 0.319580078125
+ policy step 1:
+  policy loss: 0.016594088884691396
+  grad norm: 0.021456393599510192
+  train_reward: 0.319580078125
+ policy step 2:
+  policy loss: 0.0006849485759933775
+  grad norm: 0.03140174895524979
+  train_reward: 0.319580078125
+ policy step 3:
+  policy loss: 0.016819528055687743
+  grad norm: 0.0421543687582016
+  train_reward: 0.319580078125
+ policy step 4:
+  policy loss: -0.0039273649143676025
+  grad norm: 0.05551724433898926
+  train_reward: 0.319580078125
+epoch: 33:
+ value_loss: 0.7125070095062256
+ policy step 0:
+  policy loss: -0.018939326082666717
+  grad norm: 0.008051554858684539
+  train_reward: 0.338623046875
+ policy step 1:
+  policy loss: -0.07018527816981077
+  grad norm: 0.03358980268239975
+  train_reward: 0.338623046875
+ policy step 2:
+  policy loss: -0.08483823643376427
+  grad norm: 0.04361875727772713
+  train_reward: 0.338623046875
+ policy step 3:
+  policy loss: -0.11909575161213676
+  grad norm: 0.07363799288868904
+  train_reward: 0.338623046875
+ policy step 4:
+  policy loss: -0.09954317295923829
+  grad norm: 0.08341094627976417
+  train_reward: 0.338623046875
+epoch: 34:
+ value_loss: 0.6667764425277709
+ policy step 0:
+  policy loss: 0.029672257353862124
+  grad norm: 0.007308823615312576
+  train_reward: -0.05596923828125
+ policy step 1:
+  policy loss: 0.024040451273322102
+  grad norm: 0.019346275925636293
+  train_reward: -0.05596923828125
+ policy step 2:
+  policy loss: -0.01646463746825854
+  grad norm: 0.02803066000342369
+  train_reward: -0.05596923828125
+ policy step 3:
+  policy loss: -0.006106644061704479
+  grad norm: 0.04102007821202278
+  train_reward: -0.05596923828125
+ policy step 4:
+  policy loss: 0.019703029841184615
+  grad norm: 0.048083311319351195
+  train_reward: -0.05596923828125
+epoch: 35:
+ value_loss: 0.6283529281616211
+ policy step 0:
+  policy loss: -0.034971121015648046
+  grad norm: 0.011449307203292847
+  train_reward: -0.259033203125
+ policy step 1:
+  policy loss: -0.03480444556723039
+  grad norm: 0.020710254460573195
+  train_reward: -0.259033203125
+ policy step 2:
+  policy loss: 0.031157241691835216
+  grad norm: 0.030997963249683378
+  train_reward: -0.259033203125
+ policy step 3:
+  policy loss: 0.0852555547452842
+  grad norm: 0.037778920680284496
+  train_reward: -0.259033203125
+ policy step 4:
+  policy loss: 0.1087860312235231
+  grad norm: 0.04877393022179603
+  train_reward: -0.259033203125
+epoch: 36:
+ value_loss: 0.603289258480072
+ policy step 0:
+  policy loss: 0.01456979749103387
+  grad norm: 0.008761095255613327
+  train_reward: 0.087890625
+ policy step 1:
+  policy loss: 0.030466923241813975
+  grad norm: 0.018245963752269743
+  train_reward: 0.087890625
+ policy step 2:
+  policy loss: -0.021354038144151374
+  grad norm: 0.026977213472127913
+  train_reward: 0.087890625
+ policy step 3:
+  policy loss: -0.1262754178295533
+  grad norm: 0.03935233056545258
+  train_reward: 0.087890625
+ policy step 4:
+  policy loss: -0.13088423781446182
+  grad norm: 0.0538131520152092
+  train_reward: 0.087890625
+epoch: 37:
+ value_loss: 0.8901513099670411
+ policy step 0:
+  policy loss: -0.024912631263335545
+  grad norm: 0.007919122278690339
+  train_reward: 0.5185546875
+ policy step 1:
+  policy loss: -0.09275851001342138
+  grad norm: 0.01726568564772606
+  train_reward: 0.5185546875
+ policy step 2:
+  policy loss: -0.07202750154538082
+  grad norm: 0.02812018096446991
+  train_reward: 0.5185546875
+ policy step 3:
+  policy loss: -0.14439805698348213
+  grad norm: 0.03635416403412819
+  train_reward: 0.5185546875
+ policy step 4:
+  policy loss: -0.20539374468304844
+  grad norm: 0.04443100392818451
+  train_reward: 0.5185546875
+epoch: 38:
+ value_loss: 0.9949415802955628
+ policy step 0:
+  policy loss: 0.05012049401799838
+  grad norm: 0.010075227916240692
+  train_reward: 0.3154296875
+ policy step 1:
+  policy loss: 0.10564681676526866
+  grad norm: 0.01934147924184799
+  train_reward: 0.3154296875
+ policy step 2:
+  policy loss: 0.1312529204102854
+  grad norm: 0.03297564387321472
+  train_reward: 0.3154296875
+ policy step 3:
+  policy loss: 0.20732204656427106
+  grad norm: 0.04297066628932953
+  train_reward: 0.3154296875
+ policy step 4:
+  policy loss: 0.21985491424178086
+  grad norm: 0.05072339102625847
+  train_reward: 0.3154296875
+epoch: 39:
+ value_loss: 0.960079538822174
+ policy step 0:
+  policy loss: 0.05327616768578688
+  grad norm: 0.00997796431183815
+  train_reward: 0.10247802734375
+ policy step 1:
+  policy loss: 0.03911528615280987
+  grad norm: 0.02068156450986862
+  train_reward: 0.10247802734375
+ policy step 2:
+  policy loss: 0.09789251464729509
+  grad norm: 0.03070065304636955
+  train_reward: 0.10247802734375
+ policy step 3:
+  policy loss: 0.11922226718937359
+  grad norm: 0.044270684570074076
+  train_reward: 0.10247802734375
+ policy step 4:
+  policy loss: 0.14939386916036412
+  grad norm: 0.0520744614303112
+  train_reward: 0.10247802734375
+epoch: 40:
+ value_loss: 0.7161321759223938
+ policy step 0:
+  policy loss: 0.021619126697381336
+  grad norm: 0.010345946997404099
+  train_reward: 0.1219482421875
+ policy step 1:
+  policy loss: -0.009432931015423187
+  grad norm: 0.019047366082668306
+  train_reward: 0.1219482421875
+ policy step 2:
+  policy loss: 0.007319378336736314
+  grad norm: 0.025570785999298098
+  train_reward: 0.1219482421875
+ policy step 3:
+  policy loss: 0.03488317589508369
+  grad norm: 0.03470302969217301
+  train_reward: 0.1219482421875
+ policy step 4:
+  policy loss: 0.012233664945233617
+  grad norm: 0.04248724132776261
+  train_reward: 0.1219482421875
+epoch: 41:
+ value_loss: 0.8229570508003234
+ policy step 0:
+  policy loss: -0.040874998519818
+  grad norm: 0.01067371591925621
+  train_reward: 0.3896484375
+ policy step 1:
+  policy loss: -0.09696585163474086
+  grad norm: 0.020334743708372113
+  train_reward: 0.3896484375
+ policy step 2:
+  policy loss: -0.0847553659230471
+  grad norm: 0.031514546275138854
+  train_reward: 0.3896484375
+ policy step 3:
+  policy loss: -0.055822117254138034
+  grad norm: 0.04987676441669464
+  train_reward: 0.3896484375
+ policy step 4:
+  policy loss: -0.04676923081278806
+  grad norm: 0.061473038792610166
+  train_reward: 0.3896484375
+epoch: 42:
+ value_loss: 0.8857948541641234
+ policy step 0:
+  policy loss: 0.0004968116680781056
+  grad norm: 0.01236303374171257
+  train_reward: 0.44140625
+ policy step 1:
+  policy loss: -0.05078583980600039
+  grad norm: 0.022734081745147704
+  train_reward: 0.44140625
+ policy step 2:
+  policy loss: -0.04164754301309585
+  grad norm: 0.03429406657814979
+  train_reward: 0.44140625
+ policy step 3:
+  policy loss: -0.06389022767543794
+  grad norm: 0.04271576106548309
+  train_reward: 0.44140625
+ policy step 4:
+  policy loss: -0.06587010457490883
+  grad norm: 0.05381028652191162
+  train_reward: 0.44140625
+epoch: 43:
+ value_loss: 0.8372127056121825
+ policy step 0:
+  policy loss: 0.02346182453135649
+  grad norm: 0.017716322839260102
+  train_reward: 0.040283203125
+ policy step 1:
+  policy loss: 0.01789799953500429
+  grad norm: 0.028436414152383807
+  train_reward: 0.040283203125
+ policy step 2:
+  policy loss: 0.002188487226764353
+  grad norm: 0.03671158775687218
+  train_reward: 0.040283203125
+ policy step 3:
+  policy loss: -0.017498269056280463
+  grad norm: 0.049192205816507344
+  train_reward: 0.040283203125
+ policy step 4:
+  policy loss: -0.0038797904116412082
+  grad norm: 0.05811808258295059
+  train_reward: 0.040283203125
+epoch: 44:
+ value_loss: 0.599169647693634
+ policy step 0:
+  policy loss: -0.009676722064614297
+  grad norm: 0.005237813666462898
+  train_reward: -0.11102294921875
+ policy step 1:
+  policy loss: -0.011494482805331547
+  grad norm: 0.010538822039961815
+  train_reward: -0.11102294921875
+ policy step 2:
+  policy loss: 0.015214551084985341
+  grad norm: 0.01931617148220539
+  train_reward: -0.11102294921875
+ policy step 3:
+  policy loss: 0.07530433035766086
+  grad norm: 0.029234431311488153
+  train_reward: -0.11102294921875
+ policy step 4:
+  policy loss: 0.053391684498637924
+  grad norm: 0.03855591602623463
+  train_reward: -0.11102294921875
+epoch: 45:
+ value_loss: 0.5245411038398742
+ policy step 0:
+  policy loss: 0.0029772332869470127
+  grad norm: 0.009526792168617248
+  train_reward: -0.186279296875
+ policy step 1:
+  policy loss: -0.009581435285508633
+  grad norm: 0.016226842254400253
+  train_reward: -0.186279296875
+ policy step 2:
+  policy loss: 0.022730509688456853
+  grad norm: 0.023333533108234404
+  train_reward: -0.186279296875
+ policy step 3:
+  policy loss: 0.013418376818299289
+  grad norm: 0.03199648559093475
+  train_reward: -0.186279296875
+ policy step 4:
+  policy loss: 0.05897047482430934
+  grad norm: 0.03950511440634727
+  train_reward: -0.186279296875
+epoch: 46:
+ value_loss: 0.6544451355934144
+ policy step 0:
+  policy loss: -0.04203626625239849
+  grad norm: 0.00797702744603157
+  train_reward: 0.187255859375
+ policy step 1:
+  policy loss: -0.10528577528893945
+  grad norm: 0.022574732452630995
+  train_reward: 0.187255859375
+ policy step 2:
+  policy loss: -0.08010510417322315
+  grad norm: 0.030548857152462004
+  train_reward: 0.187255859375
+ policy step 3:
+  policy loss: -0.11785476061825949
+  grad norm: 0.03833314627408981
+  train_reward: 0.187255859375
+ policy step 4:
+  policy loss: -0.16578202828144034
+  grad norm: 0.04597535654902458
+  train_reward: 0.187255859375
+epoch: 47:
+ value_loss: 0.8015303134918214
+ policy step 0:
+  policy loss: -0.022472424494723486
+  grad norm: 0.012282651662826539
+  train_reward: -0.03521728515625
+ policy step 1:
+  policy loss: 0.00011336474368968982
+  grad norm: 0.02284063920378685
+  train_reward: -0.03521728515625
+ policy step 2:
+  policy loss: -0.050808841424683726
+  grad norm: 0.038989491015672686
+  train_reward: -0.03521728515625
+ policy step 3:
+  policy loss: -0.01704896127727503
+  grad norm: 0.04877456724643708
+  train_reward: -0.03521728515625
+ policy step 4:
+  policy loss: -0.02348242123844101
+  grad norm: 0.0557388611137867
+  train_reward: -0.03521728515625
+epoch: 48:
+ value_loss: 0.7751322269439698
+ policy step 0:
+  policy loss: -0.038021559640765194
+  grad norm: 0.011938194185495377
+  train_reward: 0.0038013458251953125
+ policy step 1:
+  policy loss: -0.028817558257530143
+  grad norm: 0.0209049329161644
+  train_reward: 0.0038013458251953125
+ policy step 2:
+  policy loss: -0.02099328438440959
+  grad norm: 0.03335675746202469
+  train_reward: 0.0038013458251953125
+ policy step 3:
+  policy loss: -0.03922009693536287
+  grad norm: 0.042715702950954434
+  train_reward: 0.0038013458251953125
+ policy step 4:
+  policy loss: -0.04296840513513114
+  grad norm: 0.05461237877607345
+  train_reward: 0.0038013458251953125
+epoch: 49:
+ value_loss: 0.8344841003417969
+ policy step 0:
+  policy loss: -0.062279215827584264
+  grad norm: 0.016322582960128784
+  train_reward: 0.1976318359375
+ policy step 1:
+  policy loss: -0.10104320490111908
+  grad norm: 0.02942529022693634
+  train_reward: 0.1976318359375
+ policy step 2:
+  policy loss: -0.14048665730903542
+  grad norm: 0.03925882503390312
+  train_reward: 0.1976318359375
+ policy step 3:
+  policy loss: -0.18342167455703015
+  grad norm: 0.0570387102663517
+  train_reward: 0.1976318359375
+ policy step 4:
+  policy loss: -0.17601256302247442
+  grad norm: 0.06793566048145294
+  train_reward: 0.1976318359375
+epoch: 50:
+ value_loss: 0.7389117240905763
+ policy step 0:
+  policy loss: -0.04830545336008071
+  grad norm: 0.01299750804901123
+  train_reward: 0.0804443359375
+ policy step 1:
+  policy loss: -0.0473951177826772
+  grad norm: 0.022303447872400285
+  train_reward: 0.0804443359375
+ policy step 2:
+  policy loss: -0.08686537824881574
+  grad norm: 0.037989554554224016
+  train_reward: 0.0804443359375
+ policy step 3:
+  policy loss: -0.09532310225379964
+  grad norm: 0.04690546542406082
+  train_reward: 0.0804443359375
+ policy step 4:
+  policy loss: -0.12094189991864067
+  grad norm: 0.05548748672008515
+  train_reward: 0.0804443359375
+epoch: 51:
+ value_loss: 0.5445937812328339
+ policy step 0:
+  policy loss: -0.017528369277715682
+  grad norm: 0.007624059170484543
+  train_reward: -0.12469482421875
+ policy step 1:
+  policy loss: -0.0016899223128954534
+  grad norm: 0.015752293914556504
+  train_reward: -0.12469482421875
+ policy step 2:
+  policy loss: 0.009667145957549415
+  grad norm: 0.022578173875808717
+  train_reward: -0.12469482421875
+ policy step 3:
+  policy loss: 0.00682190240671238
+  grad norm: 0.040470027923583986
+  train_reward: -0.12469482421875
+ policy step 4:
+  policy loss: 0.006829406134784232
+  grad norm: 0.049304480850696566
+  train_reward: -0.12469482421875
+epoch: 52:
+ value_loss: 0.513596099615097
+ policy step 0:
+  policy loss: 0.0030267788718144136
+  grad norm: 0.010108149796724319
+  train_reward: -0.13427734375
+ policy step 1:
+  policy loss: -0.03985304275217155
+  grad norm: 0.01974321603775024
+  train_reward: -0.13427734375
+ policy step 2:
+  policy loss: -0.08986946631533403
+  grad norm: 0.02848977446556091
+  train_reward: -0.13427734375
+ policy step 3:
+  policy loss: -0.06618510234790542
+  grad norm: 0.033889036253094675
+  train_reward: -0.13427734375
+ policy step 4:
+  policy loss: -0.11891221470820404
+  grad norm: 0.042593136057257654
+  train_reward: -0.13427734375
+epoch: 53:
+ value_loss: 0.5393073916435241
+ policy step 0:
+  policy loss: 0.031567570939660075
+  grad norm: 0.005997798964381218
+  train_reward: -0.085205078125
+ policy step 1:
+  policy loss: 0.005374922975897789
+  grad norm: 0.013931186124682426
+  train_reward: -0.085205078125
+ policy step 2:
+  policy loss: 2.0431602994597405e-05
+  grad norm: 0.02177428938448429
+  train_reward: -0.085205078125
+ policy step 3:
+  policy loss: -0.01984327323734761
+  grad norm: 0.03057476468384266
+  train_reward: -0.085205078125
+ policy step 4:
+  policy loss: -0.05629244980712733
+  grad norm: 0.04022188745439052
+  train_reward: -0.085205078125
+epoch: 54:
+ value_loss: 0.5560988187789917
+ policy step 0:
+  policy loss: 0.046619538217782974
+  grad norm: 0.007096299529075622
+  train_reward: -0.434814453125
+ policy step 1:
+  policy loss: 0.11643114918842912
+  grad norm: 0.01635387986898422
+  train_reward: -0.434814453125
+ policy step 2:
+  policy loss: 0.17855985298131907
+  grad norm: 0.023476853221654888
+  train_reward: -0.434814453125
+ policy step 3:
+  policy loss: 0.2326596732872229
+  grad norm: 0.032861790806055065
+  train_reward: -0.434814453125
+ policy step 4:
+  policy loss: 0.2747255436765652
+  grad norm: 0.039602097123861306
+  train_reward: -0.434814453125
+epoch: 55:
+ value_loss: 0.59729083776474
+ policy step 0:
+  policy loss: 0.061156539618968955
+  grad norm: 0.008944766223430633
+  train_reward: -0.59423828125
+ policy step 1:
+  policy loss: 0.10810120683163404
+  grad norm: 0.019740640372037887
+  train_reward: -0.59423828125
+ policy step 2:
+  policy loss: 0.16242187513659392
+  grad norm: 0.0279372826218605
+  train_reward: -0.59423828125
+ policy step 3:
+  policy loss: 0.23644478445251776
+  grad norm: 0.05250401496887207
+  train_reward: -0.59423828125
+ policy step 4:
+  policy loss: 0.316300430893898
+  grad norm: 0.064168182015419
+  train_reward: -0.59423828125
+epoch: 56:
+ value_loss: 0.6706041097640991
+ policy step 0:
+  policy loss: 0.0566628451148669
+  grad norm: 0.013036298751831054
+  train_reward: -0.521484375
+ policy step 1:
+  policy loss: 0.14962011096067726
+  grad norm: 0.022888679802417752
+  train_reward: -0.521484375
+ policy step 2:
+  policy loss: 0.19264068198390305
+  grad norm: 0.03408032357692718
+  train_reward: -0.521484375
+ policy step 3:
+  policy loss: 0.2617336825001985
+  grad norm: 0.04811291545629501
+  train_reward: -0.521484375
+ policy step 4:
+  policy loss: 0.3635168123990297
+  grad norm: 0.05745674893260001
+  train_reward: -0.521484375
+epoch: 57:
+ value_loss: 0.7739935755729674
+ policy step 0:
+  policy loss: 0.04900506551687915
+  grad norm: 0.010702909529209137
+  train_reward: -0.28564453125
+ policy step 1:
+  policy loss: 0.12736071761076645
+  grad norm: 0.01722591817378998
+  train_reward: -0.28564453125
+ policy step 2:
+  policy loss: 0.2128389462518195
+  grad norm: 0.027438613027334212
+  train_reward: -0.28564453125
+ policy step 3:
+  policy loss: 0.24223163425922395
+  grad norm: 0.03476122990250587
+  train_reward: -0.28564453125
+ policy step 4:
+  policy loss: 0.29106399801870186
+  grad norm: 0.04512930288910866
+  train_reward: -0.28564453125
+epoch: 58:
+ value_loss: 0.5901792645454407
+ policy step 0:
+  policy loss: 0.07704156034936507
+  grad norm: 0.009900633245706558
+  train_reward: -0.3642578125
+ policy step 1:
+  policy loss: 0.17249034214764833
+  grad norm: 0.0200868658721447
+  train_reward: -0.3642578125
+ policy step 2:
+  policy loss: 0.22970814264068998
+  grad norm: 0.028395409137010573
+  train_reward: -0.3642578125
+ policy step 3:
+  policy loss: 0.2526507595088333
+  grad norm: 0.037741938233375544
+  train_reward: -0.3642578125
+ policy step 4:
+  policy loss: 0.2835305655840784
+  grad norm: 0.047022000700235364
+  train_reward: -0.3642578125
+epoch: 59:
+ value_loss: 0.48492915034294126
+ policy step 0:
+  policy loss: 0.06394145091374714
+  grad norm: 0.008509351313114167
+  train_reward: -0.25
+ policy step 1:
+  policy loss: 0.09174266376843053
+  grad norm: 0.01758795604109764
+  train_reward: -0.25
+ policy step 2:
+  policy loss: 0.11225908576355625
+  grad norm: 0.0267202265560627
+  train_reward: -0.25
+ policy step 3:
+  policy loss: 0.11655224342054374
+  grad norm: 0.03452376052737236
+  train_reward: -0.25
+ policy step 4:
+  policy loss: 0.11423751728143539
+  grad norm: 0.04226379990577698
+  train_reward: -0.25
+epoch: 60:
+ value_loss: 0.6593990325927734
+ policy step 0:
+  policy loss: -0.027919755317270752
+  grad norm: 0.006496747583150863
+  train_reward: -0.00247955322265625
+ policy step 1:
+  policy loss: -0.07056013823797305
+  grad norm: 0.016029265522956845
+  train_reward: -0.00247955322265625
+ policy step 2:
+  policy loss: -0.13019916731864214
+  grad norm: 0.02676645517349243
+  train_reward: -0.00247955322265625
+ policy step 3:
+  policy loss: -0.19061525526146092
+  grad norm: 0.04302308857440948
+  train_reward: -0.00247955322265625
+ policy step 4:
+  policy loss: -0.2253964413811142
+  grad norm: 0.05308403447270393
+  train_reward: -0.00247955322265625
+epoch: 61:
+ value_loss: 0.7304582953453064
+ policy step 0:
+  policy loss: -0.07677337502439815
+  grad norm: 0.0078032128512859344
+  train_reward: 0.3115234375
+ policy step 1:
+  policy loss: -0.11206340162704388
+  grad norm: 0.019873618334531783
+  train_reward: 0.3115234375
+ policy step 2:
+  policy loss: -0.16794291473925116
+  grad norm: 0.03025094047188759
+  train_reward: 0.3115234375
+ policy step 3:
+  policy loss: -0.22243411941453814
+  grad norm: 0.04478714391589165
+  train_reward: 0.3115234375
+ policy step 4:
+  policy loss: -0.24499189707761013
+  grad norm: 0.0586329497396946
+  train_reward: 0.3115234375
+epoch: 62:
+ value_loss: 0.6928083419799804
+ policy step 0:
+  policy loss: -0.03483206319312255
+  grad norm: 0.00914778932929039
+  train_reward: 0.36181640625
+ policy step 1:
+  policy loss: -0.0888463295996189
+  grad norm: 0.01696140766143799
+  train_reward: 0.36181640625
+ policy step 2:
+  policy loss: -0.1328297518193722
+  grad norm: 0.030244049429893494
+  train_reward: 0.36181640625
+ policy step 3:
+  policy loss: -0.1617866485069196
+  grad norm: 0.038334722816944125
+  train_reward: 0.36181640625
+ policy step 4:
+  policy loss: -0.21491275094449525
+  grad norm: 0.05195382237434387
+  train_reward: 0.36181640625
+epoch: 63:
+ value_loss: 0.7902336478233337
+ policy step 0:
+  policy loss: -0.0037874498715003355
+  grad norm: 0.011274155974388123
+  train_reward: 0.278076171875
+ policy step 1:
+  policy loss: -0.022319381311535835
+  grad norm: 0.02374844253063202
+  train_reward: 0.278076171875
+ policy step 2:
+  policy loss: -0.03250224106013775
+  grad norm: 0.036802686750888824
+  train_reward: 0.278076171875
+ policy step 3:
+  policy loss: -0.054817383239666624
+  grad norm: 0.049593350291252135
+  train_reward: 0.278076171875
+ policy step 4:
+  policy loss: -0.08447011550888417
+  grad norm: 0.06035099923610687
+  train_reward: 0.278076171875
+epoch: 64:
+ value_loss: 0.6548431038856506
+ policy step 0:
+  policy loss: 0.023205265092353024
+  grad norm: 0.010735886543989182
+  train_reward: 0.111083984375
+ policy step 1:
+  policy loss: 0.002216622171302636
+  grad norm: 0.0213273748755455
+  train_reward: 0.111083984375
+ policy step 2:
+  policy loss: -0.022054904140532017
+  grad norm: 0.031402680277824405
+  train_reward: 0.111083984375
+ policy step 3:
+  policy loss: -0.020634719294806318
+  grad norm: 0.04446518570184708
+  train_reward: 0.111083984375
+ policy step 4:
+  policy loss: -0.03857691207279761
+  grad norm: 0.051263834536075595
+  train_reward: 0.111083984375
+epoch: 65:
+ value_loss: 0.6743651509284974
+ policy step 0:
+  policy loss: -0.05866217017173768
+  grad norm: 0.015599037706851959
+  train_reward: 0.1912841796875
+ policy step 1:
+  policy loss: -0.06697691443065804
+  grad norm: 0.026734260469675065
+  train_reward: 0.1912841796875
+ policy step 2:
+  policy loss: -0.08895431347191333
+  grad norm: 0.03768394887447357
+  train_reward: 0.1912841796875
+ policy step 3:
+  policy loss: -0.1060997363490363
+  grad norm: 0.047206290811300275
+  train_reward: 0.1912841796875
+ policy step 4:
+  policy loss: -0.12589151055241626
+  grad norm: 0.057052648067474364
+  train_reward: 0.1912841796875
+epoch: 66:
+ value_loss: 0.7079496502876281
+ policy step 0:
+  policy loss: -0.09836863105495772
+  grad norm: 0.014190734922885894
+  train_reward: 0.27197265625
+ policy step 1:
+  policy loss: -0.17493936183551953
+  grad norm: 0.03158921301364899
+  train_reward: 0.27197265625
+ policy step 2:
+  policy loss: -0.24882794061365232
+  grad norm: 0.04766976088285446
+  train_reward: 0.27197265625
+ policy step 3:
+  policy loss: -0.2914875963237136
+  grad norm: 0.056529798358678815
+  train_reward: 0.27197265625
+ policy step 4:
+  policy loss: -0.3186693852922569
+  grad norm: 0.06508240923285484
+  train_reward: 0.27197265625
+epoch: 67:
+ value_loss: 0.7216408371925354
+ policy step 0:
+  policy loss: -0.04118331025044124
+  grad norm: 0.007662770897150039
+  train_reward: 0.343994140625
+ policy step 1:
+  policy loss: -0.08629750441759826
+  grad norm: 0.017310614138841628
+  train_reward: 0.343994140625
+ policy step 2:
+  policy loss: -0.15393981629361708
+  grad norm: 0.029870801419019696
+  train_reward: 0.343994140625
+ policy step 3:
+  policy loss: -0.15872043222188947
+  grad norm: 0.03841835930943489
+  train_reward: 0.343994140625
+ policy step 4:
+  policy loss: -0.2308738690286797
+  grad norm: 0.04945215359330177
+  train_reward: 0.343994140625
+epoch: 68:
+ value_loss: 0.8184905052185059
+ policy step 0:
+  policy loss: -0.03425822469095389
+  grad norm: 0.008054780960083007
+  train_reward: 0.39501953125
+ policy step 1:
+  policy loss: -0.036868896397451556
+  grad norm: 0.026228052377700806
+  train_reward: 0.39501953125
+ policy step 2:
+  policy loss: -0.020519906717042125
+  grad norm: 0.037459156662225726
+  train_reward: 0.39501953125
+ policy step 3:
+  policy loss: -0.08512617492427428
+  grad norm: 0.04787756875157356
+  train_reward: 0.39501953125
+ policy step 4:
+  policy loss: -0.1345964882833262
+  grad norm: 0.06377331838011742
+  train_reward: 0.39501953125
+epoch: 69:
+ value_loss: 0.69979008436203
+ policy step 0:
+  policy loss: 0.011825604240099588
+  grad norm: 0.010943326354026794
+  train_reward: 0.3759765625
+ policy step 1:
+  policy loss: 0.0403996868059039
+  grad norm: 0.0180585078895092
+  train_reward: 0.3759765625
+ policy step 2:
+  policy loss: 0.06949623154165845
+  grad norm: 0.02678159475326538
+  train_reward: 0.3759765625
+ policy step 3:
+  policy loss: 0.07825599016311269
+  grad norm: 0.03655691295862198
+  train_reward: 0.3759765625
+ policy step 4:
+  policy loss: 0.10523290623289847
+  grad norm: 0.048771383613348006
+  train_reward: 0.3759765625
+epoch: 70:
+ value_loss: 0.6925088763237
+ policy step 0:
+  policy loss: 0.034221670559297
+  grad norm: 0.008404441922903062
+  train_reward: 0.2012939453125
+ policy step 1:
+  policy loss: 0.05761722478394707
+  grad norm: 0.018244710564613343
+  train_reward: 0.2012939453125
+ policy step 2:
+  policy loss: 0.0651910333894193
+  grad norm: 0.0326263815164566
+  train_reward: 0.2012939453125
+ policy step 3:
+  policy loss: 0.14291035200779634
+  grad norm: 0.04586432576179504
+  train_reward: 0.2012939453125
+ policy step 4:
+  policy loss: 0.14048312470937763
+  grad norm: 0.056517016142606735
+  train_reward: 0.2012939453125
+epoch: 71:
+ value_loss: 0.7649978995323181
+ policy step 0:
+  policy loss: -0.01511410077412923
+  grad norm: 0.008736217767000199
+  train_reward: 0.36181640625
+ policy step 1:
+  policy loss: -0.015471839656432472
+  grad norm: 0.0183725506067276
+  train_reward: 0.36181640625
+ policy step 2:
+  policy loss: 0.0047334122161070465
+  grad norm: 0.02893471047282219
+  train_reward: 0.36181640625
+ policy step 3:
+  policy loss: -0.01855714793006579
+  grad norm: 0.03976603075861931
+  train_reward: 0.36181640625
+ policy step 4:
+  policy loss: -0.017729761529092985
+  grad norm: 0.049178596585989
+  train_reward: 0.36181640625
+epoch: 72:
+ value_loss: 0.7391424179077148
+ policy step 0:
+  policy loss: -0.001435448384533325
+  grad norm: 0.010201923549175262
+  train_reward: 0.282470703125
+ policy step 1:
+  policy loss: 0.011902132723480466
+  grad norm: 0.019481901824474335
+  train_reward: 0.282470703125
+ policy step 2:
+  policy loss: 0.019541732066621385
+  grad norm: 0.030686115473508836
+  train_reward: 0.282470703125
+ policy step 3:
+  policy loss: -0.011630642693489788
+  grad norm: 0.04818552657961846
+  train_reward: 0.282470703125
+ policy step 4:
+  policy loss: -0.04087173924005279
+  grad norm: 0.05978771299123764
+  train_reward: 0.282470703125
+epoch: 73:
+ value_loss: 0.7199417114257812
+ policy step 0:
+  policy loss: -0.037214150900642076
+  grad norm: 0.012069224566221236
+  train_reward: 0.2529296875
+ policy step 1:
+  policy loss: -0.09824388669803738
+  grad norm: 0.025988017767667772
+  train_reward: 0.2529296875
+ policy step 2:
+  policy loss: -0.07447617783521611
+  grad norm: 0.037188127636909485
+  train_reward: 0.2529296875
+ policy step 3:
+  policy loss: -0.07164165146726495
+  grad norm: 0.05137623399496079
+  train_reward: 0.2529296875
+ policy step 4:
+  policy loss: -0.04459933606364454
+  grad norm: 0.05884352028369904
+  train_reward: 0.2529296875
+epoch: 74:
+ value_loss: 0.6946088075637817
+ policy step 0:
+  policy loss: 0.007343921422337495
+  grad norm: 0.009435758739709855
+  train_reward: 0.205322265625
+ policy step 1:
+  policy loss: 0.05050706290639937
+  grad norm: 0.018011297285556796
+  train_reward: 0.205322265625
+ policy step 2:
+  policy loss: 0.034021895782401175
+  grad norm: 0.026829236000776295
+  train_reward: 0.205322265625
+ policy step 3:
+  policy loss: 0.04849498039111495
+  grad norm: 0.04024846181273461
+  train_reward: 0.205322265625
+ policy step 4:
+  policy loss: 0.04825424492980043
+  grad norm: 0.050478284806013116
+  train_reward: 0.205322265625
+epoch: 75:
+ value_loss: 0.543890368938446
+ policy step 0:
+  policy loss: 0.04062212246159712
+  grad norm: 0.008651180565357209
+  train_reward: 0.09185791015625
+ policy step 1:
+  policy loss: 0.04693014634152253
+  grad norm: 0.015318182855844499
+  train_reward: 0.09185791015625
+ policy step 2:
+  policy loss: 0.08091128795252495
+  grad norm: 0.02433873936533928
+  train_reward: 0.09185791015625
+ policy step 3:
+  policy loss: 0.0879163718859976
+  grad norm: 0.031260796636343006
+  train_reward: 0.09185791015625
+ policy step 4:
+  policy loss: 0.10853914237425978
+  grad norm: 0.03810857087373734
+  train_reward: 0.09185791015625
+epoch: 76:
+ value_loss: 0.4613197863101959
+ policy step 0:
+  policy loss: 0.0623554908670485
+  grad norm: 0.006983881443738937
+  train_reward: -0.127197265625
+ policy step 1:
+  policy loss: 0.12316282525037728
+  grad norm: 0.016017284244298935
+  train_reward: -0.127197265625
+ policy step 2:
+  policy loss: 0.19089531733964885
+  grad norm: 0.023855957388877868
+  train_reward: -0.127197265625
+ policy step 3:
+  policy loss: 0.20547083339964356
+  grad norm: 0.02871825695037842
+  train_reward: -0.127197265625
+ policy step 4:
+  policy loss: 0.22441198422263073
+  grad norm: 0.03710432797670364
+  train_reward: -0.127197265625
+epoch: 77:
+ value_loss: 0.4860365808010101
+ policy step 0:
+  policy loss: 0.006422205766042069
+  grad norm: 0.005870398506522179
+  train_reward: 0.203857421875
+ policy step 1:
+  policy loss: 0.01995438418040673
+  grad norm: 0.011228949949145316
+  train_reward: 0.203857421875
+ policy step 2:
+  policy loss: 0.00040450243589778667
+  grad norm: 0.016712738573551177
+  train_reward: 0.203857421875
+ policy step 3:
+  policy loss: 0.012192459637299181
+  grad norm: 0.02382022216916084
+  train_reward: 0.203857421875
+ policy step 4:
+  policy loss: 0.007159949202711387
+  grad norm: 0.02953855991363525
+  train_reward: 0.203857421875
+epoch: 78:
+ value_loss: 0.46171604990959164
+ policy step 0:
+  policy loss: 0.040737384557724
+  grad norm: 0.005509509891271591
+  train_reward: 0.303955078125
+ policy step 1:
+  policy loss: 0.00026762397028506565
+  grad norm: 0.012739642709493636
+  train_reward: 0.303955078125
+ policy step 2:
+  policy loss: -0.02374335168860852
+  grad norm: 0.01959063187241554
+  train_reward: 0.303955078125
+ policy step 3:
+  policy loss: -0.0012964579121520028
+  grad norm: 0.025200574472546575
+  train_reward: 0.303955078125
+ policy step 4:
+  policy loss: -0.025940248820309826
+  grad norm: 0.03139084093272686
+  train_reward: 0.303955078125
+epoch: 79:
+ value_loss: 0.5658094048500062
+ policy step 0:
+  policy loss: 0.03535502968976894
+  grad norm: 0.011398261040449142
+  train_reward: 0.054107666015625
+ policy step 1:
+  policy loss: 0.007676124060526479
+  grad norm: 0.019733157753944394
+  train_reward: 0.054107666015625
+ policy step 2:
+  policy loss: 0.028375757221753384
+  grad norm: 0.02763574570417404
+  train_reward: 0.054107666015625
+ policy step 3:
+  policy loss: 0.07246913166406253
+  grad norm: 0.03520039170980453
+  train_reward: 0.054107666015625
+ policy step 4:
+  policy loss: 0.025261286910002442
+  grad norm: 0.042582882940769194
+  train_reward: 0.054107666015625
+epoch: 80:
+ value_loss: 0.8307126879692077
+ policy step 0:
+  policy loss: 0.016979531509180863
+  grad norm: 0.010091952979564667
+  train_reward: -0.08184814453125
+ policy step 1:
+  policy loss: 0.028377939201891425
+  grad norm: 0.02196320816874504
+  train_reward: -0.08184814453125
+ policy step 2:
+  policy loss: 0.09231390710920095
+  grad norm: 0.058648630231618884
+  train_reward: -0.08184814453125
+ policy step 3:
+  policy loss: 0.06712397454927364
+  grad norm: 0.07285635098814965
+  train_reward: -0.08184814453125
+ policy step 4:
+  policy loss: 0.07653940737557906
+  grad norm: 0.08286901190876961
+  train_reward: -0.08184814453125
+epoch: 81:
+ value_loss: 0.8663451671600342
+ policy step 0:
+  policy loss: -0.0021440872301658025
+  grad norm: 0.007370589673519135
+  train_reward: 0.0205230712890625
+ policy step 1:
+  policy loss: 0.03284009136259555
+  grad norm: 0.013971556723117829
+  train_reward: 0.0205230712890625
+ policy step 2:
+  policy loss: 0.03926676736834148
+  grad norm: 0.021864442527294158
+  train_reward: 0.0205230712890625
+ policy step 3:
+  policy loss: 0.03381733212930461
+  grad norm: 0.0325588934123516
+  train_reward: 0.0205230712890625
+ policy step 4:
+  policy loss: 0.028400870552286506
+  grad norm: 0.043325923383235924
+  train_reward: 0.0205230712890625
+epoch: 82:
+ value_loss: 0.6606471419334411
+ policy step 0:
+  policy loss: -0.04794841814630975
+  grad norm: 0.009300240129232407
+  train_reward: 0.01316070556640625
+ policy step 1:
+  policy loss: -0.06362455483370771
+  grad norm: 0.016614335030317305
+  train_reward: 0.01316070556640625
+ policy step 2:
+  policy loss: -0.04924010129179805
+  grad norm: 0.02387631982564926
+  train_reward: 0.01316070556640625
+ policy step 3:
+  policy loss: -0.06785992350584517
+  grad norm: 0.034490080922842024
+  train_reward: 0.01316070556640625
+ policy step 4:
+  policy loss: -0.05776247485385588
+  grad norm: 0.0435977041721344
+  train_reward: 0.01316070556640625
+epoch: 83:
+ value_loss: 0.539628130197525
+ policy step 0:
+  policy loss: -0.006046296159426371
+  grad norm: 0.006830588728189468
+  train_reward: -0.247802734375
+ policy step 1:
+  policy loss: -0.05128459700693686
+  grad norm: 0.01475791335105896
+  train_reward: -0.247802734375
+ policy step 2:
+  policy loss: -0.04088637282450993
+  grad norm: 0.0204034510999918
+  train_reward: -0.247802734375
+ policy step 3:
+  policy loss: -0.06479618592808645
+  grad norm: 0.028098103776574138
+  train_reward: -0.247802734375
+ policy step 4:
+  policy loss: -0.1425565602257848
+  grad norm: 0.0364862997084856
+  train_reward: -0.247802734375
+epoch: 84:
+ value_loss: 0.47233628630638125
+ policy step 0:
+  policy loss: 0.003639890874425569
+  grad norm: 0.007664793729782104
+  train_reward: -0.245849609375
+ policy step 1:
+  policy loss: 0.002373126770059267
+  grad norm: 0.016146346926689148
+  train_reward: -0.245849609375
+ policy step 2:
+  policy loss: 0.03319044181456169
+  grad norm: 0.02484523504972458
+  train_reward: -0.245849609375
+ policy step 3:
+  policy loss: 0.025522918626666065
+  grad norm: 0.030723020434379578
+  train_reward: -0.245849609375
+ policy step 4:
+  policy loss: -0.0038229881475369174
+  grad norm: 0.039350598305463794
+  train_reward: -0.245849609375
+epoch: 85:
+ value_loss: 0.4190683245658874
+ policy step 0:
+  policy loss: -0.00809692827363809
+  grad norm: 0.006906995177268982
+  train_reward: -0.2369384765625
+ policy step 1:
+  policy loss: -0.025811641997036835
+  grad norm: 0.013159684091806411
+  train_reward: -0.2369384765625
+ policy step 2:
+  policy loss: 0.012397841154597704
+  grad norm: 0.01908595897257328
+  train_reward: -0.2369384765625
+ policy step 3:
+  policy loss: 0.023362649953924126
+  grad norm: 0.02476619593799114
+  train_reward: -0.2369384765625
+ policy step 4:
+  policy loss: 0.008013908479673175
+  grad norm: 0.03024058863520622
+  train_reward: -0.2369384765625
+epoch: 86:
+ value_loss: 0.6889841556549072
+ policy step 0:
+  policy loss: -0.029708047024905683
+  grad norm: 0.006987857073545456
+  train_reward: 0.0926513671875
+ policy step 1:
+  policy loss: -0.08788825826098522
+  grad norm: 0.015968794375658034
+  train_reward: 0.0926513671875
+ policy step 2:
+  policy loss: -0.09664828199893234
+  grad norm: 0.02515890672802925
+  train_reward: 0.0926513671875
+ policy step 3:
+  policy loss: -0.09975598646948733
+  grad norm: 0.03348173722624778
+  train_reward: 0.0926513671875
+ policy step 4:
+  policy loss: -0.12354228567952909
+  grad norm: 0.041080433875322335
+  train_reward: 0.0926513671875
+epoch: 87:
+ value_loss: 0.7549465298652648
+ policy step 0:
+  policy loss: -0.014930590117971102
+  grad norm: 0.00925891548395157
+  train_reward: 0.219970703125
+ policy step 1:
+  policy loss: -0.051700242484609284
+  grad norm: 0.017533082515001297
+  train_reward: 0.219970703125
+ policy step 2:
+  policy loss: -0.04971501218775908
+  grad norm: 0.02408912852406502
+  train_reward: 0.219970703125
+ policy step 3:
+  policy loss: -0.08357641153658432
+  grad norm: 0.03447643294930458
+  train_reward: 0.219970703125
+ policy step 4:
+  policy loss: -0.18382476720338073
+  grad norm: 0.04499416276812553
+  train_reward: 0.219970703125
+epoch: 88:
+ value_loss: 0.5815067768096923
+ policy step 0:
+  policy loss: -0.00793850794434547
+  grad norm: 0.005744566395878792
+  train_reward: 0.30517578125
+ policy step 1:
+  policy loss: -0.0437239107210189
+  grad norm: 0.016527007147669793
+  train_reward: 0.30517578125
+ policy step 2:
+  policy loss: -0.043247875788559514
+  grad norm: 0.022504697367548943
+  train_reward: 0.30517578125
+ policy step 3:
+  policy loss: -0.10502827034021416
+  grad norm: 0.032354379817843434
+  train_reward: 0.30517578125
+ policy step 4:
+  policy loss: -0.13254691322023668
+  grad norm: 0.04155713059008121
+  train_reward: 0.30517578125
+epoch: 89:
+ value_loss: 0.38224489688873287
+ policy step 0:
+  policy loss: -0.008401975625505051
+  grad norm: 0.004448925331234932
+  train_reward: 0.07269287109375
+ policy step 1:
+  policy loss: 0.02080891930187742
+  grad norm: 0.010096356645226479
+  train_reward: 0.07269287109375
+ policy step 2:
+  policy loss: 0.00699811378047646
+  grad norm: 0.018777262046933176
+  train_reward: 0.07269287109375
+ policy step 3:
+  policy loss: 0.028743101583677346
+  grad norm: 0.02634393908083439
+  train_reward: 0.07269287109375
+ policy step 4:
+  policy loss: 0.03710253191044711
+  grad norm: 0.031069307774305346
+  train_reward: 0.07269287109375
+epoch: 90:
+ value_loss: 0.44875878095626837
+ policy step 0:
+  policy loss: -0.004235764998399344
+  grad norm: 0.00536540374159813
+  train_reward: 0.28662109375
+ policy step 1:
+  policy loss: -0.004713741288287567
+  grad norm: 0.012666994333267213
+  train_reward: 0.28662109375
+ policy step 2:
+  policy loss: -0.01548735853478623
+  grad norm: 0.02163384109735489
+  train_reward: 0.28662109375
+ policy step 3:
+  policy loss: -0.04769666874975276
+  grad norm: 0.02752188891172409
+  train_reward: 0.28662109375
+ policy step 4:
+  policy loss: -0.06070224453578703
+  grad norm: 0.03329716995358467
+  train_reward: 0.28662109375
+epoch: 91:
+ value_loss: 0.5675152897834779
+ policy step 0:
+  policy loss: -0.003561446070671083
+  grad norm: 0.015148092806339265
+  train_reward: 0.199951171875
+ policy step 1:
+  policy loss: -0.005842613180478416
+  grad norm: 0.02241371497511864
+  train_reward: 0.199951171875
+ policy step 2:
+  policy loss: 0.06233127874632677
+  grad norm: 0.02907500490546227
+  train_reward: 0.199951171875
+ policy step 3:
+  policy loss: 0.03962978888303043
+  grad norm: 0.03577535673975945
+  train_reward: 0.199951171875
+ policy step 4:
+  policy loss: 0.031153823186953873
+  grad norm: 0.04416137412190438
+  train_reward: 0.199951171875
+epoch: 92:
+ value_loss: 0.5780417203903199
+ policy step 0:
+  policy loss: 0.04880789476446808
+  grad norm: 0.010176368057727814
+  train_reward: 0.06768798828125
+ policy step 1:
+  policy loss: 0.06566578383111239
+  grad norm: 0.017605365812778474
+  train_reward: 0.06768798828125
+ policy step 2:
+  policy loss: 0.06756409590307158
+  grad norm: 0.027794509381055835
+  train_reward: 0.06768798828125
+ policy step 3:
+  policy loss: 0.1046706476918189
+  grad norm: 0.035216557234525686
+  train_reward: 0.06768798828125
+ policy step 4:
+  policy loss: 0.11516693250450773
+  grad norm: 0.04135492444038392
+  train_reward: 0.06768798828125
+epoch: 93:
+ value_loss: 0.4859204053878784
+ policy step 0:
+  policy loss: -0.007843640570839246
+  grad norm: 0.0073455825448036196
+  train_reward: -0.04254150390625
+ policy step 1:
+  policy loss: 0.024201615092655022
+  grad norm: 0.017123202979564666
+  train_reward: -0.04254150390625
+ policy step 2:
+  policy loss: 0.02967318293328086
+  grad norm: 0.025273851305246352
+  train_reward: -0.04254150390625
+ policy step 3:
+  policy loss: 0.053545567238082487
+  grad norm: 0.03500321879982948
+  train_reward: -0.04254150390625
+ policy step 4:
+  policy loss: 0.0526812938041985
+  grad norm: 0.04377865418791771
+  train_reward: -0.04254150390625
+epoch: 94:
+ value_loss: 0.4848304212093353
+ policy step 0:
+  policy loss: 0.0350700638567408
+  grad norm: 0.006858512759208679
+  train_reward: -0.03558349609375
+ policy step 1:
+  policy loss: 0.06588930878788234
+  grad norm: 0.015497365593910217
+  train_reward: -0.03558349609375
+ policy step 2:
+  policy loss: 0.08187334844066453
+  grad norm: 0.02516164630651474
+  train_reward: -0.03558349609375
+ policy step 3:
+  policy loss: 0.08738039946959666
+  grad norm: 0.03131644874811172
+  train_reward: -0.03558349609375
+ policy step 4:
+  policy loss: 0.09550556476072722
+  grad norm: 0.03669278025627136
+  train_reward: -0.03558349609375
+epoch: 95:
+ value_loss: 0.45734474062919617
+ policy step 0:
+  policy loss: 0.03255178431669871
+  grad norm: 0.006648870557546616
+  train_reward: 0.0160369873046875
+ policy step 1:
+  policy loss: 0.06250783863166967
+  grad norm: 0.014112886041402817
+  train_reward: 0.0160369873046875
+ policy step 2:
+  policy loss: 0.10179819955180089
+  grad norm: 0.02266627848148346
+  train_reward: 0.0160369873046875
+ policy step 3:
+  policy loss: 0.11863990910351278
+  grad norm: 0.03002922460436821
+  train_reward: 0.0160369873046875
+ policy step 4:
+  policy loss: 0.12353192555407685
+  grad norm: 0.03486596085131168
+  train_reward: 0.0160369873046875
+epoch: 96:
+ value_loss: 0.5842684864997865
+ policy step 0:
+  policy loss: -0.04544513002038002
+  grad norm: 0.011443501710891724
+  train_reward: 0.04986572265625
+ policy step 1:
+  policy loss: -0.05163433026367177
+  grad norm: 0.016448092460632325
+  train_reward: 0.04986572265625
+ policy step 2:
+  policy loss: -0.047498311870731405
+  grad norm: 0.026701278239488604
+  train_reward: 0.04986572265625
+ policy step 3:
+  policy loss: -0.05883679831555734
+  grad norm: 0.03744252175092697
+  train_reward: 0.04986572265625
+ policy step 4:
+  policy loss: -0.07785648896824568
+  grad norm: 0.04681673124432564
+  train_reward: 0.04986572265625
+epoch: 97:
+ value_loss: 0.5437463998794556
+ policy step 0:
+  policy loss: -0.006099974115689596
+  grad norm: 0.007492894679307938
+  train_reward: 0.0784912109375
+ policy step 1:
+  policy loss: -0.021678194652001066
+  grad norm: 0.015029987692832947
+  train_reward: 0.0784912109375
+ policy step 2:
+  policy loss: -0.015063333945969743
+  grad norm: 0.02469906285405159
+  train_reward: 0.0784912109375
+ policy step 3:
+  policy loss: -0.05475815006842216
+  grad norm: 0.032738243043422696
+  train_reward: 0.0784912109375
+ policy step 4:
+  policy loss: -0.08230760039587041
+  grad norm: 0.04237945675849914
+  train_reward: 0.0784912109375
+epoch: 98:
+ value_loss: 0.5335922002792358
+ policy step 0:
+  policy loss: -0.0021325603127479564
+  grad norm: 0.009155523031949997
+  train_reward: 0.3251953125
+ policy step 1:
+  policy loss: -0.058579059690237044
+  grad norm: 0.0172140009701252
+  train_reward: 0.3251953125
+ policy step 2:
+  policy loss: -0.11923837844127166
+  grad norm: 0.02694773226976395
+  train_reward: 0.3251953125
+ policy step 3:
+  policy loss: -0.1589071893676495
+  grad norm: 0.036047452688217164
+  train_reward: 0.3251953125
+ policy step 4:
+  policy loss: -0.1757643334916793
+  grad norm: 0.04853434264659882
+  train_reward: 0.3251953125
+epoch: 99:
+ value_loss: 0.510253369808197
+ policy step 0:
+  policy loss: -0.007230880546073119
+  grad norm: 0.009627769887447356
+  train_reward: 0.318115234375
+ policy step 1:
+  policy loss: -0.034153005604942645
+  grad norm: 0.019508507847785947
+  train_reward: 0.318115234375
+ policy step 2:
+  policy loss: -0.06620548699672023
+  grad norm: 0.02919861078262329
+  train_reward: 0.318115234375
+ policy step 3:
+  policy loss: -0.05696889564666587
+  grad norm: 0.04759341925382614
+  train_reward: 0.318115234375
+ policy step 4:
+  policy loss: -0.05514847467614648
+  grad norm: 0.056464689970016475
+  train_reward: 0.318115234375
+epoch: 100:
+ value_loss: 0.5052748858928681
+ policy step 0:
+  policy loss: -0.018936072522774336
+  grad norm: 0.008657030761241913
+  train_reward: 0.52197265625
+ policy step 1:
+  policy loss: 0.00551394338253886
+  grad norm: 0.016182594746351243
+  train_reward: 0.52197265625
+ policy step 2:
+  policy loss: -0.024199677111270523
+  grad norm: 0.024471253901720048
+  train_reward: 0.52197265625
+ policy step 3:
+  policy loss: -0.03583193791564553
+  grad norm: 0.030480229482054713
+  train_reward: 0.52197265625
+ policy step 4:
+  policy loss: -0.039306710450910026
+  grad norm: 0.03673508130013943
+  train_reward: 0.52197265625
+epoch: 101:
+ value_loss: 0.5483735918998718
+ policy step 0:
+  policy loss: -0.01183153751383846
+  grad norm: 0.006935101002454758
+  train_reward: 0.30126953125
+ policy step 1:
+  policy loss: -0.007817173722044875
+  grad norm: 0.01464935839176178
+  train_reward: 0.30126953125
+ policy step 2:
+  policy loss: -0.038010171525335555
+  grad norm: 0.032756298780441284
+  train_reward: 0.30126953125
+ policy step 3:
+  policy loss: -0.019165959927098204
+  grad norm: 0.043595867604017256
+  train_reward: 0.30126953125
+ policy step 4:
+  policy loss: 0.025048935067995142
+  grad norm: 0.051571677625179294
+  train_reward: 0.30126953125
+epoch: 102:
+ value_loss: 0.5240182161331177
+ policy step 0:
+  policy loss: 0.06013732873058567
+  grad norm: 0.009142278134822846
+  train_reward: -0.1007080078125
+ policy step 1:
+  policy loss: 0.15578881400482106
+  grad norm: 0.01913040354847908
+  train_reward: -0.1007080078125
+ policy step 2:
+  policy loss: 0.22301697331325457
+  grad norm: 0.03210080787539482
+  train_reward: -0.1007080078125
+ policy step 3:
+  policy loss: 0.28692559498207015
+  grad norm: 0.04015117362141609
+  train_reward: -0.1007080078125
+ policy step 4:
+  policy loss: 0.34065050604597974
+  grad norm: 0.05222594663500786
+  train_reward: -0.1007080078125
+epoch: 103:
+ value_loss: 0.524963104724884
+ policy step 0:
+  policy loss: 0.05926157838354509
+  grad norm: 0.008306682109832764
+  train_reward: 0.0165252685546875
+ policy step 1:
+  policy loss: 0.07077651758833478
+  grad norm: 0.013945380970835686
+  train_reward: 0.0165252685546875
+ policy step 2:
+  policy loss: 0.10623694340853643
+  grad norm: 0.019249402359127997
+  train_reward: 0.0165252685546875
+ policy step 3:
+  policy loss: 0.15008085325825962
+  grad norm: 0.025439319014549253
+  train_reward: 0.0165252685546875
+ policy step 4:
+  policy loss: 0.17772332174548258
+  grad norm: 0.03329622372984886
+  train_reward: 0.0165252685546875
+epoch: 104:
+ value_loss: 0.5939450919628143
+ policy step 0:
+  policy loss: 0.010107557227214178
+  grad norm: 0.015469825267791748
+  train_reward: 0.49169921875
+ policy step 1:
+  policy loss: 0.00848404093024631
+  grad norm: 0.023219197988510132
+  train_reward: 0.49169921875
+ policy step 2:
+  policy loss: 0.039185783624028164
+  grad norm: 0.031217055022716524
+  train_reward: 0.49169921875
+ policy step 3:
+  policy loss: 0.06480995973882576
+  grad norm: 0.03866338953375816
+  train_reward: 0.49169921875
+ policy step 4:
+  policy loss: 0.07506327875889839
+  grad norm: 0.04663757160305977
+  train_reward: 0.49169921875
+epoch: 105:
+ value_loss: 0.8467224478721619
+ policy step 0:
+  policy loss: 0.06559829923013846
+  grad norm: 0.011237413436174393
+  train_reward: 0.20947265625
+ policy step 1:
+  policy loss: 0.12183609527225295
+  grad norm: 0.026052867621183397
+  train_reward: 0.20947265625
+ policy step 2:
+  policy loss: 0.17655800143256778
+  grad norm: 0.035508298128843305
+  train_reward: 0.20947265625
+ policy step 3:
+  policy loss: 0.24266611421480766
+  grad norm: 0.04485004916787147
+  train_reward: 0.20947265625
+ policy step 4:
+  policy loss: 0.32106834311659127
+  grad norm: 0.05190662890672683
+  train_reward: 0.20947265625
+epoch: 106:
+ value_loss: 0.6948539018630981
+ policy step 0:
+  policy loss: 0.09872149303555489
+  grad norm: 0.010811892151832581
+  train_reward: -0.0911865234375
+ policy step 1:
+  policy loss: 0.13081564232707024
+  grad norm: 0.01681494414806366
+  train_reward: -0.0911865234375
+ policy step 2:
+  policy loss: 0.19840707555413248
+  grad norm: 0.02875586748123169
+  train_reward: -0.0911865234375
+ policy step 3:
+  policy loss: 0.29499830510467295
+  grad norm: 0.04162060767412186
+  train_reward: -0.0911865234375
+ policy step 4:
+  policy loss: 0.3590783399219315
+  grad norm: 0.0541148915886879
+  train_reward: -0.0911865234375
+epoch: 107:
+ value_loss: 0.5283067166805266
+ policy step 0:
+  policy loss: -0.0010582154461493088
+  grad norm: 0.006934582442045212
+  train_reward: 0.1478271484375
+ policy step 1:
+  policy loss: 0.024993819634740552
+  grad norm: 0.01422826126217842
+  train_reward: 0.1478271484375
+ policy step 2:
+  policy loss: 0.045932395802810784
+  grad norm: 0.020266658440232274
+  train_reward: 0.1478271484375
+ policy step 3:
+  policy loss: 0.06895880345740199
+  grad norm: 0.027182644233107563
+  train_reward: 0.1478271484375
+ policy step 4:
+  policy loss: 0.054032071544982775
+  grad norm: 0.043276466056704516
+  train_reward: 0.1478271484375
+epoch: 108:
+ value_loss: 0.5322383046150208
+ policy step 0:
+  policy loss: 0.013938897413512074
+  grad norm: 0.005872584134340286
+  train_reward: 0.1456298828125
+ policy step 1:
+  policy loss: 0.026299662950138258
+  grad norm: 0.011271515116095542
+  train_reward: 0.1456298828125
+ policy step 2:
+  policy loss: 0.029901242131988217
+  grad norm: 0.021610421314835548
+  train_reward: 0.1456298828125
+ policy step 3:
+  policy loss: 0.0426445076862971
+  grad norm: 0.029349613562226297
+  train_reward: 0.1456298828125
+ policy step 4:
+  policy loss: 0.02213378474116326
+  grad norm: 0.036069662496447566
+  train_reward: 0.1456298828125
+epoch: 109:
+ value_loss: 0.5600756049156189
+ policy step 0:
+  policy loss: -0.01342092901468277
+  grad norm: 0.009347695857286453
+  train_reward: -0.0211334228515625
+ policy step 1:
+  policy loss: -0.004641659650951625
+  grad norm: 0.018530219048261642
+  train_reward: -0.0211334228515625
+ policy step 2:
+  policy loss: 0.005897281256814797
+  grad norm: 0.025335112959146498
+  train_reward: -0.0211334228515625
+ policy step 3:
+  policy loss: -0.01830341255602737
+  grad norm: 0.030559276416897773
+  train_reward: -0.0211334228515625
+ policy step 4:
+  policy loss: -0.013399105006828903
+  grad norm: 0.0361397035419941
+  train_reward: -0.0211334228515625
+epoch: 110:
+ value_loss: 0.7239160895347596
+ policy step 0:
+  policy loss: -0.014418911685546244
+  grad norm: 0.013487881422042847
+  train_reward: -0.301025390625
+ policy step 1:
+  policy loss: -0.03345351343353589
+  grad norm: 0.037247645854949954
+  train_reward: -0.301025390625
+ policy step 2:
+  policy loss: -0.030614548486967888
+  grad norm: 0.043314802646636966
+  train_reward: -0.301025390625
+ policy step 3:
+  policy loss: -0.04387175074468057
+  grad norm: 0.05726478844881058
+  train_reward: -0.301025390625
+ policy step 4:
+  policy loss: -0.09530496003571898
+  grad norm: 0.06765335872769357
+  train_reward: -0.301025390625
+epoch: 111:
+ value_loss: 0.5977289199829101
+ policy step 0:
+  policy loss: -0.07058036662638188
+  grad norm: 0.008144477009773254
+  train_reward: -0.330322265625
+ policy step 1:
+  policy loss: -0.11342331133782865
+  grad norm: 0.017439448088407514
+  train_reward: -0.330322265625
+ policy step 2:
+  policy loss: -0.15505781012276812
+  grad norm: 0.025980857014656064
+  train_reward: -0.330322265625
+ policy step 3:
+  policy loss: -0.15003362772986295
+  grad norm: 0.03360985293984413
+  train_reward: -0.330322265625
+ policy step 4:
+  policy loss: -0.16902543433049383
+  grad norm: 0.04146011024713516
+  train_reward: -0.330322265625
+epoch: 112:
+ value_loss: 0.5047054708003998
+ policy step 0:
+  policy loss: -0.06466800129661958
+  grad norm: 0.008758051693439484
+  train_reward: -0.22216796875
+ policy step 1:
+  policy loss: -0.07927810999875268
+  grad norm: 0.016003857553005218
+  train_reward: -0.22216796875
+ policy step 2:
+  policy loss: -0.09047348067785302
+  grad norm: 0.023699279874563217
+  train_reward: -0.22216796875
+ policy step 3:
+  policy loss: -0.12803302944327394
+  grad norm: 0.031622721999883655
+  train_reward: -0.22216796875
+ policy step 4:
+  policy loss: -0.13211839860305194
+  grad norm: 0.04015927314758301
+  train_reward: -0.22216796875
+epoch: 113:
+ value_loss: 0.573616099357605
+ policy step 0:
+  policy loss: -0.04010518565773964
+  grad norm: 0.009488452970981599
+  train_reward: -0.2459716796875
+ policy step 1:
+  policy loss: -0.06282714473394056
+  grad norm: 0.019026432186365128
+  train_reward: -0.2459716796875
+ policy step 2:
+  policy loss: -0.08962495493081711
+  grad norm: 0.025055952742695807
+  train_reward: -0.2459716796875
+ policy step 3:
+  policy loss: -0.07199818400355679
+  grad norm: 0.030817772820591924
+  train_reward: -0.2459716796875
+ policy step 4:
+  policy loss: -0.07993629681877794
+  grad norm: 0.03824073635041714
+  train_reward: -0.2459716796875
+epoch: 114:
+ value_loss: 0.5899791598320008
+ policy step 0:
+  policy loss: -0.008556375652551651
+  grad norm: 0.006687178462743759
+  train_reward: -0.3662109375
+ policy step 1:
+  policy loss: -0.05562413148581982
+  grad norm: 0.015222004055976866
+  train_reward: -0.3662109375
+ policy step 2:
+  policy loss: -0.0778250738667945
+  grad norm: 0.025993739813566206
+  train_reward: -0.3662109375
+ policy step 3:
+  policy loss: -0.13378938265765708
+  grad norm: 0.037657706439495085
+  train_reward: -0.3662109375
+ policy step 4:
+  policy loss: -0.20458705055837828
+  grad norm: 0.0464980885386467
+  train_reward: -0.3662109375
+epoch: 115:
+ value_loss: 0.6368605494499207
+ policy step 0:
+  policy loss: -0.0306927475767831
+  grad norm: 0.014953696727752685
+  train_reward: -0.12420654296875
+ policy step 1:
+  policy loss: -0.04522125121826927
+  grad norm: 0.02195647731423378
+  train_reward: -0.12420654296875
+ policy step 2:
+  policy loss: -0.1299179312773049
+  grad norm: 0.0644523598253727
+  train_reward: -0.12420654296875
+ policy step 3:
+  policy loss: -0.1970088089195391
+  grad norm: 0.07654594257473946
+  train_reward: -0.12420654296875
+ policy step 4:
+  policy loss: -0.29600794759268567
+  grad norm: 0.08992403224110604
+  train_reward: -0.12420654296875
+epoch: 116:
+ value_loss: 0.6578919768333436
+ policy step 0:
+  policy loss: -0.03388404501602053
+  grad norm: 0.007400885969400406
+  train_reward: 0.027984619140625
+ policy step 1:
+  policy loss: -0.06679032522564132
+  grad norm: 0.014921346306800842
+  train_reward: 0.027984619140625
+ policy step 2:
+  policy loss: -0.10000927923247216
+  grad norm: 0.0238746777176857
+  train_reward: 0.027984619140625
+ policy step 3:
+  policy loss: -0.16125172696386775
+  grad norm: 0.033671770989894864
+  train_reward: 0.027984619140625
+ policy step 4:
+  policy loss: -0.18007263935481513
+  grad norm: 0.04293549433350563
+  train_reward: 0.027984619140625
+epoch: 117:
+ value_loss: 0.6660306572914124
+ policy step 0:
+  policy loss: -0.059753790994485224
+  grad norm: 0.011007747799158096
+  train_reward: 0.03802490234375
+ policy step 1:
+  policy loss: -0.0710679402574897
+  grad norm: 0.016802493110299112
+  train_reward: 0.03802490234375
+ policy step 2:
+  policy loss: -0.1054793381961645
+  grad norm: 0.024134161695837975
+  train_reward: 0.03802490234375
+ policy step 3:
+  policy loss: -0.16257972480331473
+  grad norm: 0.033967528864741324
+  train_reward: 0.03802490234375
+ policy step 4:
+  policy loss: -0.23860665322814995
+  grad norm: 0.04745699428021907
+  train_reward: 0.03802490234375
+epoch: 118:
+ value_loss: 0.557624900341034
+ policy step 0:
+  policy loss: -0.07031149553755918
+  grad norm: 0.012256263196468354
+  train_reward: 0.1500244140625
+ policy step 1:
+  policy loss: -0.12764740741501251
+  grad norm: 0.020122343301773073
+  train_reward: 0.1500244140625
+ policy step 2:
+  policy loss: -0.18683036398142575
+  grad norm: 0.03189018815755844
+  train_reward: 0.1500244140625
+ policy step 3:
+  policy loss: -0.20576896400501327
+  grad norm: 0.039952864497900004
+  train_reward: 0.1500244140625
+ policy step 4:
+  policy loss: -0.25652809360375
+  grad norm: 0.04798003137111663
+  train_reward: 0.1500244140625
+epoch: 119:
+ value_loss: 0.4709089159965515
+ policy step 0:
+  policy loss: -0.04135000351816415
+  grad norm: 0.008716229349374771
+  train_reward: 0.00434112548828125
+ policy step 1:
+  policy loss: -0.06798944367716708
+  grad norm: 0.01785912662744522
+  train_reward: 0.00434112548828125
+ policy step 2:
+  policy loss: -0.10962404176243579
+  grad norm: 0.02687046229839325
+  train_reward: 0.00434112548828125
+ policy step 3:
+  policy loss: -0.13374034727263887
+  grad norm: 0.03586046695709229
+  train_reward: 0.00434112548828125
+ policy step 4:
+  policy loss: -0.1822904217270358
+  grad norm: 0.042090756073594096
+  train_reward: 0.00434112548828125
+epoch: 120:
+ value_loss: 0.4759747087955475
+ policy step 0:
+  policy loss: 5.8741867542268233e-05
+  grad norm: 0.009453327208757401
+  train_reward: -0.0006103515625
+ policy step 1:
+  policy loss: -0.00037996439884105816
+  grad norm: 0.019270140677690506
+  train_reward: -0.0006103515625
+ policy step 2:
+  policy loss: -0.03137239463006456
+  grad norm: 0.027286040037870406
+  train_reward: -0.0006103515625
+ policy step 3:
+  policy loss: -0.04831392255922158
+  grad norm: 0.037037386745214465
+  train_reward: -0.0006103515625
+ policy step 4:
+  policy loss: -0.0884310711485644
+  grad norm: 0.04424316361546517
+  train_reward: -0.0006103515625
+epoch: 121:
+ value_loss: 0.4546234548091888
+ policy step 0:
+  policy loss: -0.0027813590442140896
+  grad norm: 0.011151564866304397
+  train_reward: 0.048553466796875
+ policy step 1:
+  policy loss: -0.026111279769490167
+  grad norm: 0.02013155594468117
+  train_reward: 0.048553466796875
+ policy step 2:
+  policy loss: -0.024961046815102837
+  grad norm: 0.028403143584728244
+  train_reward: 0.048553466796875
+ policy step 3:
+  policy loss: -0.04585807612432592
+  grad norm: 0.03737981244921684
+  train_reward: 0.048553466796875
+ policy step 4:
+  policy loss: -0.06920891362509185
+  grad norm: 0.04413649886846542
+  train_reward: 0.048553466796875
+epoch: 122:
+ value_loss: 0.5555678248405457
+ policy step 0:
+  policy loss: 0.04785486680145065
+  grad norm: 0.007846428453922272
+  train_reward: 0.05401611328125
+ policy step 1:
+  policy loss: 0.05914665484645714
+  grad norm: 0.013345913589000703
+  train_reward: 0.05401611328125
+ policy step 2:
+  policy loss: 0.057848723310356356
+  grad norm: 0.018956273049116137
+  train_reward: 0.05401611328125
+ policy step 3:
+  policy loss: 0.05871589762779574
+  grad norm: 0.026598110049963
+  train_reward: 0.05401611328125
+ policy step 4:
+  policy loss: 0.06284993460091451
+  grad norm: 0.032441239431500436
+  train_reward: 0.05401611328125
+epoch: 123:
+ value_loss: 0.548039311170578
+ policy step 0:
+  policy loss: 0.019989375459651147
+  grad norm: 0.005493548884987831
+  train_reward: 0.067626953125
+ policy step 1:
+  policy loss: 0.029135911911725994
+  grad norm: 0.011707555502653122
+  train_reward: 0.067626953125
+ policy step 2:
+  policy loss: 0.07743929972251257
+  grad norm: 0.020796040445566176
+  train_reward: 0.067626953125
+ policy step 3:
+  policy loss: 0.1266875340292851
+  grad norm: 0.02825232297182083
+  train_reward: 0.067626953125
+ policy step 4:
+  policy loss: 0.15140660859954855
+  grad norm: 0.03888500183820724
+  train_reward: 0.067626953125
+epoch: 124:
+ value_loss: 0.5524541199207306
+ policy step 0:
+  policy loss: 0.0735580344994863
+  grad norm: 0.01025753766298294
+  train_reward: -0.105712890625
+ policy step 1:
+  policy loss: 0.09577214168384668
+  grad norm: 0.02038390338420868
+  train_reward: -0.105712890625
+ policy step 2:
+  policy loss: 0.11423554280772802
+  grad norm: 0.029431769251823427
+  train_reward: -0.105712890625
+ policy step 3:
+  policy loss: 0.14198689851909876
+  grad norm: 0.05332973897457123
+  train_reward: -0.105712890625
+ policy step 4:
+  policy loss: 0.2141826857502262
+  grad norm: 0.0627347506582737
+  train_reward: -0.105712890625
+epoch: 125:
+ value_loss: 0.5077277898788453
+ policy step 0:
+  policy loss: 0.011848829438289006
+  grad norm: 0.011153598129749299
+  train_reward: -0.02960205078125
+ policy step 1:
+  policy loss: 0.03125945037851731
+  grad norm: 0.02026360407471657
+  train_reward: -0.02960205078125
+ policy step 2:
+  policy loss: 0.07259881428132453
+  grad norm: 0.03087980374693871
+  train_reward: -0.02960205078125
+ policy step 3:
+  policy loss: 0.12461319547146557
+  grad norm: 0.04121646955609322
+  train_reward: -0.02960205078125
+ policy step 4:
+  policy loss: 0.17009660049031178
+  grad norm: 0.05163858160376549
+  train_reward: -0.02960205078125
+epoch: 126:
+ value_loss: 0.5185161590576172
+ policy step 0:
+  policy loss: -0.06377170154203972
+  grad norm: 0.00908437892794609
+  train_reward: 0.308837890625
+ policy step 1:
+  policy loss: -0.08176674228161573
+  grad norm: 0.018408390879631042
+  train_reward: 0.308837890625
+ policy step 2:
+  policy loss: -0.08923721423683065
+  grad norm: 0.036488224565982816
+  train_reward: 0.308837890625
+ policy step 3:
+  policy loss: -0.12823147014714772
+  grad norm: 0.048604594171047205
+  train_reward: 0.308837890625
+ policy step 4:
+  policy loss: -0.1426144814273963
+  grad norm: 0.05791199654340744
+  train_reward: 0.308837890625
+epoch: 127:
+ value_loss: 0.5647790193557739
+ policy step 0:
+  policy loss: 0.012130703652898471
+  grad norm: 0.009110945463180541
+  train_reward: 0.5576171875
+ policy step 1:
+  policy loss: -0.03317087528606256
+  grad norm: 0.018528125435113906
+  train_reward: 0.5576171875
+ policy step 2:
+  policy loss: -0.09490494181712468
+  grad norm: 0.02851831391453743
+  train_reward: 0.5576171875
+ policy step 3:
+  policy loss: -0.130197183166941
+  grad norm: 0.037784314900636676
+  train_reward: 0.5576171875
+ policy step 4:
+  policy loss: -0.20590478110437596
+  grad norm: 0.04541611596941948
+  train_reward: 0.5576171875
+epoch: 128:
+ value_loss: 0.6647546410560607
+ policy step 0:
+  policy loss: -0.00013802945613861344
+  grad norm: 0.008048706501722337
+  train_reward: 0.301025390625
+ policy step 1:
+  policy loss: -0.048050260171294205
+  grad norm: 0.02377757802605629
+  train_reward: 0.301025390625
+ policy step 2:
+  policy loss: -0.03309837753574053
+  grad norm: 0.033555544912815094
+  train_reward: 0.301025390625
+ policy step 3:
+  policy loss: 0.038610552872220684
+  grad norm: 0.0468724474310875
+  train_reward: 0.301025390625
+ policy step 4:
+  policy loss: 0.08385264383008083
+  grad norm: 0.057157620787620544
+  train_reward: 0.301025390625
+epoch: 129:
+ value_loss: 0.7348236203193665
+ policy step 0:
+  policy loss: 0.037965829526850334
+  grad norm: 0.011204561591148377
+  train_reward: 0.3642578125
+ policy step 1:
+  policy loss: 0.04322891428212946
+  grad norm: 0.01961103528738022
+  train_reward: 0.3642578125
+ policy step 2:
+  policy loss: -0.006462716947620107
+  grad norm: 0.027715177088975907
+  train_reward: 0.3642578125
+ policy step 3:
+  policy loss: 0.015389478066936142
+  grad norm: 0.0419200174510479
+  train_reward: 0.3642578125
+ policy step 4:
+  policy loss: 0.015186526983355486
+  grad norm: 0.04926157295703888
+  train_reward: 0.3642578125
+epoch: 130:
+ value_loss: 0.748591947555542
+ policy step 0:
+  policy loss: -0.03247619190563759
+  grad norm: 0.01652087867259979
+  train_reward: 0.35791015625
+ policy step 1:
+  policy loss: -0.06545903643127532
+  grad norm: 0.026444680988788605
+  train_reward: 0.35791015625
+ policy step 2:
+  policy loss: -0.08063172310745964
+  grad norm: 0.03849796950817108
+  train_reward: 0.35791015625
+ policy step 3:
+  policy loss: -0.1181140816848104
+  grad norm: 0.04583836197853088
+  train_reward: 0.35791015625
+ policy step 4:
+  policy loss: -0.13828194455709306
+  grad norm: 0.05419626384973526
+  train_reward: 0.35791015625
+epoch: 131:
+ value_loss: 0.8379047632217407
+ policy step 0:
+  policy loss: 0.033688385124939185
+  grad norm: 0.01215844377875328
+  train_reward: 0.232421875
+ policy step 1:
+  policy loss: 0.08008106199558825
+  grad norm: 0.026235160976648332
+  train_reward: 0.232421875
+ policy step 2:
+  policy loss: 0.12927807529922578
+  grad norm: 0.036304768174886703
+  train_reward: 0.232421875
+ policy step 3:
+  policy loss: 0.1654903940002745
+  grad norm: 0.047077573090791705
+  train_reward: 0.232421875
+ policy step 4:
+  policy loss: 0.20576242445191997
+  grad norm: 0.06214610263705254
+  train_reward: 0.232421875
+epoch: 132:
+ value_loss: 0.5348940312862396
+ policy step 0:
+  policy loss: 0.0345223697523276
+  grad norm: 0.004578199610114098
+  train_reward: 0.0322265625
+ policy step 1:
+  policy loss: 0.02950197433431943
+  grad norm: 0.011678503826260567
+  train_reward: 0.0322265625
+ policy step 2:
+  policy loss: 0.047331919645269706
+  grad norm: 0.020726216211915015
+  train_reward: 0.0322265625
+ policy step 3:
+  policy loss: 0.11139811147004366
+  grad norm: 0.02936393283307552
+  train_reward: 0.0322265625
+ policy step 4:
+  policy loss: 0.16591970386604468
+  grad norm: 0.04016138575971126
+  train_reward: 0.0322265625
+epoch: 133:
+ value_loss: 0.51748908162117
+ policy step 0:
+  policy loss: 0.017850138588498037
+  grad norm: 0.008355490863323212
+  train_reward: 0.313232421875
+ policy step 1:
+  policy loss: 0.037219061298916736
+  grad norm: 0.017085371166467668
+  train_reward: 0.313232421875
+ policy step 2:
+  policy loss: 0.012077590171247723
+  grad norm: 0.02739636152982712
+  train_reward: 0.313232421875
+ policy step 3:
+  policy loss: 0.032475408942749105
+  grad norm: 0.033879056572914124
+  train_reward: 0.313232421875
+ policy step 4:
+  policy loss: 0.016560742057239012
+  grad norm: 0.043219666182994845
+  train_reward: 0.313232421875
+epoch: 134:
+ value_loss: 0.48383979201316835
+ policy step 0:
+  policy loss: -0.04088459641983112
+  grad norm: 0.008653959631919861
+  train_reward: 0.5107421875
+ policy step 1:
+  policy loss: -0.055316271477689354
+  grad norm: 0.01680494546890259
+  train_reward: 0.5107421875
+ policy step 2:
+  policy loss: -0.05779272699728609
+  grad norm: 0.02371607944369316
+  train_reward: 0.5107421875
+ policy step 3:
+  policy loss: -0.06821364117786288
+  grad norm: 0.03150164633989334
+  train_reward: 0.5107421875
+ policy step 4:
+  policy loss: -0.14509455974524219
+  grad norm: 0.04663131833076477
+  train_reward: 0.5107421875
+epoch: 135:
+ value_loss: 0.7123402953147888
+ policy step 0:
+  policy loss: -0.014431739350159959
+  grad norm: 0.00812334343791008
+  train_reward: 0.424560546875
+ policy step 1:
+  policy loss: 0.015640315910180416
+  grad norm: 0.01776319295167923
+  train_reward: 0.424560546875
+ policy step 2:
+  policy loss: 0.046299370812873046
+  grad norm: 0.026636333018541333
+  train_reward: 0.424560546875
+ policy step 3:
+  policy loss: 0.041434865879515816
+  grad norm: 0.041767919808626174
+  train_reward: 0.424560546875
+ policy step 4:
+  policy loss: 0.017570183010927106
+  grad norm: 0.046351054683327675
+  train_reward: 0.424560546875
+epoch: 136:
+ value_loss: 0.8073792457580566
+ policy step 0:
+  policy loss: -0.03301423241694768
+  grad norm: 0.01033061370253563
+  train_reward: 0.215576171875
+ policy step 1:
+  policy loss: -0.04516628518079718
+  grad norm: 0.025537434965372086
+  train_reward: 0.215576171875
+ policy step 2:
+  policy loss: -0.06155833993107081
+  grad norm: 0.03312765955924988
+  train_reward: 0.215576171875
+ policy step 3:
+  policy loss: -0.038353099363545556
+  grad norm: 0.04218222573399544
+  train_reward: 0.215576171875
+ policy step 4:
+  policy loss: -0.026137706323061127
+  grad norm: 0.0504157729446888
+  train_reward: 0.215576171875
+epoch: 137:
+ value_loss: 0.7734265089035034
+ policy step 0:
+  policy loss: -0.08501034099608659
+  grad norm: 0.009803792089223861
+  train_reward: 0.5771484375
+ policy step 1:
+  policy loss: -0.11826162386181144
+  grad norm: 0.021676229685544966
+  train_reward: 0.5771484375
+ policy step 2:
+  policy loss: -0.12672972205521849
+  grad norm: 0.03510579690337181
+  train_reward: 0.5771484375
+ policy step 3:
+  policy loss: -0.1517834682153383
+  grad norm: 0.04815876260399818
+  train_reward: 0.5771484375
+ policy step 4:
+  policy loss: -0.12287807434913703
+  grad norm: 0.05729761347174644
+  train_reward: 0.5771484375
+epoch: 138:
+ value_loss: 0.4965128242969513
+ policy step 0:
+  policy loss: -0.058146434028943365
+  grad norm: 0.008420614153146743
+  train_reward: 0.497314453125
+ policy step 1:
+  policy loss: -0.05787863675504921
+  grad norm: 0.01657981351017952
+  train_reward: 0.497314453125
+ policy step 2:
+  policy loss: -0.0791581122825543
+  grad norm: 0.022838223725557327
+  train_reward: 0.497314453125
+ policy step 3:
+  policy loss: -0.09168839529156686
+  grad norm: 0.03280219137668609
+  train_reward: 0.497314453125
+ policy step 4:
+  policy loss: -0.09636291973292828
+  grad norm: 0.04302797615528106
+  train_reward: 0.497314453125
+epoch: 139:
+ value_loss: 0.4051838934421539
+ policy step 0:
+  policy loss: 0.03781580774423977
+  grad norm: 0.009589786827564239
+  train_reward: 0.181396484375
+ policy step 1:
+  policy loss: 0.003324556055789194
+  grad norm: 0.01619735360145569
+  train_reward: 0.181396484375
+ policy step 2:
+  policy loss: 0.024966119245315596
+  grad norm: 0.024281418323516844
+  train_reward: 0.181396484375
+ policy step 3:
+  policy loss: 0.020729804427052547
+  grad norm: 0.030471784994006157
+  train_reward: 0.181396484375
+ policy step 4:
+  policy loss: 0.056607495791589225
+  grad norm: 0.037152716889977455
+  train_reward: 0.181396484375
+epoch: 140:
+ value_loss: 0.32655702829360966
+ policy step 0:
+  policy loss: -0.00309976236894727
+  grad norm: 0.005597073584794998
+  train_reward: 0.08203125
+ policy step 1:
+  policy loss: 0.0073071907274425
+  grad norm: 0.012902742624282837
+  train_reward: 0.08203125
+ policy step 2:
+  policy loss: -0.008167503712077936
+  grad norm: 0.02065863609313965
+  train_reward: 0.08203125
+ policy step 3:
+  policy loss: 0.011128205868105093
+  grad norm: 0.025994572415947916
+  train_reward: 0.08203125
+ policy step 4:
+  policy loss: -0.02280339989811183
+  grad norm: 0.031572310253977776
+  train_reward: 0.08203125
+epoch: 141:
+ value_loss: 0.33256006240844727
+ policy step 0:
+  policy loss: 0.00018160349378983174
+  grad norm: 0.006795848160982132
+  train_reward: 0.02069091796875
+ policy step 1:
+  policy loss: -0.0024681912735104567
+  grad norm: 0.011119217798113822
+  train_reward: 0.02069091796875
+ policy step 2:
+  policy loss: -0.011509923404082658
+  grad norm: 0.02033329643309116
+  train_reward: 0.02069091796875
+ policy step 3:
+  policy loss: -0.05491647473536432
+  grad norm: 0.027243288233876225
+  train_reward: 0.02069091796875
+ policy step 4:
+  policy loss: -0.04153980247986813
+  grad norm: 0.03279658406972885
+  train_reward: 0.02069091796875
+epoch: 142:
+ value_loss: 0.4017598688602448
+ policy step 0:
+  policy loss: -0.005246988621850808
+  grad norm: 0.006815683841705322
+  train_reward: -0.036773681640625
+ policy step 1:
+  policy loss: -0.04657269242840509
+  grad norm: 0.015327005088329314
+  train_reward: -0.036773681640625
+ policy step 2:
+  policy loss: -0.03831980939333638
+  grad norm: 0.023062019050121306
+  train_reward: -0.036773681640625
+ policy step 3:
+  policy loss: -0.06863131978316232
+  grad norm: 0.030162660032510755
+  train_reward: -0.036773681640625
+ policy step 4:
+  policy loss: -0.08789659381921715
+  grad norm: 0.0370652362704277
+  train_reward: -0.036773681640625
+epoch: 143:
+ value_loss: 0.5518088042736053
+ policy step 0:
+  policy loss: -0.050122897637387115
+  grad norm: 0.009388274699449538
+  train_reward: -0.0117340087890625
+ policy step 1:
+  policy loss: -0.02984651534352451
+  grad norm: 0.016311297565698622
+  train_reward: -0.0117340087890625
+ policy step 2:
+  policy loss: -0.07358138246927409
+  grad norm: 0.028894009441137312
+  train_reward: -0.0117340087890625
+ policy step 3:
+  policy loss: -0.09336380428867412
+  grad norm: 0.039124751836061476
+  train_reward: -0.0117340087890625
+ policy step 4:
+  policy loss: -0.06528017751794928
+  grad norm: 0.0467190720140934
+  train_reward: -0.0117340087890625
+epoch: 144:
+ value_loss: 0.5722844243049622
+ policy step 0:
+  policy loss: -0.0034017588943243016
+  grad norm: 0.010371814668178558
+  train_reward: 0.5166015625
+ policy step 1:
+  policy loss: -0.01577398454149564
+  grad norm: 0.017273923754692076
+  train_reward: 0.5166015625
+ policy step 2:
+  policy loss: -0.018665604293346405
+  grad norm: 0.024627907574176787
+  train_reward: 0.5166015625
+ policy step 3:
+  policy loss: -0.011157942625383534
+  grad norm: 0.03041798025369644
+  train_reward: 0.5166015625
+ policy step 4:
+  policy loss: -0.043967324960976835
+  grad norm: 0.03767880722880363
+  train_reward: 0.5166015625
+epoch: 145:
+ value_loss: 0.42221227884292606
+ policy step 0:
+  policy loss: -0.023128659619639315
+  grad norm: 0.005191564932465554
+  train_reward: 0.7509765625
+ policy step 1:
+  policy loss: -0.0060295780402763385
+  grad norm: 0.011402728781104089
+  train_reward: 0.7509765625
+ policy step 2:
+  policy loss: -0.0022341122132881175
+  grad norm: 0.019067231193184854
+  train_reward: 0.7509765625
+ policy step 3:
+  policy loss: -0.027769702166551717
+  grad norm: 0.025962017849087717
+  train_reward: 0.7509765625
+ policy step 4:
+  policy loss: -0.0047415686053379055
+  grad norm: 0.03272691853344441
+  train_reward: 0.7509765625
+epoch: 146:
+ value_loss: 0.39842787981033323
+ policy step 0:
+  policy loss: 0.002442349866032602
+  grad norm: 0.010114754736423492
+  train_reward: 0.56591796875
+ policy step 1:
+  policy loss: 0.03746288592616717
+  grad norm: 0.017673753947019574
+  train_reward: 0.56591796875
+ policy step 2:
+  policy loss: 0.057044393817583736
+  grad norm: 0.026086819916963575
+  train_reward: 0.56591796875
+ policy step 3:
+  policy loss: 0.04951095928748451
+  grad norm: 0.03346444740891456
+  train_reward: 0.56591796875
+ policy step 4:
+  policy loss: 0.06781184971332553
+  grad norm: 0.046043416112661356
+  train_reward: 0.56591796875
+epoch: 147:
+ value_loss: 0.5998493671417235
+ policy step 0:
+  policy loss: 0.011453058291226625
+  grad norm: 0.007106427103281021
+  train_reward: 0.053131103515625
+ policy step 1:
+  policy loss: 0.061267959543814275
+  grad norm: 0.01561223790049553
+  train_reward: 0.053131103515625
+ policy step 2:
+  policy loss: 0.07025837491576874
+  grad norm: 0.025420378893613815
+  train_reward: 0.053131103515625
+ policy step 3:
+  policy loss: 0.11410088666404289
+  grad norm: 0.03484190180897713
+  train_reward: 0.053131103515625
+ policy step 4:
+  policy loss: 0.16603134227916602
+  grad norm: 0.04315513595938683
+  train_reward: 0.053131103515625
+epoch: 148:
+ value_loss: 0.7757539153099061
+ policy step 0:
+  policy loss: 0.0634325991695126
+  grad norm: 0.008426491916179658
+  train_reward: -0.061309814453125
+ policy step 1:
+  policy loss: 0.11476925163879062
+  grad norm: 0.016253893077373505
+  train_reward: -0.061309814453125
+ policy step 2:
+  policy loss: 0.20727837712232336
+  grad norm: 0.030317677557468413
+  train_reward: -0.061309814453125
+ policy step 3:
+  policy loss: 0.25064236924711925
+  grad norm: 0.04097669646143913
+  train_reward: -0.061309814453125
+ policy step 4:
+  policy loss: 0.32513868094150283
+  grad norm: 0.05444452539086342
+  train_reward: -0.061309814453125
+epoch: 149:
+ value_loss: 0.6750909566879273
+ policy step 0:
+  policy loss: 0.04094729088246822
+  grad norm: 0.0060277912765741345
+  train_reward: 0.09405517578125
+ policy step 1:
+  policy loss: 0.026643279567360876
+  grad norm: 0.014956171438097953
+  train_reward: 0.09405517578125
+ policy step 2:
+  policy loss: 0.07927756185332933
+  grad norm: 0.031219222769141193
+  train_reward: 0.09405517578125
+ policy step 3:
+  policy loss: 0.09998981083432831
+  grad norm: 0.03752784840762615
+  train_reward: 0.09405517578125
+ policy step 4:
+  policy loss: 0.16264045201241967
+  grad norm: 0.04573822133243084
+  train_reward: 0.09405517578125
+epoch: 150:
+ value_loss: 0.6015427947044372
+ policy step 0:
+  policy loss: 0.030690715694800016
+  grad norm: 0.005502793565392494
+  train_reward: 0.5517578125
+ policy step 1:
+  policy loss: 0.043246667319908734
+  grad norm: 0.010786152631044387
+  train_reward: 0.5517578125
+ policy step 2:
+  policy loss: 0.02851618501978616
+  grad norm: 0.018743863701820372
+  train_reward: 0.5517578125
+ policy step 3:
+  policy loss: 0.03329276540316642
+  grad norm: 0.025608657300472258
+  train_reward: 0.5517578125
+ policy step 4:
+  policy loss: 0.038661220219607155
+  grad norm: 0.03428527861833572
+  train_reward: 0.5517578125
+epoch: 151:
+ value_loss: 0.5689443469047546
+ policy step 0:
+  policy loss: 0.012556203578909235
+  grad norm: 0.00794777050614357
+  train_reward: 0.372314453125
+ policy step 1:
+  policy loss: 0.002115770429372785
+  grad norm: 0.013692539930343629
+  train_reward: 0.372314453125
+ policy step 2:
+  policy loss: 0.04673135629855095
+  grad norm: 0.023171645402908326
+  train_reward: 0.372314453125
+ policy step 3:
+  policy loss: -0.013491729879751817
+  grad norm: 0.030564631521701816
+  train_reward: 0.372314453125
+ policy step 4:
+  policy loss: -0.03817166564404035
+  grad norm: 0.04392384886741638
+  train_reward: 0.372314453125
+epoch: 152:
+ value_loss: 0.4462190389633179
+ policy step 0:
+  policy loss: 0.0005839455484723042
+  grad norm: 0.008255096524953843
+  train_reward: 0.10833740234375
+ policy step 1:
+  policy loss: 0.0038154258518867837
+  grad norm: 0.013902596011757851
+  train_reward: 0.10833740234375
+ policy step 2:
+  policy loss: 0.013500902410790635
+  grad norm: 0.04588060714304447
+  train_reward: 0.10833740234375
+ policy step 3:
+  policy loss: -0.02322021212409406
+  grad norm: 0.05441412590444088
+  train_reward: 0.10833740234375
+ policy step 4:
+  policy loss: -0.0054510325532949825
+  grad norm: 0.06929344050586224
+  train_reward: 0.10833740234375
+epoch: 153:
+ value_loss: 0.340367329120636
+ policy step 0:
+  policy loss: -0.004463983575503032
+  grad norm: 0.0073233887553215025
+  train_reward: 0.06201171875
+ policy step 1:
+  policy loss: -0.025276095668474836
+  grad norm: 0.014289691299200057
+  train_reward: 0.06201171875
+ policy step 2:
+  policy loss: -0.0303264767707636
+  grad norm: 0.01934986002743244
+  train_reward: 0.06201171875
+ policy step 3:
+  policy loss: -0.022443891642615198
+  grad norm: 0.026949388906359673
+  train_reward: 0.06201171875
+ policy step 4:
+  policy loss: -0.028999104552591838
+  grad norm: 0.03443423844873905
+  train_reward: 0.06201171875
+epoch: 154:
+ value_loss: 0.38099471926689144
+ policy step 0:
+  policy loss: -0.04750047971804938
+  grad norm: 0.012031345069408417
+  train_reward: 0.54150390625
+ policy step 1:
+  policy loss: -0.06590571893999973
+  grad norm: 0.017599645629525186
+  train_reward: 0.54150390625
+ policy step 2:
+  policy loss: -0.10513856106748184
+  grad norm: 0.037117334082722664
+  train_reward: 0.54150390625
+ policy step 3:
+  policy loss: -0.17140352496256434
+  grad norm: 0.0529082927852869
+  train_reward: 0.54150390625
+ policy step 4:
+  policy loss: -0.2236357150599361
+  grad norm: 0.059632051363587374
+  train_reward: 0.54150390625
+epoch: 155:
+ value_loss: 0.40978918075561527
+ policy step 0:
+  policy loss: -0.06261150085677704
+  grad norm: 0.010210344195365905
+  train_reward: 0.47216796875
+ policy step 1:
+  policy loss: -0.1102437355866035
+  grad norm: 0.01572541780769825
+  train_reward: 0.47216796875
+ policy step 2:
+  policy loss: -0.20704126022756103
+  grad norm: 0.02636088468134403
+  train_reward: 0.47216796875
+ policy step 3:
+  policy loss: -0.27799319730450717
+  grad norm: 0.03682562373578548
+  train_reward: 0.47216796875
+ policy step 4:
+  policy loss: -0.23909120864894567
+  grad norm: 0.04130932167172432
+  train_reward: 0.47216796875
+epoch: 156:
+ value_loss: 0.43216122984886174
+ policy step 0:
+  policy loss: -0.041083620116114605
+  grad norm: 0.0065674789249897
+  train_reward: 0.02325439453125
+ policy step 1:
+  policy loss: -0.06778612465908129
+  grad norm: 0.013717243820428847
+  train_reward: 0.02325439453125
+ policy step 2:
+  policy loss: -0.08709200294688343
+  grad norm: 0.023178829252719878
+  train_reward: 0.02325439453125
+ policy step 3:
+  policy loss: -0.1250658569547037
+  grad norm: 0.03070615455508232
+  train_reward: 0.02325439453125
+ policy step 4:
+  policy loss: -0.10127748999123772
+  grad norm: 0.03668587170541286
+  train_reward: 0.02325439453125
+epoch: 157:
+ value_loss: 0.5681963384151458
+ policy step 0:
+  policy loss: 0.002438905835151675
+  grad norm: 0.011355669051408768
+  train_reward: -0.2042236328125
+ policy step 1:
+  policy loss: -0.040217683619509136
+  grad norm: 0.025431811064481738
+  train_reward: -0.2042236328125
+ policy step 2:
+  policy loss: -0.038833609813203405
+  grad norm: 0.031239120289683345
+  train_reward: -0.2042236328125
+ policy step 3:
+  policy loss: -0.07211897717788815
+  grad norm: 0.04821255318820477
+  train_reward: -0.2042236328125
+ policy step 4:
+  policy loss: -0.08710885044808189
+  grad norm: 0.05924120657145977
+  train_reward: -0.2042236328125
+epoch: 158:
+ value_loss: 0.7380685925483703
+ policy step 0:
+  policy loss: -0.0020879698296388007
+  grad norm: 0.008526086807250977
+  train_reward: 0.1126708984375
+ policy step 1:
+  policy loss: 0.005032937228679656
+  grad norm: 0.015384570509195328
+  train_reward: 0.1126708984375
+ policy step 2:
+  policy loss: 0.0029782684519886957
+  grad norm: 0.052227530628442764
+  train_reward: 0.1126708984375
+ policy step 3:
+  policy loss: -0.019738013235231236
+  grad norm: 0.06198334395885467
+  train_reward: 0.1126708984375
+ policy step 4:
+  policy loss: -0.04503309968858957
+  grad norm: 0.0734864205121994
+  train_reward: 0.1126708984375
+epoch: 159:
+ value_loss: 0.8302738428115843
+ policy step 0:
+  policy loss: -0.00322084377209345
+  grad norm: 0.008690594881772994
+  train_reward: 0.364013671875
+ policy step 1:
+  policy loss: -0.04907213856155673
+  grad norm: 0.01787992864847183
+  train_reward: 0.364013671875
+ policy step 2:
+  policy loss: -0.08877034842347105
+  grad norm: 0.02694016396999359
+  train_reward: 0.364013671875
+ policy step 3:
+  policy loss: -0.15363876475021246
+  grad norm: 0.03756481409072876
+  train_reward: 0.364013671875
+ policy step 4:
+  policy loss: -0.1974712643772364
+  grad norm: 0.06465778648853301
+  train_reward: 0.364013671875
+epoch: 160:
+ value_loss: 0.7461881875991823
+ policy step 0:
+  policy loss: -0.05049367832640807
+  grad norm: 0.009191101044416427
+  train_reward: 0.6318359375
+ policy step 1:
+  policy loss: -0.13845634584625563
+  grad norm: 0.019445633888244628
+  train_reward: 0.6318359375
+ policy step 2:
+  policy loss: -0.18591613409419855
+  grad norm: 0.030726248025894163
+  train_reward: 0.6318359375
+ policy step 3:
+  policy loss: -0.2113966242720683
+  grad norm: 0.03867214024066925
+  train_reward: 0.6318359375
+ policy step 4:
+  policy loss: -0.20947895705079034
+  grad norm: 0.04909698218107224
+  train_reward: 0.6318359375
+epoch: 161:
+ value_loss: 0.8657116413116455
+ policy step 0:
+  policy loss: -0.0321871383736531
+  grad norm: 0.008280930668115615
+  train_reward: 0.46875
+ policy step 1:
+  policy loss: -0.06972403199567151
+  grad norm: 0.01694359853863716
+  train_reward: 0.46875
+ policy step 2:
+  policy loss: -0.10080430007074029
+  grad norm: 0.027497605979442594
+  train_reward: 0.46875
+ policy step 3:
+  policy loss: -0.13109355807149162
+  grad norm: 0.03714348673820495
+  train_reward: 0.46875
+ policy step 4:
+  policy loss: -0.20139738758249828
+  grad norm: 0.04900875315070152
+  train_reward: 0.46875
+epoch: 162:
+ value_loss: 0.8416553497314454
+ policy step 0:
+  policy loss: 0.03527271108080944
+  grad norm: 0.00754174143075943
+  train_reward: 0.429443359375
+ policy step 1:
+  policy loss: 0.05448768492788077
+  grad norm: 0.016803410649299622
+  train_reward: 0.429443359375
+ policy step 2:
+  policy loss: -0.05238704948375623
+  grad norm: 0.026749666035175326
+  train_reward: 0.429443359375
+ policy step 3:
+  policy loss: -0.147607261997958
+  grad norm: 0.03582438305020333
+  train_reward: 0.429443359375
+ policy step 4:
+  policy loss: -0.18303513548647363
+  grad norm: 0.04777629896998406
+  train_reward: 0.429443359375
+epoch: 163:
+ value_loss: 0.6798837304115296
+ policy step 0:
+  policy loss: -0.029600854512924952
+  grad norm: 0.008244942128658294
+  train_reward: 0.443115234375
+ policy step 1:
+  policy loss: -0.07174113732762633
+  grad norm: 0.019387806206941603
+  train_reward: 0.443115234375
+ policy step 2:
+  policy loss: -0.051257461976880796
+  grad norm: 0.026923730224370956
+  train_reward: 0.443115234375
+ policy step 3:
+  policy loss: -0.08040143616187073
+  grad norm: 0.03542523980140686
+  train_reward: 0.443115234375
+ policy step 4:
+  policy loss: -0.09858245891518888
+  grad norm: 0.05161248594522476
+  train_reward: 0.443115234375
+epoch: 164:
+ value_loss: 0.5932214736938477
+ policy step 0:
+  policy loss: 0.022018132731318477
+  grad norm: 0.011943349987268448
+  train_reward: 0.48681640625
+ policy step 1:
+  policy loss: 0.023319067355866252
+  grad norm: 0.019575073570013046
+  train_reward: 0.48681640625
+ policy step 2:
+  policy loss: 0.041433389593536686
+  grad norm: 0.035982313007116316
+  train_reward: 0.48681640625
+ policy step 3:
+  policy loss: 0.04441097049663467
+  grad norm: 0.0439856544137001
+  train_reward: 0.48681640625
+ policy step 4:
+  policy loss: 0.037484141128758613
+  grad norm: 0.05194213911890983
+  train_reward: 0.48681640625
+epoch: 165:
+ value_loss: 0.5077095627784729
+ policy step 0:
+  policy loss: 0.08821230580409367
+  grad norm: 0.008793966472148895
+  train_reward: 0.2763671875
+ policy step 1:
+  policy loss: 0.13727826497827966
+  grad norm: 0.016359923779964446
+  train_reward: 0.2763671875
+ policy step 2:
+  policy loss: 0.19313448018704854
+  grad norm: 0.025060199201107025
+  train_reward: 0.2763671875
+ policy step 3:
+  policy loss: 0.23080785718436048
+  grad norm: 0.03755694404244423
+  train_reward: 0.2763671875
+ policy step 4:
+  policy loss: 0.26804994105671837
+  grad norm: 0.04400894567370415
+  train_reward: 0.2763671875
+epoch: 166:
+ value_loss: 0.4853041887283325
+ policy step 0:
+  policy loss: 0.05597134424994389
+  grad norm: 0.004738527536392212
+  train_reward: 0.0094451904296875
+ policy step 1:
+  policy loss: 0.14928756337612867
+  grad norm: 0.016221553832292557
+  train_reward: 0.0094451904296875
+ policy step 2:
+  policy loss: 0.21215758704347534
+  grad norm: 0.024734926223754884
+  train_reward: 0.0094451904296875
+ policy step 3:
+  policy loss: 0.2760768557161403
+  grad norm: 0.03361529260873795
+  train_reward: 0.0094451904296875
+ policy step 4:
+  policy loss: 0.33666937396628793
+  grad norm: 0.04182692319154739
+  train_reward: 0.0094451904296875
+epoch: 167:
+ value_loss: 0.47525134682655334
+ policy step 0:
+  policy loss: 0.06765925685564676
+  grad norm: 0.008610843867063522
+  train_reward: -0.3466796875
+ policy step 1:
+  policy loss: 0.15342382267117496
+  grad norm: 0.017489097267389297
+  train_reward: -0.3466796875
+ policy step 2:
+  policy loss: 0.23999706134200094
+  grad norm: 0.02977045178413391
+  train_reward: -0.3466796875
+ policy step 3:
+  policy loss: 0.2986231445955733
+  grad norm: 0.03502672500908375
+  train_reward: -0.3466796875
+ policy step 4:
+  policy loss: 0.32531908964738243
+  grad norm: 0.04008407257497311
+  train_reward: -0.3466796875
+epoch: 168:
+ value_loss: 0.36182413697242743
+ policy step 0:
+  policy loss: 0.041229311252633724
+  grad norm: 0.00579209178686142
+  train_reward: -0.01256561279296875
+ policy step 1:
+  policy loss: 0.09874743521213532
+  grad norm: 0.011268287152051925
+  train_reward: -0.01256561279296875
+ policy step 2:
+  policy loss: 0.14467403826614222
+  grad norm: 0.021481475979089736
+  train_reward: -0.01256561279296875
+ policy step 3:
+  policy loss: 0.1788178591290489
+  grad norm: 0.0264194343239069
+  train_reward: -0.01256561279296875
+ policy step 4:
+  policy loss: 0.22834341714624318
+  grad norm: 0.036386445537209516
+  train_reward: -0.01256561279296875
+epoch: 169:
+ value_loss: 0.26344281136989595
+ policy step 0:
+  policy loss: 0.02100568811098734
+  grad norm: 0.016256338357925414
+  train_reward: 0.443115234375
+ policy step 1:
+  policy loss: 0.043592329819997146
+  grad norm: 0.021370910480618475
+  train_reward: 0.443115234375
+ policy step 2:
+  policy loss: 0.045503091967354206
+  grad norm: 0.027654581144452094
+  train_reward: 0.443115234375
+ policy step 3:
+  policy loss: 0.06430247776831188
+  grad norm: 0.0322768822312355
+  train_reward: 0.443115234375
+ policy step 4:
+  policy loss: 0.07237212693629165
+  grad norm: 0.03837340883910656
+  train_reward: 0.443115234375
+epoch: 170:
+ value_loss: 0.4772691607475281
+ policy step 0:
+  policy loss: 0.01479191357890765
+  grad norm: 0.008074936270713807
+  train_reward: 0.2080078125
+ policy step 1:
+  policy loss: 0.05596512348856777
+  grad norm: 0.015264766663312912
+  train_reward: 0.2080078125
+ policy step 2:
+  policy loss: 0.06634177196926126
+  grad norm: 0.020943477004766464
+  train_reward: 0.2080078125
+ policy step 3:
+  policy loss: 0.09216785751438392
+  grad norm: 0.03107398450374603
+  train_reward: 0.2080078125
+ policy step 4:
+  policy loss: 0.13324213140488916
+  grad norm: 0.03960837423801422
+  train_reward: 0.2080078125
+epoch: 171:
+ value_loss: 0.7339843869209289
+ policy step 0:
+  policy loss: 0.08153604484299042
+  grad norm: 0.008410230278968811
+  train_reward: -0.2685546875
+ policy step 1:
+  policy loss: 0.18515943255721748
+  grad norm: 0.018904009461402894
+  train_reward: -0.2685546875
+ policy step 2:
+  policy loss: 0.24028755753436906
+  grad norm: 0.03166666030883789
+  train_reward: -0.2685546875
+ policy step 3:
+  policy loss: 0.3033797702858768
+  grad norm: 0.038520317524671555
+  train_reward: -0.2685546875
+ policy step 4:
+  policy loss: 0.33674673777519876
+  grad norm: 0.04489670395851135
+  train_reward: -0.2685546875
+epoch: 172:
+ value_loss: 0.49545218944549557
+ policy step 0:
+  policy loss: -0.007257362827658653
+  grad norm: 0.007087133079767227
+  train_reward: -0.389892578125
+ policy step 1:
+  policy loss: 0.03510085468490918
+  grad norm: 0.01447208896279335
+  train_reward: -0.389892578125
+ policy step 2:
+  policy loss: 0.02444343232394506
+  grad norm: 0.021109557151794432
+  train_reward: -0.389892578125
+ policy step 3:
+  policy loss: 0.042968350470376504
+  grad norm: 0.028733898699283597
+  train_reward: -0.389892578125
+ policy step 4:
+  policy loss: 0.062435567867942146
+  grad norm: 0.03377854563295841
+  train_reward: -0.389892578125
+epoch: 173:
+ value_loss: 0.41257204413414
+ policy step 0:
+  policy loss: 0.02136993755896886
+  grad norm: 0.007726643979549408
+  train_reward: -0.0221710205078125
+ policy step 1:
+  policy loss: 0.00023284268875916215
+  grad norm: 0.016242146492004395
+  train_reward: -0.0221710205078125
+ policy step 2:
+  policy loss: -0.014218795330574125
+  grad norm: 0.024522054940462112
+  train_reward: -0.0221710205078125
+ policy step 3:
+  policy loss: 0.0009585342990855255
+  grad norm: 0.03396283835172653
+  train_reward: -0.0221710205078125
+ policy step 4:
+  policy loss: -0.006687532458454382
+  grad norm: 0.04059392660856247
+  train_reward: -0.0221710205078125
+epoch: 174:
+ value_loss: 0.49768237471580506
+ policy step 0:
+  policy loss: 0.02904395118045311
+  grad norm: 0.0051646318286657335
+  train_reward: 0.2998046875
+ policy step 1:
+  policy loss: 0.004465899911398697
+  grad norm: 0.011594872549176218
+  train_reward: 0.2998046875
+ policy step 2:
+  policy loss: -0.014840173736835514
+  grad norm: 0.018954480066895485
+  train_reward: 0.2998046875
+ policy step 3:
+  policy loss: -0.010928181450193121
+  grad norm: 0.030081449076533318
+  train_reward: 0.2998046875
+ policy step 4:
+  policy loss: -0.039855837185556686
+  grad norm: 0.04214031659066677
+  train_reward: 0.2998046875
+epoch: 175:
+ value_loss: 0.5007390320301056
+ policy step 0:
+  policy loss: -0.0006828760107358313
+  grad norm: 0.006922975927591324
+  train_reward: 0.58837890625
+ policy step 1:
+  policy loss: 0.01674833815131175
+  grad norm: 0.013559961318969726
+  train_reward: 0.58837890625
+ policy step 2:
+  policy loss: -0.0032464141129594313
+  grad norm: 0.019446665048599245
+  train_reward: 0.58837890625
+ policy step 3:
+  policy loss: -0.06082246782671821
+  grad norm: 0.027074027806520462
+  train_reward: 0.58837890625
+ policy step 4:
+  policy loss: -0.08059056060802351
+  grad norm: 0.03452625572681427
+  train_reward: 0.58837890625
+epoch: 176:
+ value_loss: 0.49180182814598083
+ policy step 0:
+  policy loss: -0.07485063535471757
+  grad norm: 0.00800250917673111
+  train_reward: 0.7392578125
+ policy step 1:
+  policy loss: -0.10765681192278861
+  grad norm: 0.01580428257584572
+  train_reward: 0.7392578125
+ policy step 2:
+  policy loss: -0.1453185388197501
+  grad norm: 0.02474614754319191
+  train_reward: 0.7392578125
+ policy step 3:
+  policy loss: -0.1725031464050213
+  grad norm: 0.03077523373067379
+  train_reward: 0.7392578125
+ policy step 4:
+  policy loss: -0.1808182276164491
+  grad norm: 0.037304827198386195
+  train_reward: 0.7392578125
+epoch: 177:
+ value_loss: 0.5558750629425049
+ policy step 0:
+  policy loss: -0.015314757358282806
+  grad norm: 0.006956997513771057
+  train_reward: 0.444091796875
+ policy step 1:
+  policy loss: -0.061083739157766104
+  grad norm: 0.017525679618120193
+  train_reward: 0.444091796875
+ policy step 2:
+  policy loss: -0.1271196345798671
+  grad norm: 0.031827650219202044
+  train_reward: 0.444091796875
+ policy step 3:
+  policy loss: -0.15725822166229284
+  grad norm: 0.04445397779345513
+  train_reward: 0.444091796875
+ policy step 4:
+  policy loss: -0.20997451981529588
+  grad norm: 0.05502643436193466
+  train_reward: 0.444091796875
+epoch: 178:
+ value_loss: 0.7329544663429262
+ policy step 0:
+  policy loss: -0.017974594173332054
+  grad norm: 0.008701296895742417
+  train_reward: 0.2109375
+ policy step 1:
+  policy loss: 0.002584405305484939
+  grad norm: 0.015972162783145904
+  train_reward: 0.2109375
+ policy step 2:
+  policy loss: -0.01960899302115042
+  grad norm: 0.0264457993209362
+  train_reward: 0.2109375
+ policy step 3:
+  policy loss: -0.028270303520063544
+  grad norm: 0.03617460578680038
+  train_reward: 0.2109375
+ policy step 4:
+  policy loss: -0.03259058278053996
+  grad norm: 0.045371225476264945
+  train_reward: 0.2109375
+epoch: 179:
+ value_loss: 0.81010901927948
+ policy step 0:
+  policy loss: -0.028533453618486724
+  grad norm: 0.009512028843164443
+  train_reward: 0.2279052734375
+ policy step 1:
+  policy loss: -0.04445345563193162
+  grad norm: 0.019076330959796904
+  train_reward: 0.2279052734375
+ policy step 2:
+  policy loss: -0.07270472341527541
+  grad norm: 0.025700815767049787
+  train_reward: 0.2279052734375
+ policy step 3:
+  policy loss: -0.05294309028734764
+  grad norm: 0.03762586861848831
+  train_reward: 0.2279052734375
+ policy step 4:
+  policy loss: -0.12221636610726512
+  grad norm: 0.045727425068616864
+  train_reward: 0.2279052734375
+epoch: 180:
+ value_loss: 0.7568104863166809
+ policy step 0:
+  policy loss: 0.0016023367643356306
+  grad norm: 0.01623075008392334
+  train_reward: 0.43505859375
+ policy step 1:
+  policy loss: -0.04437703142563502
+  grad norm: 0.028176920115947725
+  train_reward: 0.43505859375
+ policy step 2:
+  policy loss: -0.07455571508035065
+  grad norm: 0.03740117773413658
+  train_reward: 0.43505859375
+ policy step 3:
+  policy loss: -0.12200649967417121
+  grad norm: 0.051775424927473064
+  train_reward: 0.43505859375
+ policy step 4:
+  policy loss: -0.16995565155521034
+  grad norm: 0.06370430886745453
+  train_reward: 0.43505859375
+epoch: 181:
+ value_loss: 0.638812780380249
+ policy step 0:
+  policy loss: -0.08784545945624511
+  grad norm: 0.009633894264698028
+  train_reward: 0.41845703125
+ policy step 1:
+  policy loss: -0.14855893217027186
+  grad norm: 0.020060043036937713
+  train_reward: 0.41845703125
+ policy step 2:
+  policy loss: -0.20712489010766147
+  grad norm: 0.029701459407806396
+  train_reward: 0.41845703125
+ policy step 3:
+  policy loss: -0.2423076113996406
+  grad norm: 0.038960324972867964
+  train_reward: 0.41845703125
+ policy step 4:
+  policy loss: -0.2775378780439496
+  grad norm: 0.0460158459842205
+  train_reward: 0.41845703125
+epoch: 182:
+ value_loss: 0.45812781453132634
+ policy step 0:
+  policy loss: -0.05335077047348023
+  grad norm: 0.009330162405967712
+  train_reward: 0.329345703125
+ policy step 1:
+  policy loss: -0.06197481089426825
+  grad norm: 0.0207629881799221
+  train_reward: 0.329345703125
+ policy step 2:
+  policy loss: -0.11553409248978519
+  grad norm: 0.029266678541898725
+  train_reward: 0.329345703125
+ policy step 3:
+  policy loss: -0.1308916303057534
+  grad norm: 0.03759123235940933
+  train_reward: 0.329345703125
+ policy step 4:
+  policy loss: -0.16947114371772237
+  grad norm: 0.04446764215826988
+  train_reward: 0.329345703125
+epoch: 183:
+ value_loss: 0.48080468177795405
+ policy step 0:
+  policy loss: -0.02743117337425549
+  grad norm: 0.013111691176891326
+  train_reward: 0.44482421875
+ policy step 1:
+  policy loss: -0.03586032347132761
+  grad norm: 0.020040850341320037
+  train_reward: 0.44482421875
+ policy step 2:
+  policy loss: -0.05109261724477013
+  grad norm: 0.02875406742095947
+  train_reward: 0.44482421875
+ policy step 3:
+  policy loss: -0.08383534243330358
+  grad norm: 0.03737348094582557
+  train_reward: 0.44482421875
+ policy step 4:
+  policy loss: -0.1543053696863353
+  grad norm: 0.04859105199575424
+  train_reward: 0.44482421875
+epoch: 184:
+ value_loss: 0.7429376006126404
+ policy step 0:
+  policy loss: 0.01651281604232887
+  grad norm: 0.010448174923658371
+  train_reward: 0.3837890625
+ policy step 1:
+  policy loss: 0.00897121468248466
+  grad norm: 0.0205741785466671
+  train_reward: 0.3837890625
+ policy step 2:
+  policy loss: -0.02095005930556606
+  grad norm: 0.0304922915995121
+  train_reward: 0.3837890625
+ policy step 3:
+  policy loss: -0.06643493016405652
+  grad norm: 0.038583344966173175
+  train_reward: 0.3837890625
+ policy step 4:
+  policy loss: -0.06408642868045718
+  grad norm: 0.048181094229221344
+  train_reward: 0.3837890625
+epoch: 185:
+ value_loss: 0.6517392158508301
+ policy step 0:
+  policy loss: -0.0687974788248539
+  grad norm: 0.009321840107440948
+  train_reward: 0.2451171875
+ policy step 1:
+  policy loss: -0.057453636080026654
+  grad norm: 0.020613560825586318
+  train_reward: 0.2451171875
+ policy step 2:
+  policy loss: -0.06635931829611462
+  grad norm: 0.030867456644773483
+  train_reward: 0.2451171875
+ policy step 3:
+  policy loss: -0.10301001053303481
+  grad norm: 0.040237024426460266
+  train_reward: 0.2451171875
+ policy step 4:
+  policy loss: -0.08314083646982909
+  grad norm: 0.05194347724318504
+  train_reward: 0.2451171875
+epoch: 186:
+ value_loss: 0.5109271466732025
+ policy step 0:
+  policy loss: -0.0364592461536328
+  grad norm: 0.010494428873062133
+  train_reward: 0.423095703125
+ policy step 1:
+  policy loss: -0.023287692790230116
+  grad norm: 0.01873224452137947
+  train_reward: 0.423095703125
+ policy step 2:
+  policy loss: -0.06376391841719549
+  grad norm: 0.025828534364700315
+  train_reward: 0.423095703125
+ policy step 3:
+  policy loss: -0.08486233508835238
+  grad norm: 0.033785701543092725
+  train_reward: 0.423095703125
+ policy step 4:
+  policy loss: -0.1281079782173038
+  grad norm: 0.040592844039201735
+  train_reward: 0.423095703125
+epoch: 187:
+ value_loss: 0.6733553767204283
+ policy step 0:
+  policy loss: 0.018486261926591398
+  grad norm: 0.011334071308374405
+  train_reward: 0.37548828125
+ policy step 1:
+  policy loss: 0.00701275275399288
+  grad norm: 0.022484342008829115
+  train_reward: 0.37548828125
+ policy step 2:
+  policy loss: 0.014654777199029932
+  grad norm: 0.03071961775422096
+  train_reward: 0.37548828125
+ policy step 3:
+  policy loss: 0.025182342956153063
+  grad norm: 0.039222922176122665
+  train_reward: 0.37548828125
+ policy step 4:
+  policy loss: 0.044987011103269955
+  grad norm: 0.053652486950159076
+  train_reward: 0.37548828125
+epoch: 188:
+ value_loss: 1.0080377221107482
+ policy step 0:
+  policy loss: 0.008221687873204552
+  grad norm: 0.008816729485988616
+  train_reward: 0.340087890625
+ policy step 1:
+  policy loss: 0.00920302433272203
+  grad norm: 0.018286120146512985
+  train_reward: 0.340087890625
+ policy step 2:
+  policy loss: 0.013154489981631438
+  grad norm: 0.029996754229068757
+  train_reward: 0.340087890625
+ policy step 3:
+  policy loss: 0.04063659875343241
+  grad norm: 0.039563345909118655
+  train_reward: 0.340087890625
+ policy step 4:
+  policy loss: 0.11777825652000803
+  grad norm: 0.05531853586435318
+  train_reward: 0.340087890625
+epoch: 189:
+ value_loss: 0.7721819639205932
+ policy step 0:
+  policy loss: -0.030713709443807604
+  grad norm: 0.0068216539919376375
+  train_reward: 0.58251953125
+ policy step 1:
+  policy loss: 0.02889291988685727
+  grad norm: 0.019188404828310014
+  train_reward: 0.58251953125
+ policy step 2:
+  policy loss: 0.01987409113595883
+  grad norm: 0.026191300898790362
+  train_reward: 0.58251953125
+ policy step 3:
+  policy loss: 0.012419791581730054
+  grad norm: 0.04294063523411751
+  train_reward: 0.58251953125
+ policy step 4:
+  policy loss: 0.038096304672459766
+  grad norm: 0.05216425806283951
+  train_reward: 0.58251953125
+epoch: 190:
+ value_loss: 0.49629161357879636
+ policy step 0:
+  policy loss: -0.0013763485476374635
+  grad norm: 0.0070849694311618805
+  train_reward: 0.541015625
+ policy step 1:
+  policy loss: 0.03775940059373776
+  grad norm: 0.01619151309132576
+  train_reward: 0.541015625
+ policy step 2:
+  policy loss: 0.04178578952948252
+  grad norm: 0.02392204850912094
+  train_reward: 0.541015625
+ policy step 3:
+  policy loss: 0.06235293733576933
+  grad norm: 0.030735714733600615
+  train_reward: 0.541015625
+ policy step 4:
+  policy loss: 0.10482778114577135
+  grad norm: 0.03835906386375427
+  train_reward: 0.541015625
+epoch: 191:
+ value_loss: 0.4043413698673248
+ policy step 0:
+  policy loss: 0.02343177180737257
+  grad norm: 0.007988005876541138
+  train_reward: 0.360107421875
+ policy step 1:
+  policy loss: 0.04377333590139945
+  grad norm: 0.013111894950270653
+  train_reward: 0.360107421875
+ policy step 2:
+  policy loss: 0.044399579303960005
+  grad norm: 0.019240105897188185
+  train_reward: 0.360107421875
+ policy step 3:
+  policy loss: 0.07024092621480424
+  grad norm: 0.02563505172729492
+  train_reward: 0.360107421875
+ policy step 4:
+  policy loss: 0.07607186582560341
+  grad norm: 0.030604038387537003
+  train_reward: 0.360107421875
+epoch: 192:
+ value_loss: 0.43422350883483884
+ policy step 0:
+  policy loss: 0.06552963182330131
+  grad norm: 0.006458129733800888
+  train_reward: 0.1376953125
+ policy step 1:
+  policy loss: 0.11811938658356666
+  grad norm: 0.013105400651693345
+  train_reward: 0.1376953125
+ policy step 2:
+  policy loss: 0.13288774183019997
+  grad norm: 0.021350199729204176
+  train_reward: 0.1376953125
+ policy step 3:
+  policy loss: 0.1492086172414323
+  grad norm: 0.027197157964110374
+  train_reward: 0.1376953125
+ policy step 4:
+  policy loss: 0.15886745033785704
+  grad norm: 0.032790716364979745
+  train_reward: 0.1376953125
+epoch: 193:
+ value_loss: 0.39852241873741157
+ policy step 0:
+  policy loss: 0.03394776011506716
+  grad norm: 0.006588166207075119
+  train_reward: 0.34033203125
+ policy step 1:
+  policy loss: 0.04597516012290725
+  grad norm: 0.018723752349615097
+  train_reward: 0.34033203125
+ policy step 2:
+  policy loss: 0.05319203351536997
+  grad norm: 0.026384292542934416
+  train_reward: 0.34033203125
+ policy step 3:
+  policy loss: 0.06330319651315221
+  grad norm: 0.035239236801862715
+  train_reward: 0.34033203125
+ policy step 4:
+  policy loss: 0.06814126951843112
+  grad norm: 0.04319477826356888
+  train_reward: 0.34033203125
+epoch: 194:
+ value_loss: 0.4099847078323364
+ policy step 0:
+  policy loss: -0.05343356182177861
+  grad norm: 0.008550568670034408
+  train_reward: 0.66650390625
+ policy step 1:
+  policy loss: -0.08764932385335365
+  grad norm: 0.014946423470973969
+  train_reward: 0.66650390625
+ policy step 2:
+  policy loss: -0.08360237187395493
+  grad norm: 0.022465362399816512
+  train_reward: 0.66650390625
+ policy step 3:
+  policy loss: -0.11816763250778119
+  grad norm: 0.02860267795622349
+  train_reward: 0.66650390625
+ policy step 4:
+  policy loss: -0.17110066047559183
+  grad norm: 0.03614439480006695
+  train_reward: 0.66650390625
+epoch: 195:
+ value_loss: 0.3999891698360444
+ policy step 0:
+  policy loss: -0.017584024618069332
+  grad norm: 0.02151097506284714
+  train_reward: 0.84716796875
+ policy step 1:
+  policy loss: -0.019937231391668316
+  grad norm: 0.026943653076887134
+  train_reward: 0.84716796875
+ policy step 2:
+  policy loss: -0.043282767695685224
+  grad norm: 0.05091764852404595
+  train_reward: 0.84716796875
+ policy step 3:
+  policy loss: -0.03138658634076515
+  grad norm: 0.05878897681832314
+  train_reward: 0.84716796875
+ policy step 4:
+  policy loss: -0.05690850977165004
+  grad norm: 0.0653016284108162
+  train_reward: 0.84716796875
+epoch: 196:
+ value_loss: 0.3461977124214173
+ policy step 0:
+  policy loss: 0.049510397641764334
+  grad norm: 0.0068765774369239805
+  train_reward: 0.56689453125
+ policy step 1:
+  policy loss: 0.09040495430817827
+  grad norm: 0.012116234749555588
+  train_reward: 0.56689453125
+ policy step 2:
+  policy loss: 0.08696862724997724
+  grad norm: 0.016895299032330512
+  train_reward: 0.56689453125
+ policy step 3:
+  policy loss: 0.08308847216345991
+  grad norm: 0.02150896154344082
+  train_reward: 0.56689453125
+ policy step 4:
+  policy loss: 0.10378897443491344
+  grad norm: 0.026105261966586114
+  train_reward: 0.56689453125
+epoch: 197:
+ value_loss: 0.3473632276058197
+ policy step 0:
+  policy loss: -0.013772643066477032
+  grad norm: 0.005877747759222984
+  train_reward: 0.485107421875
+ policy step 1:
+  policy loss: 0.0021702162106521424
+  grad norm: 0.012548183277249336
+  train_reward: 0.485107421875
+ policy step 2:
+  policy loss: 0.022855967946816234
+  grad norm: 0.02037111409008503
+  train_reward: 0.485107421875
+ policy step 3:
+  policy loss: 0.029715364262180313
+  grad norm: 0.024398494884371756
+  train_reward: 0.485107421875
+ policy step 4:
+  policy loss: 0.07380637435586926
+  grad norm: 0.029985860362648963
+  train_reward: 0.485107421875
+epoch: 198:
+ value_loss: 0.6205473661422729
+ policy step 0:
+  policy loss: 0.006336624423662823
+  grad norm: 0.014503006637096406
+  train_reward: 0.328857421875
+ policy step 1:
+  policy loss: -0.005914053941766421
+  grad norm: 0.021527856588363647
+  train_reward: 0.328857421875
+ policy step 2:
+  policy loss: -0.013719978105897705
+  grad norm: 0.027892160415649413
+  train_reward: 0.328857421875
+ policy step 3:
+  policy loss: 0.025756437326587424
+  grad norm: 0.03824599385261536
+  train_reward: 0.328857421875
+ policy step 4:
+  policy loss: 0.04003827073126255
+  grad norm: 0.04608900845050812
+  train_reward: 0.328857421875
+epoch: 199:
+ value_loss: 0.7426022410392761
+ policy step 0:
+  policy loss: -0.012577850185334681
+  grad norm: 0.009041378647089005
+  train_reward: 0.4130859375
+ policy step 1:
+  policy loss: 0.010721065600713096
+  grad norm: 0.017824440449476245
+  train_reward: 0.4130859375
+ policy step 2:
+  policy loss: 0.03726865202188491
+  grad norm: 0.028813216835260395
+  train_reward: 0.4130859375
+ policy step 3:
+  policy loss: 0.067949930143853
+  grad norm: 0.03879920989274979
+  train_reward: 0.4130859375
+ policy step 4:
+  policy loss: 0.10734322735418873
+  grad norm: 0.045776822417974476
+  train_reward: 0.4130859375
+epoch: 200:
+ value_loss: 0.7225600242614746
+ policy step 0:
+  policy loss: 0.09989125976959863
+  grad norm: 0.009720907360315324
+  train_reward: 0.150634765625
+ policy step 1:
+  policy loss: 0.057306031199793016
+  grad norm: 0.016678810864686967
+  train_reward: 0.150634765625
+ policy step 2:
+  policy loss: 0.06878371923230588
+  grad norm: 0.02424909397959709
+  train_reward: 0.150634765625
+ policy step 3:
+  policy loss: 0.08623411917748551
+  grad norm: 0.03912960961461067
+  train_reward: 0.150634765625
+ policy step 4:
+  policy loss: 0.09229839780988794
+  grad norm: 0.04707414656877518
+  train_reward: 0.150634765625
+epoch: 201:
+ value_loss: 0.6756027579307557
+ policy step 0:
+  policy loss: -0.0310218778749307
+  grad norm: 0.014269295334815978
+  train_reward: 0.377685546875
+ policy step 1:
+  policy loss: -0.10394842916478712
+  grad norm: 0.027301833033561707
+  train_reward: 0.377685546875
+ policy step 2:
+  policy loss: -0.11132245852301517
+  grad norm: 0.03779371902346611
+  train_reward: 0.377685546875
+ policy step 3:
+  policy loss: -0.07745221255075495
+  grad norm: 0.04682726562023162
+  train_reward: 0.377685546875
+ policy step 4:
+  policy loss: -0.10738463200978003
+  grad norm: 0.05633440986275672
+  train_reward: 0.377685546875
+epoch: 202:
+ value_loss: 0.5169720351696014
+ policy step 0:
+  policy loss: -0.01018257203201453
+  grad norm: 0.009715277701616287
+  train_reward: 0.259765625
+ policy step 1:
+  policy loss: -0.03952089461187522
+  grad norm: 0.01669171005487442
+  train_reward: 0.259765625
+ policy step 2:
+  policy loss: -0.07070069300631682
+  grad norm: 0.024341720342636108
+  train_reward: 0.259765625
+ policy step 3:
+  policy loss: -0.1089174528295795
+  grad norm: 0.036489345133304596
+  train_reward: 0.259765625
+ policy step 4:
+  policy loss: -0.14998559600984052
+  grad norm: 0.04717191755771637
+  train_reward: 0.259765625
+epoch: 203:
+ value_loss: 0.47092419266700747
+ policy step 0:
+  policy loss: -0.0618672026321292
+  grad norm: 0.005713314563035965
+  train_reward: 0.226806640625
+ policy step 1:
+  policy loss: -0.07361774003754058
+  grad norm: 0.01225278079509735
+  train_reward: 0.226806640625
+ policy step 2:
+  policy loss: -0.0901159823561708
+  grad norm: 0.02020938768982887
+  train_reward: 0.226806640625
+ policy step 3:
+  policy loss: -0.11283230185508729
+  grad norm: 0.025505529716610905
+  train_reward: 0.226806640625
+ policy step 4:
+  policy loss: -0.19568283644815287
+  grad norm: 0.03688777573406696
+  train_reward: 0.226806640625
+epoch: 204:
+ value_loss: 0.7026329874992371
+ policy step 0:
+  policy loss: -0.03920814053465922
+  grad norm: 0.008632959425449371
+  train_reward: 0.1375732421875
+ policy step 1:
+  policy loss: -0.045655086201926064
+  grad norm: 0.015844055265188218
+  train_reward: 0.1375732421875
+ policy step 2:
+  policy loss: -0.04395113519082465
+  grad norm: 0.028485769778490065
+  train_reward: 0.1375732421875
+ policy step 3:
+  policy loss: -0.06516988401611644
+  grad norm: 0.04004547446966171
+  train_reward: 0.1375732421875
+ policy step 4:
+  policy loss: -0.05704888942806669
+  grad norm: 0.04682024195790291
+  train_reward: 0.1375732421875
+epoch: 205:
+ value_loss: 0.69538334608078
+ policy step 0:
+  policy loss: -0.048927801164488
+  grad norm: 0.006946928054094315
+  train_reward: 0.362548828125
+ policy step 1:
+  policy loss: -0.10315359315524499
+  grad norm: 0.01609811559319496
+  train_reward: 0.362548828125
+ policy step 2:
+  policy loss: -0.16277985223568978
+  grad norm: 0.027861134707927705
+  train_reward: 0.362548828125
+ policy step 3:
+  policy loss: -0.1987133602146059
+  grad norm: 0.03891791254281998
+  train_reward: 0.362548828125
+ policy step 4:
+  policy loss: -0.2274852891607831
+  grad norm: 0.04771583825349808
+  train_reward: 0.362548828125
+epoch: 206:
+ value_loss: 0.5959886193275451
+ policy step 0:
+  policy loss: -0.04871606074739249
+  grad norm: 0.006188979744911194
+  train_reward: 0.35205078125
+ policy step 1:
+  policy loss: -0.08949487736293428
+  grad norm: 0.01811266988515854
+  train_reward: 0.35205078125
+ policy step 2:
+  policy loss: -0.08778616375445081
+  grad norm: 0.026903805881738664
+  train_reward: 0.35205078125
+ policy step 3:
+  policy loss: -0.09679292638320479
+  grad norm: 0.036462140083312986
+  train_reward: 0.35205078125
+ policy step 4:
+  policy loss: -0.1109641605910535
+  grad norm: 0.04381443485617637
+  train_reward: 0.35205078125
+epoch: 207:
+ value_loss: 0.4884109258651734
+ policy step 0:
+  policy loss: -0.019142803984383748
+  grad norm: 0.008666229248046876
+  train_reward: 0.62255859375
+ policy step 1:
+  policy loss: -0.08191760904155672
+  grad norm: 0.022865451872348785
+  train_reward: 0.62255859375
+ policy step 2:
+  policy loss: -0.09398205728890996
+  grad norm: 0.029695045202970505
+  train_reward: 0.62255859375
+ policy step 3:
+  policy loss: -0.08228506903784973
+  grad norm: 0.040471340715885165
+  train_reward: 0.62255859375
+ policy step 4:
+  policy loss: -0.1371937546413392
+  grad norm: 0.049760863184928894
+  train_reward: 0.62255859375
+epoch: 208:
+ value_loss: 0.6076813101768493
+ policy step 0:
+  policy loss: -0.021439564724763237
+  grad norm: 0.011183041334152221
+  train_reward: 0.55126953125
+ policy step 1:
+  policy loss: -0.03966241786256434
+  grad norm: 0.019674233347177505
+  train_reward: 0.55126953125
+ policy step 2:
+  policy loss: 0.0006939517644544324
+  grad norm: 0.02545224502682686
+  train_reward: 0.55126953125
+ policy step 3:
+  policy loss: -0.018299395746241027
+  grad norm: 0.03194498792290688
+  train_reward: 0.55126953125
+ policy step 4:
+  policy loss: -0.0095441323084136
+  grad norm: 0.04193677082657814
+  train_reward: 0.55126953125
+epoch: 209:
+ value_loss: 0.7739747762680054
+ policy step 0:
+  policy loss: -0.07932235027352968
+  grad norm: 0.011862160265445709
+  train_reward: 0.75
+ policy step 1:
+  policy loss: -0.08970882749805849
+  grad norm: 0.021279562264680862
+  train_reward: 0.75
+ policy step 2:
+  policy loss: -0.1680127161652005
+  grad norm: 0.03971847370266914
+  train_reward: 0.75
+ policy step 3:
+  policy loss: -0.2089209332848744
+  grad norm: 0.0498094879090786
+  train_reward: 0.75
+ policy step 4:
+  policy loss: -0.27485254450196717
+  grad norm: 0.062098704278469086
+  train_reward: 0.75
+epoch: 210:
+ value_loss: 0.7851364612579346
+ policy step 0:
+  policy loss: -0.01768540081878503
+  grad norm: 0.010047312080860137
+  train_reward: 0.308349609375
+ policy step 1:
+  policy loss: -0.06176107376813888
+  grad norm: 0.021103159338235852
+  train_reward: 0.308349609375
+ policy step 2:
+  policy loss: -0.07009711638092994
+  grad norm: 0.02931924611330032
+  train_reward: 0.308349609375
+ policy step 3:
+  policy loss: -0.07416095261772472
+  grad norm: 0.04190240651369095
+  train_reward: 0.308349609375
+ policy step 4:
+  policy loss: -0.04477758876358468
+  grad norm: 0.047401782125234604
+  train_reward: 0.308349609375
+epoch: 211:
+ value_loss: 0.7706280112266541
+ policy step 0:
+  policy loss: 0.011780381668359045
+  grad norm: 0.008512885123491288
+  train_reward: 0.1107177734375
+ policy step 1:
+  policy loss: 0.04130850008999307
+  grad norm: 0.026544950157403945
+  train_reward: 0.1107177734375
+ policy step 2:
+  policy loss: 0.08998472495004534
+  grad norm: 0.037754985690116885
+  train_reward: 0.1107177734375
+ policy step 3:
+  policy loss: 0.08720862551902729
+  grad norm: 0.04758721590042114
+  train_reward: 0.1107177734375
+ policy step 4:
+  policy loss: 0.13261172234391172
+  grad norm: 0.06226528286933899
+  train_reward: 0.1107177734375
+epoch: 212:
+ value_loss: 0.6642829418182373
+ policy step 0:
+  policy loss: -0.017530095639328162
+  grad norm: 0.006698431819677353
+  train_reward: 0.129638671875
+ policy step 1:
+  policy loss: -0.04766383077949286
+  grad norm: 0.020323150604963303
+  train_reward: 0.129638671875
+ policy step 2:
+  policy loss: -0.011738497205078614
+  grad norm: 0.031347275525331494
+  train_reward: 0.129638671875
+ policy step 3:
+  policy loss: 0.0037111261238654313
+  grad norm: 0.04590814933180809
+  train_reward: 0.129638671875
+ policy step 4:
+  policy loss: 0.02070206813514231
+  grad norm: 0.05286703109741211
+  train_reward: 0.129638671875
+epoch: 213:
+ value_loss: 0.6033187925815583
+ policy step 0:
+  policy loss: 0.013464409578591583
+  grad norm: 0.008091089874505996
+  train_reward: 0.6708984375
+ policy step 1:
+  policy loss: -0.020261172484606505
+  grad norm: 0.01722896173596382
+  train_reward: 0.6708984375
+ policy step 2:
+  policy loss: -0.037180190533399576
+  grad norm: 0.027181415259838103
+  train_reward: 0.6708984375
+ policy step 3:
+  policy loss: -0.08192724088827767
+  grad norm: 0.03225942924618721
+  train_reward: 0.6708984375
+ policy step 4:
+  policy loss: -0.10207041545460618
+  grad norm: 0.043450698256492615
+  train_reward: 0.6708984375
+epoch: 214:
+ value_loss: 0.41365196704864504
+ policy step 0:
+  policy loss: -0.007854323958357175
+  grad norm: 0.01211821436882019
+  train_reward: 0.8681640625
+ policy step 1:
+  policy loss: -0.08934682967762153
+  grad norm: 0.021143250167369843
+  train_reward: 0.8681640625
+ policy step 2:
+  policy loss: -0.101727415372928
+  grad norm: 0.02683444693684578
+  train_reward: 0.8681640625
+ policy step 3:
+  policy loss: -0.11598317076762517
+  grad norm: 0.030470599979162218
+  train_reward: 0.8681640625
+ policy step 4:
+  policy loss: -0.15083783774947127
+  grad norm: 0.03740008771419525
+  train_reward: 0.8681640625
+epoch: 215:
+ value_loss: 0.34848031401634216
+ policy step 0:
+  policy loss: -0.006395744687567157
+  grad norm: 0.005445228889584541
+  train_reward: 0.7978515625
+ policy step 1:
+  policy loss: -0.007246903368892771
+  grad norm: 0.011622975394129754
+  train_reward: 0.7978515625
+ policy step 2:
+  policy loss: -0.03197749920655043
+  grad norm: 0.01705208756029606
+  train_reward: 0.7978515625
+ policy step 3:
+  policy loss: -0.07738510835139704
+  grad norm: 0.024128932133316995
+  train_reward: 0.7978515625
+ policy step 4:
+  policy loss: -0.11978913922406116
+  grad norm: 0.03418371267616749
+  train_reward: 0.7978515625
+epoch: 216:
+ value_loss: 0.35937235355377195
+ policy step 0:
+  policy loss: 0.013811599339048063
+  grad norm: 0.005958821997046471
+  train_reward: 0.7685546875
+ policy step 1:
+  policy loss: 0.020678698085248467
+  grad norm: 0.011182878166437149
+  train_reward: 0.7685546875
+ policy step 2:
+  policy loss: 0.025821868702769275
+  grad norm: 0.016981887444853783
+  train_reward: 0.7685546875
+ policy step 3:
+  policy loss: -0.016117389112090076
+  grad norm: 0.022977794334292412
+  train_reward: 0.7685546875
+ policy step 4:
+  policy loss: -0.008265089352304748
+  grad norm: 0.028956744819879532
+  train_reward: 0.7685546875
+epoch: 217:
+ value_loss: 0.36986654400825497
+ policy step 0:
+  policy loss: -0.03246558696652452
+  grad norm: 0.007600343227386475
+  train_reward: 0.826171875
+ policy step 1:
+  policy loss: -0.02507283380255103
+  grad norm: 0.01592753902077675
+  train_reward: 0.826171875
+ policy step 2:
+  policy loss: -0.06140843173488974
+  grad norm: 0.022415079921483994
+  train_reward: 0.826171875
+ policy step 3:
+  policy loss: -0.08212617750590047
+  grad norm: 0.02990593612194061
+  train_reward: 0.826171875
+ policy step 4:
+  policy loss: -0.10045022225628299
+  grad norm: 0.037107010185718534
+  train_reward: 0.826171875
+epoch: 218:
+ value_loss: 0.4765105128288269
+ policy step 0:
+  policy loss: 0.002709515268603959
+  grad norm: 0.01101396679878235
+  train_reward: 0.5908203125
+ policy step 1:
+  policy loss: 0.030731354778011637
+  grad norm: 0.020039932429790498
+  train_reward: 0.5908203125
+ policy step 2:
+  policy loss: 0.03351456370825569
+  grad norm: 0.029044918715953827
+  train_reward: 0.5908203125
+ policy step 3:
+  policy loss: 0.059945520572364325
+  grad norm: 0.03893662840127945
+  train_reward: 0.5908203125
+ policy step 4:
+  policy loss: 0.07243447168730201
+  grad norm: 0.04547566249966621
+  train_reward: 0.5908203125
+epoch: 219:
+ value_loss: 0.5364953458309174
+ policy step 0:
+  policy loss: 0.02599976143489282
+  grad norm: 0.00979178249835968
+  train_reward: 0.3974609375
+ policy step 1:
+  policy loss: 0.07938667237758637
+  grad norm: 0.017596102505922317
+  train_reward: 0.3974609375
+ policy step 2:
+  policy loss: 0.12515348866581916
+  grad norm: 0.02694898471236229
+  train_reward: 0.3974609375
+ policy step 3:
+  policy loss: 0.13045883680072926
+  grad norm: 0.03696109727025032
+  train_reward: 0.3974609375
+ policy step 4:
+  policy loss: 0.15851721662717563
+  grad norm: 0.04339805915951729
+  train_reward: 0.3974609375
+epoch: 220:
+ value_loss: 0.5757262945175171
+ policy step 0:
+  policy loss: 0.029900941283752515
+  grad norm: 0.008350488543510438
+  train_reward: 0.277099609375
+ policy step 1:
+  policy loss: 0.08546304606522123
+  grad norm: 0.015483989566564561
+  train_reward: 0.277099609375
+ policy step 2:
+  policy loss: 0.15804901529724402
+  grad norm: 0.02418854683637619
+  train_reward: 0.277099609375
+ policy step 3:
+  policy loss: 0.2458474458195269
+  grad norm: 0.035610205680131915
+  train_reward: 0.277099609375
+ policy step 4:
+  policy loss: 0.2950133347301744
+  grad norm: 0.04414745271205903
+  train_reward: 0.277099609375
+epoch: 221:
+ value_loss: 0.9876832604408264
+ policy step 0:
+  policy loss: 0.0563140711048618
+  grad norm: 0.009253863990306855
+  train_reward: 0.19580078125
+ policy step 1:
+  policy loss: 0.10094990937504916
+  grad norm: 0.017876128852367404
+  train_reward: 0.19580078125
+ policy step 2:
+  policy loss: 0.1998709102083618
+  grad norm: 0.02821508347988129
+  train_reward: 0.19580078125
+ policy step 3:
+  policy loss: 0.3093185667491828
+  grad norm: 0.042012552917003634
+  train_reward: 0.19580078125
+ policy step 4:
+  policy loss: 0.4002028827167426
+  grad norm: 0.05119535475969315
+  train_reward: 0.19580078125
+epoch: 222:
+ value_loss: 1.0666094064712526
+ policy step 0:
+  policy loss: 0.07894373238086701
+  grad norm: 0.02076472043991089
+  train_reward: 0.1331787109375
+ policy step 1:
+  policy loss: 0.15505937797327837
+  grad norm: 0.03261122107505798
+  train_reward: 0.1331787109375
+ policy step 2:
+  policy loss: 0.1899271719778578
+  grad norm: 0.04007357209920883
+  train_reward: 0.1331787109375
+ policy step 3:
+  policy loss: 0.2511337358504534
+  grad norm: 0.05072044283151626
+  train_reward: 0.1331787109375
+ policy step 4:
+  policy loss: 0.2873370164074004
+  grad norm: 0.061721780151128766
+  train_reward: 0.1331787109375
+epoch: 223:
+ value_loss: 0.7661118149757387
+ policy step 0:
+  policy loss: 0.060164121041695294
+  grad norm: 0.008125080913305282
+  train_reward: 0.447265625
+ policy step 1:
+  policy loss: 0.06549303463349741
+  grad norm: 0.016723058372735976
+  train_reward: 0.447265625
+ policy step 2:
+  policy loss: 0.05344561717162532
+  grad norm: 0.022611936926841734
+  train_reward: 0.447265625
+ policy step 3:
+  policy loss: 0.06732415057097875
+  grad norm: 0.033587048202753066
+  train_reward: 0.447265625
+ policy step 4:
+  policy loss: 0.10692155261834466
+  grad norm: 0.04615060910582543
+  train_reward: 0.447265625
+epoch: 224:
+ value_loss: 0.49208444356918335
+ policy step 0:
+  policy loss: -0.017584434368958075
+  grad norm: 0.008304659277200699
+  train_reward: 0.60498046875
+ policy step 1:
+  policy loss: -0.02455089337502917
+  grad norm: 0.01516730934381485
+  train_reward: 0.60498046875
+ policy step 2:
+  policy loss: -0.04216360750918588
+  grad norm: 0.022472425550222396
+  train_reward: 0.60498046875
+ policy step 3:
+  policy loss: -0.05943773988013467
+  grad norm: 0.029873827844858168
+  train_reward: 0.60498046875
+ policy step 4:
+  policy loss: -0.024565259708712504
+  grad norm: 0.037139417976140975
+  train_reward: 0.60498046875
+epoch: 225:
+ value_loss: 0.46641166210174556
+ policy step 0:
+  policy loss: -0.05812842063605785
+  grad norm: 0.009926842898130417
+  train_reward: 0.5556640625
+ policy step 1:
+  policy loss: -0.04832065310329198
+  grad norm: 0.017767008394002914
+  train_reward: 0.5556640625
+ policy step 2:
+  policy loss: -0.04334616994795699
+  grad norm: 0.02497505396604538
+  train_reward: 0.5556640625
+ policy step 3:
+  policy loss: -0.05316833194034793
+  grad norm: 0.035138892382383345
+  train_reward: 0.5556640625
+ policy step 4:
+  policy loss: -0.07617230053680638
+  grad norm: 0.047493001073598856
+  train_reward: 0.5556640625
+epoch: 226:
+ value_loss: 0.5390891194343567
+ policy step 0:
+  policy loss: 0.02188381118079026
+  grad norm: 0.00937395915389061
+  train_reward: 0.35205078125
+ policy step 1:
+  policy loss: -0.009004428796470171
+  grad norm: 0.018863201886415482
+  train_reward: 0.35205078125
+ policy step 2:
+  policy loss: -0.02885478132714828
+  grad norm: 0.030832965672016144
+  train_reward: 0.35205078125
+ policy step 3:
+  policy loss: -0.04458158416673541
+  grad norm: 0.03876129016280174
+  train_reward: 0.35205078125
+ policy step 4:
+  policy loss: -0.061033169273287065
+  grad norm: 0.04978621900081634
+  train_reward: 0.35205078125
+epoch: 227:
+ value_loss: 1.0624406576156615
+ policy step 0:
+  policy loss: 0.029451565941174825
+  grad norm: 0.008058199286460876
+  train_reward: 0.25048828125
+ policy step 1:
+  policy loss: 0.062340671196579926
+  grad norm: 0.025243917107582094
+  train_reward: 0.25048828125
+ policy step 2:
+  policy loss: 0.07185670729183281
+  grad norm: 0.0376484215259552
+  train_reward: 0.25048828125
+ policy step 3:
+  policy loss: 0.13630465482128787
+  grad norm: 0.04824593588709831
+  train_reward: 0.25048828125
+ policy step 4:
+  policy loss: 0.18592713862114282
+  grad norm: 0.06164098158478737
+  train_reward: 0.25048828125
+epoch: 228:
+ value_loss: 0.9897218942642212
+ policy step 0:
+  policy loss: -0.0026754181055973006
+  grad norm: 0.01382421851158142
+  train_reward: 0.292724609375
+ policy step 1:
+  policy loss: -0.024973207075769707
+  grad norm: 0.0316456526517868
+  train_reward: 0.292724609375
+ policy step 2:
+  policy loss: -0.018328804383054374
+  grad norm: 0.04375885799527168
+  train_reward: 0.292724609375
+ policy step 3:
+  policy loss: -0.05899369988280037
+  grad norm: 0.059821157902479175
+  train_reward: 0.292724609375
+ policy step 4:
+  policy loss: -0.016625921412681537
+  grad norm: 0.06952451094985009
+  train_reward: 0.292724609375
+epoch: 229:
+ value_loss: 0.8308135986328126
+ policy step 0:
+  policy loss: -0.0619198527187109
+  grad norm: 0.007214188575744629
+  train_reward: 0.6884765625
+ policy step 1:
+  policy loss: -0.09403469009945792
+  grad norm: 0.017925486713647843
+  train_reward: 0.6884765625
+ policy step 2:
+  policy loss: -0.1270976005122066
+  grad norm: 0.031214431673288346
+  train_reward: 0.6884765625
+ policy step 3:
+  policy loss: -0.16886469094703593
+  grad norm: 0.041300445795059204
+  train_reward: 0.6884765625
+ policy step 4:
+  policy loss: -0.2072868473206957
+  grad norm: 0.047880884259939194
+  train_reward: 0.6884765625
+epoch: 230:
+ value_loss: 0.523085069656372
+ policy step 0:
+  policy loss: -0.04568719404439132
+  grad norm: 0.012413254380226136
+  train_reward: 0.556640625
+ policy step 1:
+  policy loss: -0.08723510609318812
+  grad norm: 0.023314861953258513
+  train_reward: 0.556640625
+ policy step 2:
+  policy loss: -0.08946291351070008
+  grad norm: 0.029078564420342443
+  train_reward: 0.556640625
+ policy step 3:
+  policy loss: -0.09029161799699069
+  grad norm: 0.03762478046119213
+  train_reward: 0.556640625
+ policy step 4:
+  policy loss: -0.06477002743631603
+  grad norm: 0.047542748227715495
+  train_reward: 0.556640625
+epoch: 231:
+ value_loss: 0.5386935234069824
+ policy step 0:
+  policy loss: -0.004156849967936676
+  grad norm: 0.007728736847639084
+  train_reward: 0.6259765625
+ policy step 1:
+  policy loss: 0.021290407205621403
+  grad norm: 0.01768336519598961
+  train_reward: 0.6259765625
+ policy step 2:
+  policy loss: 0.008433106789986294
+  grad norm: 0.025535312294960023
+  train_reward: 0.6259765625
+ policy step 3:
+  policy loss: 0.012915160041302436
+  grad norm: 0.03169893734157085
+  train_reward: 0.6259765625
+ policy step 4:
+  policy loss: -0.01764060007408262
+  grad norm: 0.038972956314682956
+  train_reward: 0.6259765625
+epoch: 232:
+ value_loss: 0.5095263898372651
+ policy step 0:
+  policy loss: 0.030664048964778583
+  grad norm: 0.008181390911340713
+  train_reward: 0.431884765625
+ policy step 1:
+  policy loss: 0.0493564863378803
+  grad norm: 0.014371618628501892
+  train_reward: 0.431884765625
+ policy step 2:
+  policy loss: 0.010488546670724947
+  grad norm: 0.02101571261882782
+  train_reward: 0.431884765625
+ policy step 3:
+  policy loss: 0.03770187922442953
+  grad norm: 0.03067011758685112
+  train_reward: 0.431884765625
+ policy step 4:
+  policy loss: 0.050672945411254965
+  grad norm: 0.03775036036968231
+  train_reward: 0.431884765625
+epoch: 233:
+ value_loss: 0.5053834438323974
+ policy step 0:
+  policy loss: 0.041378080906967325
+  grad norm: 0.006174970418214798
+  train_reward: 0.20947265625
+ policy step 1:
+  policy loss: 0.023073143201569713
+  grad norm: 0.017358027398586273
+  train_reward: 0.20947265625
+ policy step 2:
+  policy loss: 0.06614464498901118
+  grad norm: 0.024905940145254137
+  train_reward: 0.20947265625
+ policy step 3:
+  policy loss: 0.11275730237830428
+  grad norm: 0.031079332530498507
+  train_reward: 0.20947265625
+ policy step 4:
+  policy loss: 0.15675973719141134
+  grad norm: 0.04076369553804398
+  train_reward: 0.20947265625
+epoch: 234:
+ value_loss: 0.40943204760551455
+ policy step 0:
+  policy loss: -0.07158821380386748
+  grad norm: 0.006859903037548065
+  train_reward: -0.006908416748046875
+ policy step 1:
+  policy loss: -0.08818621565587817
+  grad norm: 0.013510405272245406
+  train_reward: -0.006908416748046875
+ policy step 2:
+  policy loss: -0.06544883603540559
+  grad norm: 0.0210088774561882
+  train_reward: -0.006908416748046875
+ policy step 3:
+  policy loss: -0.04330586311407388
+  grad norm: 0.029432830214500424
+  train_reward: -0.006908416748046875
+ policy step 4:
+  policy loss: -0.055695625037575774
+  grad norm: 0.036069995164871214
+  train_reward: -0.006908416748046875
+epoch: 235:
+ value_loss: 0.39256744980812075
+ policy step 0:
+  policy loss: -0.05985681166251501
+  grad norm: 0.008870485424995422
+  train_reward: 0.209716796875
+ policy step 1:
+  policy loss: -0.10671717869117855
+  grad norm: 0.018205642700195312
+  train_reward: 0.209716796875
+ policy step 2:
+  policy loss: -0.12885416814436515
+  grad norm: 0.03666834831237793
+  train_reward: 0.209716796875
+ policy step 3:
+  policy loss: -0.14740111644172843
+  grad norm: 0.04258595108985901
+  train_reward: 0.209716796875
+ policy step 4:
+  policy loss: -0.14544354419017017
+  grad norm: 0.04754345156252385
+  train_reward: 0.209716796875
+epoch: 236:
+ value_loss: 0.40458090901374816
+ policy step 0:
+  policy loss: -0.021092881013949714
+  grad norm: 0.006186714768409729
+  train_reward: 0.4990234375
+ policy step 1:
+  policy loss: -0.020391868780522293
+  grad norm: 0.012930985540151596
+  train_reward: 0.4990234375
+ policy step 2:
+  policy loss: -0.02885332099394872
+  grad norm: 0.021407277882099153
+  train_reward: 0.4990234375
+ policy step 3:
+  policy loss: -0.05411030884133651
+  grad norm: 0.02732941582798958
+  train_reward: 0.4990234375
+ policy step 4:
+  policy loss: -0.0712315646582283
+  grad norm: 0.03291021026670933
+  train_reward: 0.4990234375
+epoch: 237:
+ value_loss: 0.29214673638343813
+ policy step 0:
+  policy loss: 0.0006125498563051249
+  grad norm: 0.005018835887312889
+  train_reward: 0.177734375
+ policy step 1:
+  policy loss: 0.006547097334017359
+  grad norm: 0.009488613530993461
+  train_reward: 0.177734375
+ policy step 2:
+  policy loss: -0.0026815116560707447
+  grad norm: 0.015485311672091483
+  train_reward: 0.177734375
+ policy step 3:
+  policy loss: 0.009670306788757447
+  grad norm: 0.019490996003150938
+  train_reward: 0.177734375
+ policy step 4:
+  policy loss: 0.0406292365437063
+  grad norm: 0.025190252438187597
+  train_reward: 0.177734375
+epoch: 238:
+ value_loss: 0.42502643465995793
+ policy step 0:
+  policy loss: 0.04240582858522734
+  grad norm: 0.005216671898961067
+  train_reward: 0.0408935546875
+ policy step 1:
+  policy loss: 0.0827355959957155
+  grad norm: 0.01119043119251728
+  train_reward: 0.0408935546875
+ policy step 2:
+  policy loss: 0.11877801677910611
+  grad norm: 0.01836979351937771
+  train_reward: 0.0408935546875
+ policy step 3:
+  policy loss: 0.14313204132098084
+  grad norm: 0.02451930530369282
+  train_reward: 0.0408935546875
+ policy step 4:
+  policy loss: 0.18981126731960105
+  grad norm: 0.030263866856694223
+  train_reward: 0.0408935546875
+epoch: 239:
+ value_loss: 0.7303614020347595
+ policy step 0:
+  policy loss: 0.01880815078814825
+  grad norm: 0.010346914827823638
+  train_reward: 0.2548828125
+ policy step 1:
+  policy loss: 0.03022420487056176
+  grad norm: 0.022388034313917157
+  train_reward: 0.2548828125
+ policy step 2:
+  policy loss: 0.07847470523168643
+  grad norm: 0.033208221197128296
+  train_reward: 0.2548828125
+ policy step 3:
+  policy loss: 0.088479185414811
+  grad norm: 0.04179277494549751
+  train_reward: 0.2548828125
+ policy step 4:
+  policy loss: 0.07859164439141755
+  grad norm: 0.05012542605400085
+  train_reward: 0.2548828125
+epoch: 240:
+ value_loss: 0.9665724277496339
+ policy step 0:
+  policy loss: -0.03868909504575034
+  grad norm: 0.01301114708185196
+  train_reward: 0.5703125
+ policy step 1:
+  policy loss: -0.061759087686611265
+  grad norm: 0.022916299849748613
+  train_reward: 0.5703125
+ policy step 2:
+  policy loss: -0.08802991865159128
+  grad norm: 0.032853227108716965
+  train_reward: 0.5703125
+ policy step 3:
+  policy loss: -0.10128186158714621
+  grad norm: 0.04131945669651031
+  train_reward: 0.5703125
+ policy step 4:
+  policy loss: -0.11677147820470661
+  grad norm: 0.05511683374643325
+  train_reward: 0.5703125
+epoch: 241:
+ value_loss: 0.632250463962555
+ policy step 0:
+  policy loss: 0.0045588364824652675
+  grad norm: 0.007097125053405762
+  train_reward: 0.54052734375
+ policy step 1:
+  policy loss: 0.0011125522976120315
+  grad norm: 0.01506865695118904
+  train_reward: 0.54052734375
+ policy step 2:
+  policy loss: -0.04715082912395398
+  grad norm: 0.022647725790739058
+  train_reward: 0.54052734375
+ policy step 3:
+  policy loss: -0.023852946337622895
+  grad norm: 0.029898523539304733
+  train_reward: 0.54052734375
+ policy step 4:
+  policy loss: 0.00866190999125441
+  grad norm: 0.036896871775388716
+  train_reward: 0.54052734375
+epoch: 242:
+ value_loss: 0.48496889472007754
+ policy step 0:
+  policy loss: -0.03584468099676693
+  grad norm: 0.0066571861505508425
+  train_reward: 0.66845703125
+ policy step 1:
+  policy loss: -0.024011269044907135
+  grad norm: 0.015443990379571913
+  train_reward: 0.66845703125
+ policy step 2:
+  policy loss: -0.03919041611952706
+  grad norm: 0.02368139624595642
+  train_reward: 0.66845703125
+ policy step 3:
+  policy loss: -0.051939981714046235
+  grad norm: 0.03357819393277168
+  train_reward: 0.66845703125
+ policy step 4:
+  policy loss: -0.018381286819931092
+  grad norm: 0.03990553766489029
+  train_reward: 0.66845703125
+epoch: 243:
+ value_loss: 0.6340839982032777
+ policy step 0:
+  policy loss: -0.08077154581745466
+  grad norm: 0.012605284154415131
+  train_reward: 0.67724609375
+ policy step 1:
+  policy loss: -0.14154708608984948
+  grad norm: 0.020885287970304492
+  train_reward: 0.67724609375
+ policy step 2:
+  policy loss: -0.19265943517287576
+  grad norm: 0.028704460710287098
+  train_reward: 0.67724609375
+ policy step 3:
+  policy loss: -0.18089909593885148
+  grad norm: 0.0364870123565197
+  train_reward: 0.67724609375
+ policy step 4:
+  policy loss: -0.22553676307822268
+  grad norm: 0.043692553788423544
+  train_reward: 0.67724609375
+epoch: 244:
+ value_loss: 0.767252242565155
+ policy step 0:
+  policy loss: 0.01838300561066717
+  grad norm: 0.01244073286652565
+  train_reward: 0.611328125
+ policy step 1:
+  policy loss: -0.015872748033143577
+  grad norm: 0.023162377625703813
+  train_reward: 0.611328125
+ policy step 2:
+  policy loss: 0.0008613365159059567
+  grad norm: 0.03601276353001595
+  train_reward: 0.611328125
+ policy step 3:
+  policy loss: -0.008868792086529227
+  grad norm: 0.0511498473584652
+  train_reward: 0.611328125
+ policy step 4:
+  policy loss: -0.026377041319695604
+  grad norm: 0.06309244334697724
+  train_reward: 0.611328125
+epoch: 245:
+ value_loss: 0.629601263999939
+ policy step 0:
+  policy loss: -0.009484489758809408
+  grad norm: 0.008110196143388749
+  train_reward: 0.51416015625
+ policy step 1:
+  policy loss: 0.02051359303295612
+  grad norm: 0.020157427340745927
+  train_reward: 0.51416015625
+ policy step 2:
+  policy loss: 0.054741003094629065
+  grad norm: 0.028974851965904234
+  train_reward: 0.51416015625
+ policy step 3:
+  policy loss: 0.031032469474788122
+  grad norm: 0.03929457515478134
+  train_reward: 0.51416015625
+ policy step 4:
+  policy loss: 0.05211111348471603
+  grad norm: 0.04972671568393707
+  train_reward: 0.51416015625
+epoch: 246:
+ value_loss: 0.5222240567207337
+ policy step 0:
+  policy loss: 0.04396908332904179
+  grad norm: 0.009944871813058854
+  train_reward: 0.447265625
+ policy step 1:
+  policy loss: 0.11620376172165076
+  grad norm: 0.023264089971780776
+  train_reward: 0.447265625
+ policy step 2:
+  policy loss: 0.16740153382221853
+  grad norm: 0.031038886308670043
+  train_reward: 0.447265625
+ policy step 3:
+  policy loss: 0.21914421195785205
+  grad norm: 0.03806930184364319
+  train_reward: 0.447265625
+ policy step 4:
+  policy loss: 0.24611870298782984
+  grad norm: 0.044954951107501986
+  train_reward: 0.447265625
+epoch: 247:
+ value_loss: 0.5481438636779785
+ policy step 0:
+  policy loss: 0.05870043858885765
+  grad norm: 0.009316494315862655
+  train_reward: 0.195068359375
+ policy step 1:
+  policy loss: 0.10269241047402224
+  grad norm: 0.015193294733762741
+  train_reward: 0.195068359375
+ policy step 2:
+  policy loss: 0.1805409170687199
+  grad norm: 0.0249939002096653
+  train_reward: 0.195068359375
+ policy step 3:
+  policy loss: 0.1971646149953207
+  grad norm: 0.031981796771287915
+  train_reward: 0.195068359375
+ policy step 4:
+  policy loss: 0.25225788569077856
+  grad norm: 0.04035227447748184
+  train_reward: 0.195068359375
+epoch: 248:
+ value_loss: 0.557274854183197
+ policy step 0:
+  policy loss: 0.02502291761338711
+  grad norm: 0.007319258898496628
+  train_reward: 0.3203125
+ policy step 1:
+  policy loss: 0.07841561548411849
+  grad norm: 0.016353142261505128
+  train_reward: 0.3203125
+ policy step 2:
+  policy loss: 0.1102176939758162
+  grad norm: 0.0234660267829895
+  train_reward: 0.3203125
+ policy step 3:
+  policy loss: 0.16136143496260044
+  grad norm: 0.031622815132141116
+  train_reward: 0.3203125
+ policy step 4:
+  policy loss: 0.17271643085405222
+  grad norm: 0.04270984157919884
+  train_reward: 0.3203125
+epoch: 249:
+ value_loss: 0.49785609841346734
+ policy step 0:
+  policy loss: 0.01310523313780626
+  grad norm: 0.008623554557561874
+  train_reward: 0.40234375
+ policy step 1:
+  policy loss: 0.02902275160886348
+  grad norm: 0.014054356142878532
+  train_reward: 0.40234375
+ policy step 2:
+  policy loss: 0.08445665682666004
+  grad norm: 0.02270047999918461
+  train_reward: 0.40234375
+ policy step 3:
+  policy loss: 0.07249115402810274
+  grad norm: 0.031019775196909904
+  train_reward: 0.40234375
+ policy step 4:
+  policy loss: 0.008716922827685866
+  grad norm: 0.037970525398850444
+  train_reward: 0.40234375
+epoch: 250:
+ value_loss: 0.3929210305213928
+ policy step 0:
+  policy loss: 0.010954378933335344
+  grad norm: 0.008913636952638627
+  train_reward: 0.66455078125
+ policy step 1:
+  policy loss: -0.0167350432369858
+  grad norm: 0.019464365392923358
+  train_reward: 0.66455078125
+ policy step 2:
+  policy loss: -0.04545080002086858
+  grad norm: 0.0278560571372509
+  train_reward: 0.66455078125
+ policy step 3:
+  policy loss: -0.037796780948216716
+  grad norm: 0.033575573936104774
+  train_reward: 0.66455078125
+ policy step 4:
+  policy loss: -0.07547515517411134
+  grad norm: 0.05345549173653126
+  train_reward: 0.66455078125
+epoch: 251:
+ value_loss: 0.43899399042129517
+ policy step 0:
+  policy loss: -0.0037078501656651495
+  grad norm: 0.006600521504878998
+  train_reward: 0.385986328125
+ policy step 1:
+  policy loss: 0.003283002662161984
+  grad norm: 0.013659895956516266
+  train_reward: 0.385986328125
+ policy step 2:
+  policy loss: 0.012903554225340483
+  grad norm: 0.02223896011710167
+  train_reward: 0.385986328125
+ policy step 3:
+  policy loss: 0.0724593883380294
+  grad norm: 0.02995120733976364
+  train_reward: 0.385986328125
+ policy step 4:
+  policy loss: 0.09665046141793333
+  grad norm: 0.03637336567044258
+  train_reward: 0.385986328125
+epoch: 252:
+ value_loss: 0.37000832557678226
+ policy step 0:
+  policy loss: 0.010647415889737506
+  grad norm: 0.006802187860012054
+  train_reward: 0.697265625
+ policy step 1:
+  policy loss: 0.03799689687633266
+  grad norm: 0.014595808088779449
+  train_reward: 0.697265625
+ policy step 2:
+  policy loss: 0.04829690780024976
+  grad norm: 0.02029939852654934
+  train_reward: 0.697265625
+ policy step 3:
+  policy loss: 0.051907295337878176
+  grad norm: 0.025716234371066092
+  train_reward: 0.697265625
+ policy step 4:
+  policy loss: 0.05272611203448228
+  grad norm: 0.03139222078025341
+  train_reward: 0.697265625
+epoch: 253:
+ value_loss: 0.36375373005867007
+ policy step 0:
+  policy loss: 0.007540464897950491
+  grad norm: 0.005232185125350952
+  train_reward: 0.75
+ policy step 1:
+  policy loss: 0.0382000949854652
+  grad norm: 0.013924694806337356
+  train_reward: 0.75
+ policy step 2:
+  policy loss: 0.03891116951902706
+  grad norm: 0.02132391110062599
+  train_reward: 0.75
+ policy step 3:
+  policy loss: 0.04691007044166326
+  grad norm: 0.02672650068998337
+  train_reward: 0.75
+ policy step 4:
+  policy loss: 0.020877039122084766
+  grad norm: 0.034349816292524336
+  train_reward: 0.75
+epoch: 254:
+ value_loss: 0.28100165724754333
+ policy step 0:
+  policy loss: 0.0021334196440875534
+  grad norm: 0.006896006315946579
+  train_reward: 0.76806640625
+ policy step 1:
+  policy loss: -0.017270129267126323
+  grad norm: 0.012488311156630516
+  train_reward: 0.76806640625
+ policy step 2:
+  policy loss: -0.007430581189692023
+  grad norm: 0.016834090650081634
+  train_reward: 0.76806640625
+ policy step 3:
+  policy loss: 0.000246054120361802
+  grad norm: 0.0239034429192543
+  train_reward: 0.76806640625
+ policy step 4:
+  policy loss: 0.026347743036846314
+  grad norm: 0.031035462766885756
+  train_reward: 0.76806640625
+epoch: 255:
+ value_loss: 0.242798587679863
+ policy step 0:
+  policy loss: 0.0059027383103966696
+  grad norm: 0.0050497595220804214
+  train_reward: 0.39892578125
+ policy step 1:
+  policy loss: -7.952563464641354e-06
+  grad norm: 0.011012542992830276
+  train_reward: 0.39892578125
+ policy step 2:
+  policy loss: 0.011995991645380852
+  grad norm: 0.01615668311715126
+  train_reward: 0.39892578125
+ policy step 3:
+  policy loss: 0.012707879867715138
+  grad norm: 0.02183849699795246
+  train_reward: 0.39892578125
+ policy step 4:
+  policy loss: -0.031066822997915255
+  grad norm: 0.026935463026165958
+  train_reward: 0.39892578125
+epoch: 256:
+ value_loss: 0.3987519085407257
+ policy step 0:
+  policy loss: -0.009270917096485696
+  grad norm: 0.011817502230405808
+  train_reward: 0.421142578125
+ policy step 1:
+  policy loss: 0.000648177616919079
+  grad norm: 0.016539203375577925
+  train_reward: 0.421142578125
+ policy step 2:
+  policy loss: 0.0016132688925911986
+  grad norm: 0.021373120695352552
+  train_reward: 0.421142578125
+ policy step 3:
+  policy loss: -0.01481025847606361
+  grad norm: 0.028253445029258726
+  train_reward: 0.421142578125
+ policy step 4:
+  policy loss: -0.0015660506517936792
+  grad norm: 0.03484581410884857
+  train_reward: 0.421142578125
+epoch: 257:
+ value_loss: 0.46284530162811277
+ policy step 0:
+  policy loss: -0.013364858552813528
+  grad norm: 0.006667962670326233
+  train_reward: 0.61279296875
+ policy step 1:
+  policy loss: -0.004210883689423399
+  grad norm: 0.013824506849050521
+  train_reward: 0.61279296875
+ policy step 2:
+  policy loss: 0.007416536845266825
+  grad norm: 0.019756771624088287
+  train_reward: 0.61279296875
+ policy step 3:
+  policy loss: -0.0025051740929484326
+  grad norm: 0.02526759058237076
+  train_reward: 0.61279296875
+ policy step 4:
+  policy loss: -0.04725874432673056
+  grad norm: 0.031156546995043756
+  train_reward: 0.61279296875
+epoch: 258:
+ value_loss: 0.37698301672935486
+ policy step 0:
+  policy loss: -0.035903454571962354
+  grad norm: 0.0055168747901916506
+  train_reward: 0.84912109375
+ policy step 1:
+  policy loss: -0.059580259894331286
+  grad norm: 0.014223933219909668
+  train_reward: 0.84912109375
+ policy step 2:
+  policy loss: -0.10695046310623485
+  grad norm: 0.020157847180962564
+  train_reward: 0.84912109375
+ policy step 3:
+  policy loss: -0.1206195959821343
+  grad norm: 0.024440977722406387
+  train_reward: 0.84912109375
+ policy step 4:
+  policy loss: -0.13860129124174506
+  grad norm: 0.033978017419576644
+  train_reward: 0.84912109375
+epoch: 259:
+ value_loss: 0.4976069688796997
+ policy step 0:
+  policy loss: 0.005382401744524635
+  grad norm: 0.00996040478348732
+  train_reward: 0.4541015625
+ policy step 1:
+  policy loss: 0.00026597132285435636
+  grad norm: 0.015895376354455946
+  train_reward: 0.4541015625
+ policy step 2:
+  policy loss: 0.03111459091305732
+  grad norm: 0.023661566525697706
+  train_reward: 0.4541015625
+ policy step 3:
+  policy loss: 0.03079037582501768
+  grad norm: 0.030284851044416423
+  train_reward: 0.4541015625
+ policy step 4:
+  policy loss: 0.05812699338421225
+  grad norm: 0.0448454700410366
+  train_reward: 0.4541015625
+epoch: 260:
+ value_loss: 0.504104506969452
+ policy step 0:
+  policy loss: -0.001591831756134829
+  grad norm: 0.004849003627896309
+  train_reward: 0.33935546875
+ policy step 1:
+  policy loss: -0.03272051531821489
+  grad norm: 0.010848797857761383
+  train_reward: 0.33935546875
+ policy step 2:
+  policy loss: -0.01995261662329236
+  grad norm: 0.017007721588015556
+  train_reward: 0.33935546875
+ policy step 3:
+  policy loss: -0.009362779216219974
+  grad norm: 0.023638833686709403
+  train_reward: 0.33935546875
+ policy step 4:
+  policy loss: -0.021959281371285513
+  grad norm: 0.030422722920775414
+  train_reward: 0.33935546875
+epoch: 261:
+ value_loss: 0.3230562627315521
+ policy step 0:
+  policy loss: 0.03488722440476219
+  grad norm: 0.007682686299085617
+  train_reward: 0.5234375
+ policy step 1:
+  policy loss: 0.052020570884148284
+  grad norm: 0.014278291910886764
+  train_reward: 0.5234375
+ policy step 2:
+  policy loss: 0.02895591929554941
+  grad norm: 0.02438400685787201
+  train_reward: 0.5234375
+ policy step 3:
+  policy loss: 0.0004915458150208203
+  grad norm: 0.02918630577623844
+  train_reward: 0.5234375
+ policy step 4:
+  policy loss: 0.00020991386845709697
+  grad norm: 0.035968486592173575
+  train_reward: 0.5234375
+epoch: 262:
+ value_loss: 0.37822907567024233
+ policy step 0:
+  policy loss: -0.012596867854396503
+  grad norm: 0.012198761105537415
+  train_reward: 0.77001953125
+ policy step 1:
+  policy loss: 0.003981835007046661
+  grad norm: 0.021391426771879198
+  train_reward: 0.77001953125
+ policy step 2:
+  policy loss: -0.01294913035817444
+  grad norm: 0.028326126933097842
+  train_reward: 0.77001953125
+ policy step 3:
+  policy loss: -0.012237148964777582
+  grad norm: 0.035765586793422705
+  train_reward: 0.77001953125
+ policy step 4:
+  policy loss: -0.04827732665774722
+  grad norm: 0.045158239454030996
+  train_reward: 0.77001953125
+epoch: 263:
+ value_loss: 0.3928940176963806
+ policy step 0:
+  policy loss: -0.041577974893152715
+  grad norm: 0.0056136265397071835
+  train_reward: 0.82763671875
+ policy step 1:
+  policy loss: -0.03935399604961276
+  grad norm: 0.011569058895111083
+  train_reward: 0.82763671875
+ policy step 2:
+  policy loss: -0.04394078253147503
+  grad norm: 0.01635870710015297
+  train_reward: 0.82763671875
+ policy step 3:
+  policy loss: -0.01360387220047414
+  grad norm: 0.040495782345533374
+  train_reward: 0.82763671875
+ policy step 4:
+  policy loss: -0.0008880226290784747
+  grad norm: 0.04502005763351918
+  train_reward: 0.82763671875
+epoch: 264:
+ value_loss: 0.2928890883922577
+ policy step 0:
+  policy loss: -0.008324275941898423
+  grad norm: 0.006383068859577179
+  train_reward: 0.841796875
+ policy step 1:
+  policy loss: -0.02294642779355248
+  grad norm: 0.01187417171895504
+  train_reward: 0.841796875
+ policy step 2:
+  policy loss: -0.011741958465427168
+  grad norm: 0.01821785680949688
+  train_reward: 0.841796875
+ policy step 3:
+  policy loss: 0.010264377513279507
+  grad norm: 0.02394460812211037
+  train_reward: 0.841796875
+ policy step 4:
+  policy loss: 0.012534080414722353
+  grad norm: 0.03350849449634552
+  train_reward: 0.841796875
+epoch: 265:
+ value_loss: 0.4146279335021973
+ policy step 0:
+  policy loss: 0.023437995525697867
+  grad norm: 0.005581033229827881
+  train_reward: 0.482666015625
+ policy step 1:
+  policy loss: 0.04542941208928823
+  grad norm: 0.011821493878960608
+  train_reward: 0.482666015625
+ policy step 2:
+  policy loss: 0.05958492264617234
+  grad norm: 0.01882798634469509
+  train_reward: 0.482666015625
+ policy step 3:
+  policy loss: 0.07450742900837212
+  grad norm: 0.02568162940442562
+  train_reward: 0.482666015625
+ policy step 4:
+  policy loss: 0.08212282613385469
+  grad norm: 0.03565567918121815
+  train_reward: 0.482666015625
+epoch: 266:
+ value_loss: 0.6920989751815796
+ policy step 0:
+  policy loss: 0.06509004294251403
+  grad norm: 0.01371418833732605
+  train_reward: 0.212890625
+ policy step 1:
+  policy loss: 0.13911765748634938
+  grad norm: 0.023720379173755645
+  train_reward: 0.212890625
+ policy step 2:
+  policy loss: 0.08663264050458867
+  grad norm: 0.030757127702236174
+  train_reward: 0.212890625
+ policy step 3:
+  policy loss: 0.07868280730520685
+  grad norm: 0.03727253749966621
+  train_reward: 0.212890625
+ policy step 4:
+  policy loss: 0.1270804356162747
+  grad norm: 0.05097256526350975
+  train_reward: 0.212890625
+epoch: 267:
+ value_loss: 0.5932115197181702
+ policy step 0:
+  policy loss: 0.006540162737170854
+  grad norm: 0.005812444537878036
+  train_reward: 0.4033203125
+ policy step 1:
+  policy loss: 0.050226916341731945
+  grad norm: 0.01399279311299324
+  train_reward: 0.4033203125
+ policy step 2:
+  policy loss: 0.022521853850533565
+  grad norm: 0.022510499507188794
+  train_reward: 0.4033203125
+ policy step 3:
+  policy loss: 0.05534935298686226
+  grad norm: 0.03198234587907791
+  train_reward: 0.4033203125
+ policy step 4:
+  policy loss: 0.03642725256892541
+  grad norm: 0.03933795616030693
+  train_reward: 0.4033203125
+epoch: 268:
+ value_loss: 0.6315955042839051
+ policy step 0:
+  policy loss: 0.03229510470603903
+  grad norm: 0.006171704083681106
+  train_reward: 0.60400390625
+ policy step 1:
+  policy loss: 0.06220527714273583
+  grad norm: 0.013236267119646072
+  train_reward: 0.60400390625
+ policy step 2:
+  policy loss: 0.08522479385913662
+  grad norm: 0.02193494886159897
+  train_reward: 0.60400390625
+ policy step 3:
+  policy loss: 0.0984997635163988
+  grad norm: 0.028862126916646958
+  train_reward: 0.60400390625
+ policy step 4:
+  policy loss: 0.11518473253430184
+  grad norm: 0.035655190050601956
+  train_reward: 0.60400390625
+epoch: 269:
+ value_loss: 0.6012949466705322
+ policy step 0:
+  policy loss: 0.012111955384413398
+  grad norm: 0.007820367813110352
+  train_reward: 0.9013671875
+ policy step 1:
+  policy loss: 0.0515068281441927
+  grad norm: 0.019157073646783828
+  train_reward: 0.9013671875
+ policy step 2:
+  policy loss: 0.06469142797092599
+  grad norm: 0.044501493126153945
+  train_reward: 0.9013671875
+ policy step 3:
+  policy loss: 0.06995784077250089
+  grad norm: 0.051745559275150295
+  train_reward: 0.9013671875
+ policy step 4:
+  policy loss: 0.04677152269287033
+  grad norm: 0.06035209447145462
+  train_reward: 0.9013671875
+epoch: 270:
+ value_loss: 0.5799318313598633
+ policy step 0:
+  policy loss: -0.017125509958714244
+  grad norm: 0.004833152890205384
+  train_reward: 0.8134765625
+ policy step 1:
+  policy loss: 0.0004118257823089791
+  grad norm: 0.012378445267677307
+  train_reward: 0.8134765625
+ policy step 2:
+  policy loss: 0.03512585029626887
+  grad norm: 0.018485722690820695
+  train_reward: 0.8134765625
+ policy step 3:
+  policy loss: 0.03330371732590721
+  grad norm: 0.026521249860525134
+  train_reward: 0.8134765625
+ policy step 4:
+  policy loss: 0.005758917801237356
+  grad norm: 0.03445526733994484
+  train_reward: 0.8134765625
+epoch: 271:
+ value_loss: 0.41944007277488704
+ policy step 0:
+  policy loss: -0.03839617683552205
+  grad norm: 0.00654112845659256
+  train_reward: 0.7890625
+ policy step 1:
+  policy loss: -0.04995001891317467
+  grad norm: 0.01371605470776558
+  train_reward: 0.7890625
+ policy step 2:
+  policy loss: -0.07117582069089017
+  grad norm: 0.02068668380379677
+  train_reward: 0.7890625
+ policy step 3:
+  policy loss: -0.07752340671916805
+  grad norm: 0.02753838822245598
+  train_reward: 0.7890625
+ policy step 4:
+  policy loss: -0.0726461555808783
+  grad norm: 0.03463709130883217
+  train_reward: 0.7890625
+epoch: 272:
+ value_loss: 0.3197576284408569
+ policy step 0:
+  policy loss: -0.0004764228632363173
+  grad norm: 0.007480122894048691
+  train_reward: 0.888671875
+ policy step 1:
+  policy loss: -0.016912028616449484
+  grad norm: 0.013468237966299056
+  train_reward: 0.888671875
+ policy step 2:
+  policy loss: -0.004785116191487759
+  grad norm: 0.019602953270077703
+  train_reward: 0.888671875
+ policy step 3:
+  policy loss: -0.03311669992981479
+  grad norm: 0.029088754579424857
+  train_reward: 0.888671875
+ policy step 4:
+  policy loss: -0.08471224313058583
+  grad norm: 0.03521203249692917
+  train_reward: 0.888671875
+epoch: 273:
+ value_loss: 0.34136250615119934
+ policy step 0:
+  policy loss: -0.029558663109006976
+  grad norm: 0.0061582416296005246
+  train_reward: 1.0439453125
+ policy step 1:
+  policy loss: -0.06754865016943465
+  grad norm: 0.01220976822078228
+  train_reward: 1.0439453125
+ policy step 2:
+  policy loss: -0.09943149863587074
+  grad norm: 0.019853758439421654
+  train_reward: 1.0439453125
+ policy step 3:
+  policy loss: -0.1376546903959631
+  grad norm: 0.024880869686603545
+  train_reward: 1.0439453125
+ policy step 4:
+  policy loss: -0.16522346512841374
+  grad norm: 0.031815603375434875
+  train_reward: 1.0439453125
+epoch: 274:
+ value_loss: 0.38298718333244325
+ policy step 0:
+  policy loss: 0.0049949951469898226
+  grad norm: 0.007553616166114807
+  train_reward: 0.9677734375
+ policy step 1:
+  policy loss: -0.03116053924895823
+  grad norm: 0.01412905529141426
+  train_reward: 0.9677734375
+ policy step 2:
+  policy loss: -0.09209988699294627
+  grad norm: 0.020564402639865875
+  train_reward: 0.9677734375
+ policy step 3:
+  policy loss: -0.12865737178362907
+  grad norm: 0.030482254177331924
+  train_reward: 0.9677734375
+ policy step 4:
+  policy loss: -0.16985056932705142
+  grad norm: 0.0376113623380661
+  train_reward: 0.9677734375
+epoch: 275:
+ value_loss: 0.4051020383834839
+ policy step 0:
+  policy loss: -9.364712362487908e-05
+  grad norm: 0.007549968361854553
+  train_reward: 0.330078125
+ policy step 1:
+  policy loss: -0.027318061919262004
+  grad norm: 0.015330276638269424
+  train_reward: 0.330078125
+ policy step 2:
+  policy loss: -0.043498996179550886
+  grad norm: 0.023882942646741866
+  train_reward: 0.330078125
+ policy step 3:
+  policy loss: -0.021829580857108025
+  grad norm: 0.030803026258945463
+  train_reward: 0.330078125
+ policy step 4:
+  policy loss: 0.007167429383844149
+  grad norm: 0.04158348590135574
+  train_reward: 0.330078125
+epoch: 276:
+ value_loss: 0.45541354417800906
+ policy step 0:
+  policy loss: 0.019811194428863622
+  grad norm: 0.016183342039585113
+  train_reward: -0.1820068359375
+ policy step 1:
+  policy loss: -0.01227667824520419
+  grad norm: 0.028336790949106218
+  train_reward: -0.1820068359375
+ policy step 2:
+  policy loss: 0.0156815657314534
+  grad norm: 0.03730119615793229
+  train_reward: -0.1820068359375
+ policy step 3:
+  policy loss: 0.04379645470374574
+  grad norm: 0.04195997491478921
+  train_reward: -0.1820068359375
+ policy step 4:
+  policy loss: 0.04496348652367789
+  grad norm: 0.04986586719751358
+  train_reward: -0.1820068359375
+epoch: 277:
+ value_loss: 0.33343908190727234
+ policy step 0:
+  policy loss: 0.06329172104597092
+  grad norm: 0.007618866115808487
+  train_reward: -0.1602783203125
+ policy step 1:
+  policy loss: 0.06173178926110269
+  grad norm: 0.013643433898687364
+  train_reward: -0.1602783203125
+ policy step 2:
+  policy loss: 0.0784536843498548
+  grad norm: 0.022425926476716998
+  train_reward: -0.1602783203125
+ policy step 3:
+  policy loss: 0.09194370176022253
+  grad norm: 0.028339638188481335
+  train_reward: -0.1602783203125
+ policy step 4:
+  policy loss: 0.1321000185174247
+  grad norm: 0.03481038101017476
+  train_reward: -0.1602783203125
+epoch: 278:
+ value_loss: 0.38596625328063966
+ policy step 0:
+  policy loss: -0.020472042138377826
+  grad norm: 0.008749818801879883
+  train_reward: 0.27783203125
+ policy step 1:
+  policy loss: -0.06862677168101072
+  grad norm: 0.021767206490039825
+  train_reward: 0.27783203125
+ policy step 2:
+  policy loss: -0.05649224423492948
+  grad norm: 0.02866300642490387
+  train_reward: 0.27783203125
+ policy step 3:
+  policy loss: -0.05550605421885847
+  grad norm: 0.0349268302321434
+  train_reward: 0.27783203125
+ policy step 4:
+  policy loss: -0.04937622486031614
+  grad norm: 0.042517468333244324
+  train_reward: 0.27783203125
+epoch: 279:
+ value_loss: 0.7083554625511169
+ policy step 0:
+  policy loss: 0.01222676113247871
+  grad norm: 0.008427055180072784
+  train_reward: 0.67919921875
+ policy step 1:
+  policy loss: -0.019906561697522803
+  grad norm: 0.018617691844701766
+  train_reward: 0.67919921875
+ policy step 2:
+  policy loss: -0.06323294825851916
+  grad norm: 0.026821101456880568
+  train_reward: 0.67919921875
+ policy step 3:
+  policy loss: -0.05165544727351517
+  grad norm: 0.03904766291379928
+  train_reward: 0.67919921875
+ policy step 4:
+  policy loss: -0.10906583354032288
+  grad norm: 0.044743238016963005
+  train_reward: 0.67919921875
+epoch: 280:
+ value_loss: 0.8116269588470459
+ policy step 0:
+  policy loss: -0.0207840238387386
+  grad norm: 0.005799302831292152
+  train_reward: 0.861328125
+ policy step 1:
+  policy loss: -0.04688145636270443
+  grad norm: 0.012484725937247277
+  train_reward: 0.861328125
+ policy step 2:
+  policy loss: 0.003133010926345988
+  grad norm: 0.024814778938889503
+  train_reward: 0.861328125
+ policy step 3:
+  policy loss: 0.025923821888864038
+  grad norm: 0.03931725211441517
+  train_reward: 0.861328125
+ policy step 4:
+  policy loss: 0.04434200605998437
+  grad norm: 0.04752539284527302
+  train_reward: 0.861328125
+epoch: 281:
+ value_loss: 0.5459784626960754
+ policy step 0:
+  policy loss: -0.009002220785866183
+  grad norm: 0.008646744489669799
+  train_reward: 1.037109375
+ policy step 1:
+  policy loss: -0.004899775454153616
+  grad norm: 0.016668565571308136
+  train_reward: 1.037109375
+ policy step 2:
+  policy loss: -0.02072996568555633
+  grad norm: 0.022029756754636764
+  train_reward: 1.037109375
+ policy step 3:
+  policy loss: -0.045481992916514474
+  grad norm: 0.025786784291267396
+  train_reward: 1.037109375
+ policy step 4:
+  policy loss: -0.02635094316210598
+  grad norm: 0.03925571143627167
+  train_reward: 1.037109375
+epoch: 282:
+ value_loss: 0.3399171471595764
+ policy step 0:
+  policy loss: -0.01210743747651577
+  grad norm: 0.005247850343585015
+  train_reward: 0.62939453125
+ policy step 1:
+  policy loss: 0.004201974832297612
+  grad norm: 0.01233590804040432
+  train_reward: 0.62939453125
+ policy step 2:
+  policy loss: -0.005117356835398825
+  grad norm: 0.017373359575867654
+  train_reward: 0.62939453125
+ policy step 3:
+  policy loss: -0.01808536257206773
+  grad norm: 0.023615464568138123
+  train_reward: 0.62939453125
+ policy step 4:
+  policy loss: -0.038765373015000174
+  grad norm: 0.029655865207314492
+  train_reward: 0.62939453125
+epoch: 283:
+ value_loss: 0.4147129535675049
+ policy step 0:
+  policy loss: 0.02763676693042119
+  grad norm: 0.012050832062959671
+  train_reward: 0.2176513671875
+ policy step 1:
+  policy loss: 0.022819125031431513
+  grad norm: 0.018987132608890532
+  train_reward: 0.2176513671875
+ policy step 2:
+  policy loss: 0.06243309999505679
+  grad norm: 0.026816049218177793
+  train_reward: 0.2176513671875
+ policy step 3:
+  policy loss: 0.11088302452117207
+  grad norm: 0.036746854335069655
+  train_reward: 0.2176513671875
+ policy step 4:
+  policy loss: 0.14145821146667006
+  grad norm: 0.044322019815444945
+  train_reward: 0.2176513671875
+epoch: 284:
+ value_loss: 0.32303500175476074
+ policy step 0:
+  policy loss: 0.008830482221674173
+  grad norm: 0.007032899558544159
+  train_reward: 0.330322265625
+ policy step 1:
+  policy loss: 0.006304757006000728
+  grad norm: 0.011183692887425423
+  train_reward: 0.330322265625
+ policy step 2:
+  policy loss: -0.0016429514119711997
+  grad norm: 0.016489265859127043
+  train_reward: 0.330322265625
+ policy step 3:
+  policy loss: 0.005355055960050476
+  grad norm: 0.021500108763575554
+  train_reward: 0.330322265625
+ policy step 4:
+  policy loss: 0.01814115254286056
+  grad norm: 0.029147214069962502
+  train_reward: 0.330322265625
+epoch: 285:
+ value_loss: 0.20936537384986875
+ policy step 0:
+  policy loss: -0.0060175582145651175
+  grad norm: 0.004326539859175682
+  train_reward: 0.7900390625
+ policy step 1:
+  policy loss: -0.012390920457740626
+  grad norm: 0.011046240851283074
+  train_reward: 0.7900390625
+ policy step 2:
+  policy loss: -0.016707592581709226
+  grad norm: 0.016940209642052652
+  train_reward: 0.7900390625
+ policy step 3:
+  policy loss: -0.04459221071253221
+  grad norm: 0.020680946111679078
+  train_reward: 0.7900390625
+ policy step 4:
+  policy loss: -0.06316923902680478
+  grad norm: 0.0260393500328064
+  train_reward: 0.7900390625
+epoch: 286:
+ value_loss: 0.1867120862007141
+ policy step 0:
+  policy loss: -0.015116207622728927
+  grad norm: 0.004059193655848503
+  train_reward: 0.58154296875
+ policy step 1:
+  policy loss: -0.013285605651132447
+  grad norm: 0.00956970676779747
+  train_reward: 0.58154296875
+ policy step 2:
+  policy loss: -0.014868190646908861
+  grad norm: 0.013050364702939988
+  train_reward: 0.58154296875
+ policy step 3:
+  policy loss: -0.02107511250748454
+  grad norm: 0.018063817545771597
+  train_reward: 0.58154296875
+ policy step 4:
+  policy loss: -0.036122340471289746
+  grad norm: 0.02961747832596302
+  train_reward: 0.58154296875
+epoch: 287:
+ value_loss: 0.22934610545635223
+ policy step 0:
+  policy loss: -0.0389458862443765
+  grad norm: 0.004957192018628121
+  train_reward: 0.6943359375
+ policy step 1:
+  policy loss: -0.029879138859299315
+  grad norm: 0.0094836737960577
+  train_reward: 0.6943359375
+ policy step 2:
+  policy loss: -0.01597961504303384
+  grad norm: 0.014452236890792846
+  train_reward: 0.6943359375
+ policy step 3:
+  policy loss: -0.017595838789323647
+  grad norm: 0.018105730414390564
+  train_reward: 0.6943359375
+ policy step 4:
+  policy loss: -0.027494642094825387
+  grad norm: 0.022829687967896462
+  train_reward: 0.6943359375
+epoch: 0:
+ value_loss: 29.17768096923828
+ policy step 0:
+  policy loss: -90.6556391398112
+  grad norm: nan
+  train_reward: 5.383465766906738
+ policy step 1:
+  policy loss: -182.58516286214197
+  grad norm: nan
+  train_reward: 5.383465766906738
+ policy step 2:
+  policy loss: -272.18115641276046
+  grad norm: nan
+  train_reward: 5.383465766906738
+ policy step 3:
+  policy loss: -360.4560450236003
+  grad norm: nan
+  train_reward: 5.383465766906738
+ policy step 4:
+  policy loss: -449.3237625122071
+  grad norm: nan
+  train_reward: 5.383465766906738
+epoch: 0:
+ value_loss: 28.799685668945315
+ policy step 0:
+  policy loss: -89.23437957763673
+  grad norm: nan
+  train_reward: 5.341660022735596
+ policy step 1:
+  policy loss: -179.3072006225586
+  grad norm: nan
+  train_reward: 5.341660022735596
+ policy step 2:
+  policy loss: -268.61198476155596
+  grad norm: nan
+  train_reward: 5.341660022735596
+ policy step 3:
+  policy loss: -359.1116409301757
+  grad norm: nan
+  train_reward: 5.341660022735596
+ policy step 4:
+  policy loss: -447.86807403564444
+  grad norm: nan
+  train_reward: 5.341660022735596
+epoch: 1:
+ value_loss: 29.99645156860352
+ policy step 0:
+  policy loss: -86.52047729492188
+  grad norm: nan
+  train_reward: 5.449510097503662
+ policy step 1:
+  policy loss: -172.90679016113285
+  grad norm: nan
+  train_reward: 5.449510097503662
+ policy step 2:
+  policy loss: -262.0243631998698
+  grad norm: nan
+  train_reward: 5.449510097503662
+ policy step 3:
+  policy loss: -349.35009562174486
+  grad norm: nan
+  train_reward: 5.449510097503662
+ policy step 4:
+  policy loss: -436.7253967285157
+  grad norm: nan
+  train_reward: 5.449510097503662
+epoch: 2:
+ value_loss: 27.69587097167969
+ policy step 0:
+  policy loss: -86.13293863932292
+  grad norm: 5.296866607666016
+  train_reward: 5.384293079376221
+ policy step 1:
+  policy loss: -171.72234598795572
+  grad norm: 11.383463287353516
+  train_reward: 5.384293079376221
+ policy step 2:
+  policy loss: -256.46026204427085
+  grad norm: 18.168904876708986
+  train_reward: 5.384293079376221
+ policy step 3:
+  policy loss: -342.4276667277018
+  grad norm: 26.42390594482422
+  train_reward: 5.384293079376221
+ policy step 4:
+  policy loss: -427.6625890096028
+  grad norm: 33.7504768371582
+  train_reward: 5.384293079376221
+epoch: 3:
+ value_loss: 26.987100219726564
+ policy step 0:
+  policy loss: -85.55283610026041
+  grad norm: 7.756008148193359
+  train_reward: 5.391720771789551
+ policy step 1:
+  policy loss: -172.98848978678387
+  grad norm: 14.276673126220704
+  train_reward: 5.391720771789551
+ policy step 2:
+  policy loss: -259.4078125
+  grad norm: 19.659578704833983
+  train_reward: 5.391720771789551
+ policy step 3:
+  policy loss: -340.9423171997071
+  grad norm: 24.641293716430663
+  train_reward: 5.391720771789551
+ policy step 4:
+  policy loss: -425.749739074707
+  grad norm: 31.508111190795898
+  train_reward: 5.391720771789551
